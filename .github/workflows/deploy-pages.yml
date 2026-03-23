@@ -6,7 +6,7 @@
 #
 # Pipeline: Checkout → Install → Lint → Build → Deploy
 #
-# Documentation: https://ai-act.docs.bauer-group.com
+# Documentation: https://nis2.docs.bauer-group.com
 # =============================================================================
 
 name: 📚 Deploy Documentation

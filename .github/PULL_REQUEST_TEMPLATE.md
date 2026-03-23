@@ -13,12 +13,12 @@
 - [ ] 🔧 Konfiguration / Build
 - [ ] 🐛 Fehlerbehebung
 
-## AI-Act-Bezug
+## NIS2-Bezug
 
-<!-- Welche AI-Act-Artikel oder Anforderungen betrifft diese Änderung? -->
+<!-- Welche NIS2/BSIG-Paragraphen oder Anforderungen betrifft diese Änderung? -->
 
-- **AI-Act-Artikel:** <!-- z.B. Art. 9, Art. 50, Art. 99 -->
-- **Betroffene Kapitel:** <!-- z.B. Kap. 4 Hochrisiko-KI -->
+- **BSIG-Paragraph:** <!-- z.B. §30 Abs. 2, §32, §38 -->
+- **Betroffene Kapitel:** <!-- z.B. Incident Response, Kryptografie -->
 - **Compliance-Matrix:** Keine Änderung / Aktualisiert
 
 ## Änderungen

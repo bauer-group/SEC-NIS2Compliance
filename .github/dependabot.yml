@@ -4,7 +4,7 @@
 # Keeps GitHub Actions and npm dependencies up to date.
 # Schedule: weekly on Sunday at 04:00 UTC.
 #
-# CRA Reference: Art. 10 Abs. 6 (timely security updates)
+# NIS2 Reference: §30 Abs. 2 Nr. 5 BSIG (timely security updates)
 # =============================================================================
 
 version: 2
@@ -53,3 +53,5 @@ updates:
           - "markdownlint-cli2"
           - "linkinator"
           - "rimraf"
+          - "husky"
+          - "lint-staged"
