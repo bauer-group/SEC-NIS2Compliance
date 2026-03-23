@@ -52,83 +52,110 @@ export const en: LocaleSpecificConfig<ThemeConfig> & { label: string; link: stri
           items: [
             { text: 'Overview', link: '/en/overview/' },
             { text: 'Regulatory Framework', link: '/en/overview/regulatory-framework' },
+            { text: 'CRA & AI Act Synergies', link: '/en/overview/synergies' },
           ]
         },
         {
           text: '2. Risk Management',
           collapsed: true,
           items: [
-            { text: 'Risk Analysis & ISMS', link: '/en/risk-management/' },
+            { text: 'Overview', link: '/en/risk-management/' },
+            { text: 'Information Security Policy', link: '/en/risk-management/isms-policy' },
+            { text: 'Risk Analysis', link: '/en/risk-management/risk-analysis' },
+            { text: 'Asset Inventory', link: '/en/risk-management/asset-inventory' },
           ]
         },
         {
           text: '3. Incident Management',
           collapsed: true,
           items: [
-            { text: 'Incident Response & Reporting', link: '/en/incident-management/' },
+            { text: 'Overview', link: '/en/incident-management/' },
+            { text: 'Incident Response Process', link: '/en/incident-management/response-process' },
+            { text: 'Reporting Obligations (§32)', link: '/en/incident-management/reporting' },
+            { text: 'Escalation & Communication', link: '/en/incident-management/escalation' },
           ]
         },
         {
           text: '4. Business Continuity',
           collapsed: true,
           items: [
-            { text: 'Backup, DR & Crisis Management', link: '/en/business-continuity/' },
+            { text: 'Overview', link: '/en/business-continuity/' },
+            { text: 'Backup Strategy', link: '/en/business-continuity/backup-strategy' },
+            { text: 'Disaster Recovery', link: '/en/business-continuity/disaster-recovery' },
+            { text: 'Crisis Management', link: '/en/business-continuity/crisis-management' },
           ]
         },
         {
           text: '5. Supply Chain Security',
           collapsed: true,
           items: [
-            { text: 'Vendor Assessment & Supply Chain', link: '/en/supply-chain/' },
+            { text: 'Overview', link: '/en/supply-chain/' },
+            { text: 'Vendor Assessment', link: '/en/supply-chain/vendor-assessment' },
+            { text: 'Contractual Requirements', link: '/en/supply-chain/contractual-requirements' },
           ]
         },
         {
           text: '6. Vulnerability Management',
           collapsed: true,
           items: [
-            { text: 'Scanning, Patching & Secure Development', link: '/en/vulnerability-management/' },
+            { text: 'Overview', link: '/en/vulnerability-management/' },
+            { text: 'Scanning & CVE Monitoring', link: '/en/vulnerability-management/scanning' },
+            { text: 'Patch Management', link: '/en/vulnerability-management/patch-management' },
+            { text: 'Secure Development', link: '/en/vulnerability-management/secure-development' },
           ]
         },
         {
           text: '7. Effectiveness Review',
           collapsed: true,
           items: [
-            { text: 'Audits, KPIs & Penetration Testing', link: '/en/effectiveness-review/' },
+            { text: 'Overview', link: '/en/effectiveness-review/' },
+            { text: 'Audit Program', link: '/en/effectiveness-review/audit-program' },
+            { text: 'KPIs & Metrics', link: '/en/effectiveness-review/kpis' },
           ]
         },
         {
           text: '8. Training & Awareness',
           collapsed: true,
           items: [
-            { text: 'Mandatory Training & Cyber Hygiene', link: '/en/training/' },
+            { text: 'Overview', link: '/en/training/' },
+            { text: 'Training Program', link: '/en/training/training-program' },
+            { text: 'Awareness & Cyber Hygiene', link: '/en/training/awareness' },
           ]
         },
         {
           text: '9. Cryptography',
           collapsed: true,
           items: [
-            { text: 'Encryption & Key Management', link: '/en/cryptography/' },
+            { text: 'Overview', link: '/en/cryptography/' },
+            { text: 'Encryption Standards', link: '/en/cryptography/encryption-standards' },
+            { text: 'Key Management', link: '/en/cryptography/key-management' },
           ]
         },
         {
           text: '10. Access Control',
           collapsed: true,
           items: [
-            { text: 'Authentication, MFA & Secure Communication', link: '/en/access-control/' },
+            { text: 'Overview', link: '/en/access-control/' },
+            { text: 'Authentication & MFA', link: '/en/access-control/authentication' },
+            { text: 'Authorization & Permissions', link: '/en/access-control/authorization' },
+            { text: 'Secure Communication', link: '/en/access-control/secure-communication' },
           ]
         },
         {
           text: '11. Governance',
           collapsed: true,
           items: [
-            { text: 'Management Duties & Structure', link: '/en/governance/' },
+            { text: 'Overview', link: '/en/governance/' },
+            { text: 'Management Duties (§38)', link: '/en/governance/management-duties' },
+            { text: 'Reporting & Structure', link: '/en/governance/reporting-structure' },
           ]
         },
         {
           text: '12. Compliance Matrix',
           collapsed: false,
           items: [
-            { text: 'Requirements Mapping & Synergies', link: '/en/compliance-matrix/' },
+            { text: 'Requirements Mapping', link: '/en/compliance-matrix/' },
+            { text: 'CRA & AI Act Synergies', link: '/en/compliance-matrix/synergies' },
           ]
         },
       ],

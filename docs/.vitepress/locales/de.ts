@@ -64,83 +64,110 @@ export const de: LocaleSpecificConfig<ThemeConfig> & { label: string; link: stri
           items: [
             { text: 'Übersicht', link: '/de/overview/' },
             { text: 'Regulatorischer Rahmen', link: '/de/overview/regulatory-framework' },
+            { text: 'CRA- & AI-Act-Synergien', link: '/de/overview/synergies' },
           ]
         },
         {
           text: '2. Risikomanagement',
           collapsed: true,
           items: [
-            { text: 'Risikoanalyse & ISMS', link: '/de/risk-management/' },
+            { text: 'Übersicht', link: '/de/risk-management/' },
+            { text: 'Informationssicherheitspolitik', link: '/de/risk-management/isms-policy' },
+            { text: 'Risikoanalyse', link: '/de/risk-management/risk-analysis' },
+            { text: 'Asset-Inventar', link: '/de/risk-management/asset-inventory' },
           ]
         },
         {
           text: '3. Vorfallmanagement',
           collapsed: true,
           items: [
-            { text: 'Incident Response & Meldepflichten', link: '/de/incident-management/' },
+            { text: 'Übersicht', link: '/de/incident-management/' },
+            { text: 'Incident-Response-Prozess', link: '/de/incident-management/response-process' },
+            { text: 'Meldepflichten (§32)', link: '/de/incident-management/reporting' },
+            { text: 'Eskalation & Kommunikation', link: '/de/incident-management/escalation' },
           ]
         },
         {
           text: '4. Business Continuity',
           collapsed: true,
           items: [
-            { text: 'Backup, DR & Krisenmanagement', link: '/de/business-continuity/' },
+            { text: 'Übersicht', link: '/de/business-continuity/' },
+            { text: 'Backup-Strategie', link: '/de/business-continuity/backup-strategy' },
+            { text: 'Disaster Recovery', link: '/de/business-continuity/disaster-recovery' },
+            { text: 'Krisenmanagement', link: '/de/business-continuity/crisis-management' },
           ]
         },
         {
           text: '5. Lieferkettensicherheit',
           collapsed: true,
           items: [
-            { text: 'Dienstleisterbewertung & Supply Chain', link: '/de/supply-chain/' },
+            { text: 'Übersicht', link: '/de/supply-chain/' },
+            { text: 'Dienstleisterbewertung', link: '/de/supply-chain/vendor-assessment' },
+            { text: 'Vertragliche Anforderungen', link: '/de/supply-chain/contractual-requirements' },
           ]
         },
         {
           text: '6. Schwachstellenmanagement',
           collapsed: true,
           items: [
-            { text: 'Scanning, Patching & Secure Development', link: '/de/vulnerability-management/' },
+            { text: 'Übersicht', link: '/de/vulnerability-management/' },
+            { text: 'Scanning & CVE-Monitoring', link: '/de/vulnerability-management/scanning' },
+            { text: 'Patch Management', link: '/de/vulnerability-management/patch-management' },
+            { text: 'Secure Development', link: '/de/vulnerability-management/secure-development' },
           ]
         },
         {
           text: '7. Wirksamkeitsprüfung',
           collapsed: true,
           items: [
-            { text: 'Audits, KPIs & Penetrationstests', link: '/de/effectiveness-review/' },
+            { text: 'Übersicht', link: '/de/effectiveness-review/' },
+            { text: 'Audit-Programm', link: '/de/effectiveness-review/audit-program' },
+            { text: 'KPIs & Metriken', link: '/de/effectiveness-review/kpis' },
           ]
         },
         {
           text: '8. Schulung & Awareness',
           collapsed: true,
           items: [
-            { text: 'Pflichtschulungen & Cyberhygiene', link: '/de/training/' },
+            { text: 'Übersicht', link: '/de/training/' },
+            { text: 'Schulungsprogramm', link: '/de/training/training-program' },
+            { text: 'Awareness & Cyberhygiene', link: '/de/training/awareness' },
           ]
         },
         {
           text: '9. Kryptografie',
           collapsed: true,
           items: [
-            { text: 'Verschlüsselung & Key Management', link: '/de/cryptography/' },
+            { text: 'Übersicht', link: '/de/cryptography/' },
+            { text: 'Verschlüsselungsstandards', link: '/de/cryptography/encryption-standards' },
+            { text: 'Key Management', link: '/de/cryptography/key-management' },
           ]
         },
         {
           text: '10. Zugriffskontrolle',
           collapsed: true,
           items: [
-            { text: 'Authentifizierung, MFA & sichere Kommunikation', link: '/de/access-control/' },
+            { text: 'Übersicht', link: '/de/access-control/' },
+            { text: 'Authentifizierung & MFA', link: '/de/access-control/authentication' },
+            { text: 'Autorisierung & Berechtigungen', link: '/de/access-control/authorization' },
+            { text: 'Sichere Kommunikation', link: '/de/access-control/secure-communication' },
           ]
         },
         {
           text: '11. Governance',
           collapsed: true,
           items: [
-            { text: 'Geschäftsleitungspflichten & Struktur', link: '/de/governance/' },
+            { text: 'Übersicht', link: '/de/governance/' },
+            { text: 'Geschäftsleitungspflichten (§38)', link: '/de/governance/management-duties' },
+            { text: 'Berichtswesen & Struktur', link: '/de/governance/reporting-structure' },
           ]
         },
         {
           text: '12. Compliance-Matrix',
           collapsed: false,
           items: [
-            { text: 'Anforderungszuordnung & Synergien', link: '/de/compliance-matrix/' },
+            { text: 'Anforderungszuordnung', link: '/de/compliance-matrix/' },
+            { text: 'CRA- & AI-Act-Synergien', link: '/de/compliance-matrix/synergies' },
           ]
         },
       ],
