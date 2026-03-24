@@ -47,3 +47,7 @@ Management participates at least annually in cybersecurity training covering:
 - NIS2/BSIG obligations and liability
 - Risk management and measure assessment
 - Incident response process and escalation
+
+::: tip AI Act Synergy
+The AI Act governance framework complements NIS2 governance requirements for AI-powered systems. Details in the [AI Act Governance Documentation](https://ai-act.docs.bauer-group.com/en/governance/).
+:::

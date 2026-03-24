@@ -40,3 +40,7 @@ New employees receive before system access:
 - Attendance records maintained centrally
 - Training completion is a prerequisite for system access rights
 - Annual evaluation of completion rates as KPI
+
+::: tip AI Act Synergy
+The AI competence program (Art. 4 AI Act) complements NIS2 training obligations. Details in the [AI Act Compliance Documentation](https://ai-act.docs.bauer-group.com/en/governance/).
+:::

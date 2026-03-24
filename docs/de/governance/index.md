@@ -47,3 +47,7 @@ Die Geschäftsleitung nimmt mindestens jährlich an einer Cybersicherheitsschulu
 - NIS2/BSIG-Pflichten und Haftung
 - Risikomanagement und Maßnahmenbewertung
 - Incident-Response-Prozess und Eskalation
+
+::: tip AI-Act-Synergie
+Das AI-Act-Governance-Framework ergänzt die NIS2-Governance-Anforderungen bei KI-gestützten Systemen. Details in der [AI-Act-Governance-Dokumentation](https://ai-act.docs.bauer-group.com/de/governance/).
+:::

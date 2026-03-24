@@ -45,3 +45,7 @@
 - NIS2/BSIG义务和责任
 - 风险管理和措施评估
 - 事件响应流程和升级
+
+::: tip AI法案协同效应
+AI法案治理框架补充了AI驱动系统的NIS2治理要求。详情请参阅[AI法案治理文档](https://ai-act.docs.bauer-group.com/zh/governance/)。
+:::

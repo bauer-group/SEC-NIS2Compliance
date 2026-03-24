@@ -38,3 +38,7 @@
 - 出勤记录集中管理
 - 培训完成是系统访问权的先决条件
 - 完成率作为KPI年度评估
+
+::: tip AI法案协同效应
+AI能力计划（AI法案第4条）补充了NIS2培训义务。详情请参阅[AI法案合规文档](https://ai-act.docs.bauer-group.com/zh/governance/)。
+:::

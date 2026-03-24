@@ -40,3 +40,7 @@ Neue Mitarbeiter erhalten vor Zugriff auf Systeme:
 - Teilnahmenachweise werden zentral geführt
 - Schulungsabschluss ist Voraussetzung für System-Zugriffsrechte
 - Jährliche Auswertung der Abschlussquoten als KPI
+
+::: tip AI-Act-Synergie
+Das KI-Kompetenzprogramm (Art. 4 AI Act) ergänzt die NIS2-Schulungspflichten. Details in der [AI-Act-Compliance-Dokumentation](https://ai-act.docs.bauer-group.com/de/governance/).
+:::
