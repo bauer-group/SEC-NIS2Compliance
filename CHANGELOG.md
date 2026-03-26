@@ -1,3 +1,9 @@
+## [0.6.0](https://github.com/bauer-group/SEC-NIS2Compliance/compare/v0.5.0...v0.6.0) (2026-03-26)
+
+### 🚀 Features
+
+* **seo:** add robots.txt and RSS feeds per locale ([1e3ef23](https://github.com/bauer-group/SEC-NIS2Compliance/commit/1e3ef2392aa72e3e8325501fb500987deaa2036d))
+
 ## [0.5.0](https://github.com/bauer-group/SEC-NIS2Compliance/compare/v0.4.0...v0.5.0) (2026-03-26)
 
 ### 🚀 Features
