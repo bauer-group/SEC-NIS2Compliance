@@ -1,3 +1,9 @@
+## [0.6.5](https://github.com/bauer-group/SEC-NIS2Compliance/compare/v0.6.4...v0.6.5) (2026-03-26)
+
+### 🐛 Bug Fixes
+
+* **rss:** implement per-locale feeds via URL filter ([4281e97](https://github.com/bauer-group/SEC-NIS2Compliance/commit/4281e972857ca0b4473eccaa9acb4369a47fe880))
+
 ## [0.6.4](https://github.com/bauer-group/SEC-NIS2Compliance/compare/v0.6.3...v0.6.4) (2026-03-26)
 
 ### 🐛 Bug Fixes
