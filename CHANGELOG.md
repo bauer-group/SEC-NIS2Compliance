@@ -1,3 +1,9 @@
+## [0.6.3](https://github.com/bauer-group/SEC-NIS2Compliance/compare/v0.6.2...v0.6.3) (2026-03-26)
+
+### 🐛 Bug Fixes
+
+* **config:** remove RSS icon from socialLinks (not locale-aware) ([02b2917](https://github.com/bauer-group/SEC-NIS2Compliance/commit/02b29176ee2b343d63009b5f1e70617aa3f68b80))
+
 ## [0.6.2](https://github.com/bauer-group/SEC-NIS2Compliance/compare/v0.6.1...v0.6.2) (2026-03-26)
 
 ### 🐛 Bug Fixes
