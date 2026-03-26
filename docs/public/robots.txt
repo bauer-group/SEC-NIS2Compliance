@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nis2.docs.bauer-group.com/sitemap.xml
