@@ -1,3 +1,9 @@
+## [0.4.0](https://github.com/bauer-group/SEC-NIS2Compliance/compare/v0.3.0...v0.4.0) (2026-03-26)
+
+### 🚀 Features
+
+* **seo:** add sitemap generation ([0f66597](https://github.com/bauer-group/SEC-NIS2Compliance/commit/0f66597c0055cbf45860af535a300ac66644fffc))
+
 ## [0.3.0](https://github.com/bauer-group/SEC-NIS2Compliance/compare/v0.2.0...v0.3.0) (2026-03-26)
 
 ### 🚀 Features
