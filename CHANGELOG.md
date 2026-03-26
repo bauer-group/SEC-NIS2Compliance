@@ -1,3 +1,9 @@
+## [0.6.6](https://github.com/bauer-group/SEC-NIS2Compliance/compare/v0.6.5...v0.6.6) (2026-03-26)
+
+### 🐛 Bug Fixes
+
+* **seo:** add hreflang to RSS auto-discovery link tags ([d9de133](https://github.com/bauer-group/SEC-NIS2Compliance/commit/d9de1333cc7d7c1a3bc1ad5f687e2d3370a14428))
+
 ## [0.6.5](https://github.com/bauer-group/SEC-NIS2Compliance/compare/v0.6.4...v0.6.5) (2026-03-26)
 
 ### 🐛 Bug Fixes
