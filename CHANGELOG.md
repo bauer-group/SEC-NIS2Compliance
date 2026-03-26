@@ -1,3 +1,9 @@
+## [0.6.2](https://github.com/bauer-group/SEC-NIS2Compliance/compare/v0.6.1...v0.6.2) (2026-03-26)
+
+### 🐛 Bug Fixes
+
+* **config:** prevent RSS plugin from replacing socialLinks ([07e67a4](https://github.com/bauer-group/SEC-NIS2Compliance/commit/07e67a4e9ac4f1c9bf05b444e6c1de3ebe18cfc2))
+
 ## [0.6.1](https://github.com/bauer-group/SEC-NIS2Compliance/compare/v0.6.0...v0.6.1) (2026-03-26)
 
 ### 🐛 Bug Fixes
