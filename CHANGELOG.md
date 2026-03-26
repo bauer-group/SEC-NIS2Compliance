@@ -1,3 +1,9 @@
+## [0.5.0](https://github.com/bauer-group/SEC-NIS2Compliance/compare/v0.4.0...v0.5.0) (2026-03-26)
+
+### 🚀 Features
+
+* **config:** enable image lazy loading for markdown images ([0dfe2a1](https://github.com/bauer-group/SEC-NIS2Compliance/commit/0dfe2a13ed78d44be389c3b73350231a66f59c68))
+
 ## [0.4.0](https://github.com/bauer-group/SEC-NIS2Compliance/compare/v0.3.0...v0.4.0) (2026-03-26)
 
 ### 🚀 Features
