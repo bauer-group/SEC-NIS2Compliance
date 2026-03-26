@@ -1,3 +1,9 @@
+## [0.6.4](https://github.com/bauer-group/SEC-NIS2Compliance/compare/v0.6.3...v0.6.4) (2026-03-26)
+
+### 🐛 Bug Fixes
+
+* **rss:** simplify to single feed.xml with auto-discovery ([899309a](https://github.com/bauer-group/SEC-NIS2Compliance/commit/899309a1b4c83ef411a0e9a2900a611098056603))
+
 ## [0.6.3](https://github.com/bauer-group/SEC-NIS2Compliance/compare/v0.6.2...v0.6.3) (2026-03-26)
 
 ### 🐛 Bug Fixes
