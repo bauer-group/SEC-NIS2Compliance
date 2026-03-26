@@ -1,3 +1,9 @@
+## [0.3.0](https://github.com/bauer-group/SEC-NIS2Compliance/compare/v0.2.0...v0.3.0) (2026-03-26)
+
+### 🚀 Features
+
+* **theme:** add print stylesheet for audit-ready documentation output ([e1a92fe](https://github.com/bauer-group/SEC-NIS2Compliance/commit/e1a92fe290ec5f36304a95d022e1dad850295a8d))
+
 ## [0.2.0](https://github.com/bauer-group/SEC-NIS2Compliance/compare/v0.1.0...v0.2.0) (2026-03-24)
 
 ### 🚀 Features
