@@ -1,3 +1,9 @@
+## [0.6.1](https://github.com/bauer-group/SEC-NIS2Compliance/compare/v0.6.0...v0.6.1) (2026-03-26)
+
+### 🐛 Bug Fixes
+
+* **deps:** resolve npm audit vulnerabilities ([4694fb1](https://github.com/bauer-group/SEC-NIS2Compliance/commit/4694fb1032078175ca5d6c1f371a825324b0a22b))
+
 ## [0.6.0](https://github.com/bauer-group/SEC-NIS2Compliance/compare/v0.5.0...v0.6.0) (2026-03-26)
 
 ### 🚀 Features
