@@ -8,11 +8,12 @@ export const en: LocaleSpecificConfig<ThemeConfig> & { label: string; link: stri
   description: 'NIS2 Directive – Compliance Documentation | BAUER GROUP',
 
   themeConfig: {
-    announcement: {
-      text: 'This document is under active development and has not been finalized.',
-      type: 'warning',
-      dismissible: true,
-    },
+    // Banner disabled — re-enable by uncommenting the object below if needed.
+    // announcement: {
+    //   text: 'This document is under active development and has not been finalized.',
+    //   type: 'warning',
+    //   dismissible: true,
+    // },
 
     nav: [
       { text: 'Introduction', link: '/en/overview/' },

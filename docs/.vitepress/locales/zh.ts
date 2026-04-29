@@ -8,11 +8,12 @@ export const zh: LocaleSpecificConfig<ThemeConfig> & { label: string; link: stri
   description: 'NIS2指令 – 合规文档 | BAUER GROUP',
 
   themeConfig: {
-    announcement: {
-      text: '本文档正在积极开发中，尚未最终定稿。',
-      type: 'warning',
-      dismissible: true,
-    },
+    // 横幅已禁用 — 如需重新启用，请取消下方对象的注释。
+    // announcement: {
+    //   text: '本文档正在积极开发中，尚未最终定稿。',
+    //   type: 'warning',
+    //   dismissible: true,
+    // },
 
     nav: [
       { text: '概述', link: '/zh/overview/' },

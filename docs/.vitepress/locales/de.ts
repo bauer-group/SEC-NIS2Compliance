@@ -12,11 +12,12 @@ export const de: LocaleSpecificConfig<ThemeConfig> & { label: string; link: stri
     // Announcement Banner
     // -----------------------------------------------------------------
 
-    announcement: {
-      text: 'Dieses Dokument befindet sich in aktiver Entwicklung und ist noch nicht finalisiert.',
-      type: 'warning',
-      dismissible: true,
-    },
+    // Banner deaktiviert — bei Bedarf erneut aktivieren, indem das Objekt unten unkommentiert wird.
+    // announcement: {
+    //   text: 'Dieses Dokument befindet sich in aktiver Entwicklung und ist noch nicht finalisiert.',
+    //   type: 'warning',
+    //   dismissible: true,
+    // },
 
     // -----------------------------------------------------------------
     // Navigation
