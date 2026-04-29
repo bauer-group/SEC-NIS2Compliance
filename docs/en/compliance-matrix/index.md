@@ -2,28 +2,41 @@
 
 Complete mapping of all NIS2 requirements to documentation, implementation and synergies.
 
+::: tip Effectiveness Review
+The **Last Effectiveness Review** column documents the evidence required under §30(2) No. 6 BSIG. Measures without a documented review in the current year are considered not effectively reviewed. The next scheduled effectiveness review is due 12 months after the last documented review.
+:::
+
 ## §30 BSIG – Risk Management Measures
 
-| No. | Measure | Documentation | Status |
-|-----|---------|---------------|--------|
-| 1 | Risk analysis and IT security concepts | [Risk Management](/en/risk-management/) | ✅ Implemented |
-| 2 | Incident handling | [Incident Management](/en/incident-management/) | ✅ Implemented |
-| 3 | Business continuity / BCM | [Business Continuity](/en/business-continuity/) | ✅ Implemented |
-| 4 | Supply chain security | [Supply Chain Security](/en/supply-chain/) | ✅ Implemented |
-| 5 | Secure acquisition, development, maintenance | [Vulnerability Management](/en/vulnerability-management/) | ✅ Implemented |
-| 6 | Effectiveness review | [Effectiveness Review](/en/effectiveness-review/) | ✅ Implemented |
-| 7 | Training & awareness | [Training & Awareness](/en/training/) | ✅ Implemented |
-| 8 | Cryptography | [Cryptography](/en/cryptography/) | ✅ Implemented |
-| 9 | Access control & personnel security | [Access Control](/en/access-control/) | ✅ Implemented |
-| 10 | MFA & secure communication | [Access Control](/en/access-control/) | ✅ Implemented |
+| No. | Measure | Documentation | Status | Last Effectiveness Review | Next Review |
+|-----|---------|---------------|--------|---------------------------|-------------|
+| 1 | Risk analysis and IT security concepts | [Risk Management](/en/risk-management/) | ✅ Implemented | 2026-03 | 2027-03 |
+| 2 | Incident handling | [Incident Management](/en/incident-management/) | ✅ Implemented | 2026-03 | 2027-03 |
+| 3 | Business continuity / BCM | [Business Continuity](/en/business-continuity/) | ✅ Implemented | 2026-03 | 2027-03 |
+| 4 | Supply chain security | [Supply Chain Security](/en/supply-chain/) | ✅ Implemented | 2026-03 | 2027-03 |
+| 5 | Secure acquisition, development, maintenance | [Vulnerability Management](/en/vulnerability-management/) | ✅ Implemented | 2026-03 | 2027-03 |
+| 6 | Effectiveness review | [Effectiveness Review](/en/effectiveness-review/) | ✅ Implemented | 2026-03 | 2027-03 |
+| 7 | Training & awareness | [Training & Awareness](/en/training/) | ✅ Implemented | 2026-03 | 2027-03 |
+| 8 | Cryptography | [Cryptography](/en/cryptography/) | ✅ Implemented | 2026-03 | 2027-03 |
+| 9 | Access control & personnel security | [Access Control](/en/access-control/) | ✅ Implemented | 2026-03 | 2027-03 |
+| 10 | MFA & secure communication | [Access Control](/en/access-control/) | ✅ Implemented | 2026-03 | 2027-03 |
 
 ## Additional BSIG Obligations
 
-| Section | Obligation | Documentation | Status |
-|---------|-----------|---------------|--------|
-| §32 | Reporting obligations | [Incident Management](/en/incident-management/) | ✅ Implemented |
-| §33 | Registration obligation | Organizationally implemented | ✅ Implemented |
-| §38 | Management duties | [Governance](/en/governance/) | ✅ Implemented |
+| Section | Obligation | Documentation | Status | Last Effectiveness Review | Next Review |
+|---------|-----------|---------------|--------|---------------------------|-------------|
+| §32 | Reporting obligations | [Incident Management](/en/incident-management/) | ✅ Implemented | 2026-03 | 2027-03 |
+| §33 | Registration obligation | Organizationally implemented | ✅ Implemented | 2026-03 | 2027-03 |
+| §38 | Management duties | [Governance](/en/governance/) | ✅ Implemented | 2026-03 | 2027-03 |
+
+## Status Legend
+
+| Symbol | Meaning |
+|--------|---------|
+| ✅ Implemented | Measure documented, deployed and last effectiveness review successful |
+| 🟡 In progress | Measure adopted, rollout ongoing, effectiveness review pending |
+| 🔴 Open | Measure required but not yet deployed |
+| ⏸️ Excluded | Measure not applicable (justification documented) |
 
 ## CRA Synergies
 

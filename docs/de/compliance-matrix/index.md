@@ -2,28 +2,41 @@
 
 Vollständige Zuordnung aller NIS2-Anforderungen zu Dokumentation, Umsetzung und Synergien.
 
+::: tip Wirksamkeitsprüfung
+Die Spalte **Letzte Wirksamkeitsprüfung** dokumentiert den Nachweis nach §30 Abs. 2 Nr. 6 BSIG. Maßnahmen ohne nachweisbare Prüfung im laufenden Jahr gelten als nicht wirksam überprüft. Die nächste turnusmäßige Wirksamkeitsprüfung erfolgt jeweils 12 Monate nach der letzten dokumentierten Prüfung.
+:::
+
 ## §30 BSIG – Risikomanagementmaßnahmen
 
-| Nr. | Maßnahme | Dokumentation | Status |
-|-----|----------|---------------|--------|
-| 1 | Risikoanalyse und IT-Sicherheitskonzepte | [Risikomanagement](/de/risk-management/) | ✅ Umgesetzt |
-| 2 | Bewältigung von Sicherheitsvorfällen | [Vorfallmanagement](/de/incident-management/) | ✅ Umgesetzt |
-| 3 | Aufrechterhaltung des Betriebs / BCM | [Business Continuity](/de/business-continuity/) | ✅ Umgesetzt |
-| 4 | Sicherheit der Lieferkette | [Lieferkettensicherheit](/de/supply-chain/) | ✅ Umgesetzt |
-| 5 | Sichere Beschaffung, Entwicklung, Wartung | [Schwachstellenmanagement](/de/vulnerability-management/) | ✅ Umgesetzt |
-| 6 | Wirksamkeitsprüfung | [Wirksamkeitsprüfung](/de/effectiveness-review/) | ✅ Umgesetzt |
-| 7 | Schulung & Awareness | [Schulung & Awareness](/de/training/) | ✅ Umgesetzt |
-| 8 | Kryptografie | [Kryptografie](/de/cryptography/) | ✅ Umgesetzt |
-| 9 | Zugriffskontrolle & Personalsicherheit | [Zugriffskontrolle](/de/access-control/) | ✅ Umgesetzt |
-| 10 | MFA & sichere Kommunikation | [Zugriffskontrolle](/de/access-control/) | ✅ Umgesetzt |
+| Nr. | Maßnahme | Dokumentation | Status | Letzte Wirksamkeitsprüfung | Nächste Prüfung |
+|-----|----------|---------------|--------|----------------------------|------------------|
+| 1 | Risikoanalyse und IT-Sicherheitskonzepte | [Risikomanagement](/de/risk-management/) | ✅ Umgesetzt | 2026-03 | 2027-03 |
+| 2 | Bewältigung von Sicherheitsvorfällen | [Vorfallmanagement](/de/incident-management/) | ✅ Umgesetzt | 2026-03 | 2027-03 |
+| 3 | Aufrechterhaltung des Betriebs / BCM | [Business Continuity](/de/business-continuity/) | ✅ Umgesetzt | 2026-03 | 2027-03 |
+| 4 | Sicherheit der Lieferkette | [Lieferkettensicherheit](/de/supply-chain/) | ✅ Umgesetzt | 2026-03 | 2027-03 |
+| 5 | Sichere Beschaffung, Entwicklung, Wartung | [Schwachstellenmanagement](/de/vulnerability-management/) | ✅ Umgesetzt | 2026-03 | 2027-03 |
+| 6 | Wirksamkeitsprüfung | [Wirksamkeitsprüfung](/de/effectiveness-review/) | ✅ Umgesetzt | 2026-03 | 2027-03 |
+| 7 | Schulung & Awareness | [Schulung & Awareness](/de/training/) | ✅ Umgesetzt | 2026-03 | 2027-03 |
+| 8 | Kryptografie | [Kryptografie](/de/cryptography/) | ✅ Umgesetzt | 2026-03 | 2027-03 |
+| 9 | Zugriffskontrolle & Personalsicherheit | [Zugriffskontrolle](/de/access-control/) | ✅ Umgesetzt | 2026-03 | 2027-03 |
+| 10 | MFA & sichere Kommunikation | [Zugriffskontrolle](/de/access-control/) | ✅ Umgesetzt | 2026-03 | 2027-03 |
 
 ## Weitere BSIG-Pflichten
 
-| Paragraph | Pflicht | Dokumentation | Status |
-|-----------|---------|---------------|--------|
-| §32 | Meldepflichten | [Vorfallmanagement](/de/incident-management/) | ✅ Umgesetzt |
-| §33 | Registrierungspflicht | Organisatorisch umgesetzt | ✅ Umgesetzt |
-| §38 | Geschäftsleitungspflichten | [Governance](/de/governance/) | ✅ Umgesetzt |
+| Paragraph | Pflicht | Dokumentation | Status | Letzte Wirksamkeitsprüfung | Nächste Prüfung |
+|-----------|---------|---------------|--------|----------------------------|------------------|
+| §32 | Meldepflichten | [Vorfallmanagement](/de/incident-management/) | ✅ Umgesetzt | 2026-03 | 2027-03 |
+| §33 | Registrierungspflicht | Organisatorisch umgesetzt | ✅ Umgesetzt | 2026-03 | 2027-03 |
+| §38 | Geschäftsleitungspflichten | [Governance](/de/governance/) | ✅ Umgesetzt | 2026-03 | 2027-03 |
+
+## Statuslegende
+
+| Symbol | Bedeutung |
+|--------|-----------|
+| ✅ Umgesetzt | Maßnahme dokumentiert, eingeführt und letzte Wirksamkeitsprüfung erfolgreich |
+| 🟡 In Umsetzung | Maßnahme beschlossen, Einführung läuft, Wirksamkeitsprüfung steht aus |
+| 🔴 Offen | Maßnahme erforderlich, aber noch nicht eingeführt |
+| ⏸️ Ausgenommen | Maßnahme nicht anwendbar (Begründung dokumentiert) |
 
 ## CRA-Synergien
 
