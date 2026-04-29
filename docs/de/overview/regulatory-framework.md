@@ -8,7 +8,7 @@
 | NIS2UmsuCG (Artikelgesetz) | In Kraft seit 06.12.2025 | Deutsche Umsetzung |
 | BSIG (Neufassung) | In Kraft seit 06.12.2025 | Zentrale Pflichtennorm |
 | Durchführungsverordnung (EU) 2024/2690 | In Kraft | Detaillierte technische Anforderungen |
-| KRITIS-Dachgesetz | Beschlossen 29.01.2026 | Physische Resilienz |
+| KRITIS-Dachgesetz (KRITIS-DachG) | In Kraft seit 17.03.2026 | Physische Resilienz (CER-Umsetzung) |
 
 ## Betroffenheit
 
@@ -41,6 +41,14 @@ Die NIS2-Richtlinie unterscheidet zwei Kategorien:
 | §32 BSIG | Meldepflichten bei erheblichen Sicherheitsvorfällen | [Vorfallmanagement](/de/incident-management/) |
 | §33 BSIG | Registrierungspflicht beim BSI | Organisatorisch umgesetzt |
 | §38 BSIG | Billigungs-, Überwachungs- und Schulungspflichten der Geschäftsleitung | [Governance](/de/governance/) |
+
+::: info KRITIS-DachG-Fristen
+
+- **17.03.2026** – Inkrafttreten (Bundesrat-Zustimmung am 06.03.2026)
+- **17.07.2026** – Frühester Beginn der Registrierungspflicht für identifizierte Kritische Anlagen (3-Monats-Frist nach Identifikation, nicht vor diesem Datum)
+- Das KRITIS-DachG ergänzt NIS2 um die **physische Resilienz** und setzt die EU-CER-Richtlinie ((EU) 2022/2557) in deutsches Recht um.
+
+:::
 
 ## Abgrenzung CRA / NIS2
 

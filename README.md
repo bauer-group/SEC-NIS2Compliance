@@ -12,7 +12,8 @@ Vollständige Compliance-Dokumentation für die **NIS2-Richtlinie** (Richtlinie 
 | --- | --- | --- |
 | **16.01.2023** | NIS2-Richtlinie (EU) 2022/2555 in Kraft | ✅ In Kraft |
 | **06.12.2025** | NIS2UmsuCG / BSIG-Neufassung in Kraft | ✅ In Kraft |
-| **29.01.2026** | KRITIS-Dachgesetz beschlossen | ✅ Beschlossen |
+| **17.03.2026** | KRITIS-Dachgesetz (KRITIS-DachG) in Kraft | ✅ In Kraft |
+| **17.07.2026** | KRITIS-DachG: Frühester Beginn der Registrierungspflicht (3 Monate nach Identifikation als Kritische Anlage) | 🟡 Vorbereitung |
 
 ## Projektstruktur
 

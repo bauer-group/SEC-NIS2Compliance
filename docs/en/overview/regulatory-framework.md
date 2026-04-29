@@ -8,7 +8,7 @@
 | NIS2UmsuCG (Omnibus Act) | In force since 06.12.2025 | German implementation |
 | BSIG (Revised) | In force since 06.12.2025 | Central obligations |
 | Implementing Regulation (EU) 2024/2690 | In force | Detailed technical requirements |
-| KRITIS Umbrella Act | Adopted 29.01.2026 | Physical resilience |
+| KRITIS Umbrella Act (KRITIS-DachG) | In force since 17.03.2026 | Physical resilience (CER implementation) |
 
 ## Applicability
 
@@ -41,6 +41,23 @@ The NIS2 Directive distinguishes two categories:
 | §32 BSIG | Reporting obligations for significant security incidents | [Incident Management](/en/incident-management/) |
 | §33 BSIG | Registration obligation with BSI | Organizationally implemented |
 | §38 BSIG | Approval, supervision and training obligations of management | [Governance](/en/governance/) |
+
+::: info KRITIS-DachG Deadlines
+
+- **17.03.2026** – Entry into force (Bundesrat approval on 06.03.2026)
+- **17.07.2026** – Earliest start of registration obligation for identified critical entities (3-month deadline after identification, not before this date)
+- The KRITIS-DachG complements NIS2 with **physical resilience** and transposes the EU CER Directive ((EU) 2022/2557) into German law.
+
+:::
+
+## NIS2 vs CRA Demarcation
+
+| Criterion | NIS2 | CRA |
+|-----------|------|-----|
+| **Regulatory subject** | Operators (entities) | Products with digital elements |
+| **Legal form** | Directive (national transposition) | Regulation (directly applicable) |
+| **Focus** | Operational security (risk management) | Product security (security by design) |
+| **Reporting** | CSIRT (24h/72h/1 month) | ENISA (24h/72h/14d) |
 
 ::: tip CRA Synergy
 CRA-compliant processes (vulnerability management, incident response, supply chain) largely fulfil the corresponding NIS2 requirements. Details in the [CRA Compliance Documentation](https://cra.docs.bauer-group.com/en/overview/nis2-integration).
