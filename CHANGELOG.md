@@ -1,3 +1,10 @@
+## [0.7.0](https://github.com/bauer-group/SEC-NIS2Compliance/compare/v0.6.6...v0.7.0) (2026-04-29)
+
+### 🚀 Features
+
+* **compliance-matrix:** ergaenzte Spalten zur Wirksamkeitspruefung ([fe3a3c8](https://github.com/bauer-group/SEC-NIS2Compliance/commit/fe3a3c8f57883f8f194c2f910b57c9e1a5f76e74))
+* **templates:** ergaenzte Audit-Templates in DE/EN/ZH ([5606273](https://github.com/bauer-group/SEC-NIS2Compliance/commit/560627375d3b95254811ef739368a633aa2f0961))
+
 ## [0.6.6](https://github.com/bauer-group/SEC-NIS2Compliance/compare/v0.6.5...v0.6.6) (2026-03-26)
 
 ### 🐛 Bug Fixes
