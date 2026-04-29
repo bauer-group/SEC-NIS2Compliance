@@ -32,7 +32,8 @@ Vollständige Compliance-Dokumentation für die **NIS2-Richtlinie** (Richtlinie 
 │   │   ├── cryptography/          # 9. Kryptografie (§30 Nr. 8)
 │   │   ├── access-control/        # 10. Zugriffskontrolle & MFA (§30 Nr. 9-10)
 │   │   ├── governance/            # 11. Governance (§38)
-│   │   └── compliance-matrix/     # 12. Compliance-Matrix
+│   │   ├── compliance-matrix/     # 12. Compliance-Matrix
+│   │   └── templates/             # A. Vorlagen (Risiko-Register, §32-Meldung, DR-Test, Lieferantenbewertung, Schulung, §38-Billigung, Lessons Learned)
 │   ├── en/                        # Englische Dokumentation
 │   ├── zh/                        # Chinesische Dokumentation (简体中文)
 │   ├── public/                    # Statische Assets (Logo, Favicon)
@@ -62,7 +63,8 @@ Vollständige Compliance-Dokumentation für die **NIS2-Richtlinie** (Richtlinie 
 | **9** | Kryptografie | Nr. 8 | BSI/ISO-Standards, Key Management, Zertifikate |
 | **10** | Zugriffskontrolle | Nr. 9–10 | MFA, Zugriffskontrolle, sichere Kommunikation |
 | **11** | Governance | §38 | Geschäftsleitungspflichten, Governance-Struktur |
-| **12** | Compliance-Matrix | Alle | §30-Zuordnung, CRA/AI-Act-Synergien |
+| **12** | Compliance-Matrix | Alle | §30-Zuordnung, CRA/AI-Act-Synergien, Wirksamkeitsprüfungs-Tracking |
+| **A** | Vorlagen | Alle | Risiko-Register, §32-Meldevorlage, DR-Test, Lieferantenbewertung, Schulungsnachweis, §38-Billigung, Lessons Learned |
 
 ### NIS2-Abdeckung
 

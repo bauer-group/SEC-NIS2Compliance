@@ -50,6 +50,7 @@ export const de: LocaleSpecificConfig<ThemeConfig> & { label: string; link: stri
         ]
       },
       { text: 'Compliance-Matrix', link: '/de/compliance-matrix/' },
+      { text: 'Vorlagen', link: '/de/templates/' },
     ],
 
     // -----------------------------------------------------------------
@@ -168,6 +169,20 @@ export const de: LocaleSpecificConfig<ThemeConfig> & { label: string; link: stri
           items: [
             { text: 'Anforderungszuordnung', link: '/de/compliance-matrix/' },
             { text: 'CRA- & AI-Act-Synergien', link: '/de/compliance-matrix/synergies' },
+          ]
+        },
+        {
+          text: 'A. Vorlagen',
+          collapsed: true,
+          items: [
+            { text: 'Übersicht', link: '/de/templates/' },
+            { text: 'Risiko-Register', link: '/de/templates/risk-register' },
+            { text: '§32-Meldevorlage', link: '/de/templates/incident-report' },
+            { text: 'DR-Testprotokoll', link: '/de/templates/dr-test-protocol' },
+            { text: 'Lieferantenbewertung', link: '/de/templates/vendor-assessment' },
+            { text: 'Schulungsnachweis', link: '/de/templates/training-record' },
+            { text: 'Geschäftsleitungs-Billigung', link: '/de/templates/management-approval' },
+            { text: 'Lessons-Learned-Protokoll', link: '/de/templates/lessons-learned' },
           ]
         },
       ],

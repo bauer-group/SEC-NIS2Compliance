@@ -42,6 +42,7 @@ export const zh: LocaleSpecificConfig<ThemeConfig> & { label: string; link: stri
         ]
       },
       { text: '合规矩阵', link: '/zh/compliance-matrix/' },
+      { text: '模板', link: '/zh/templates/' },
     ],
 
     sidebar: {
@@ -156,6 +157,20 @@ export const zh: LocaleSpecificConfig<ThemeConfig> & { label: string; link: stri
           items: [
             { text: '要求映射', link: '/zh/compliance-matrix/' },
             { text: 'CRA和AI法案协同', link: '/zh/compliance-matrix/synergies' },
+          ]
+        },
+        {
+          text: 'A. 模板',
+          collapsed: true,
+          items: [
+            { text: '概述', link: '/zh/templates/' },
+            { text: '风险登记册', link: '/zh/templates/risk-register' },
+            { text: '§32 事件报告', link: '/zh/templates/incident-report' },
+            { text: 'DR 测试协议', link: '/zh/templates/dr-test-protocol' },
+            { text: '供应商评估', link: '/zh/templates/vendor-assessment' },
+            { text: '培训记录', link: '/zh/templates/training-record' },
+            { text: '管理层批准', link: '/zh/templates/management-approval' },
+            { text: '经验教训协议', link: '/zh/templates/lessons-learned' },
           ]
         },
       ],
