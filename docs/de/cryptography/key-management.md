@@ -16,7 +16,7 @@
 
 | Schlüsseltyp | Rotation | Anmerkung |
 |-------------|----------|-----------|
-| TLS-Zertifikate | 90 Tage (Let's Encrypt automatisiert) | Automatisierte Erneuerung |
+| TLS-Zertifikate | 90 Tage | Automatisierte Erneuerung |
 | SSH-Schlüssel | Jährlich oder bei Personalwechsel | Personalisierte Schlüssel |
 | API-Keys | Jährlich oder bei Kompromittierungsverdacht | Automatisiert wo möglich |
 | Backup-Schlüssel | Bei jeder Vollsicherung | Alter Schlüssel für Restore archivieren |
@@ -31,7 +31,7 @@ Alle Zertifikate werden zentral erfasst:
 | Attribut | Beschreibung |
 |---------|-------------|
 | Domain / Common Name | Für welche Domain gilt das Zertifikat |
-| Aussteller | CA (Let's Encrypt, interne CA) |
+| Aussteller | Öffentliche oder interne CA |
 | Ablaufdatum | Automatisches Monitoring |
 | Erneuerungsprozess | Automatisch / Manuell |
 | Verantwortlich | Zuständiger Administrator |

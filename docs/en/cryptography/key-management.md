@@ -16,7 +16,7 @@
 
 | Key Type | Rotation | Notes |
 |----------|----------|-------|
-| TLS certificates | 90 days (Let's Encrypt automated) | Automated renewal |
+| TLS certificates | 90 days | Automated renewal |
 | SSH keys | Annually or upon personnel change | Personalized keys |
 | API keys | Annually or upon suspected compromise | Automated where possible |
 | Backup keys | On every full backup | Archive old key for restore |
@@ -31,7 +31,7 @@ All certificates are tracked centrally:
 | Attribute | Description |
 |-----------|-------------|
 | Domain / Common Name | Which domain the certificate covers |
-| Issuer | CA (Let's Encrypt, internal CA) |
+| Issuer | Public or internal CA |
 | Expiry date | Automatic monitoring |
 | Renewal process | Automatic / Manual |
 | Responsible party | Assigned administrator |

@@ -41,6 +41,6 @@ Die BAUER GROUP orientiert sich an den Empfehlungen des BSI (TR-02102) und ISO/I
 
 ## Zertifikatsmanagement
 
-- **Let's Encrypt** für öffentliche TLS-Zertifikate (automatisierte Erneuerung)
+- **Öffentliche CA** für öffentliche TLS-Zertifikate (automatisierte Erneuerung)
 - Monitoring der Zertifikatslaufzeiten
 - Dokumentierte Prozesse für Zertifikatserneuerung und -widerruf

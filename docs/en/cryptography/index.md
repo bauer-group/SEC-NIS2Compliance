@@ -41,6 +41,6 @@ BAUER GROUP follows BSI (TR-02102) and ISO/IEC 27001:2022 (Annex A, Control 8.24
 
 ## Certificate Management
 
-- **Let's Encrypt** for public TLS certificates (automated renewal)
+- **Public CA** for public TLS certificates (automated renewal)
 - Certificate expiry monitoring
 - Documented processes for certificate renewal and revocation
