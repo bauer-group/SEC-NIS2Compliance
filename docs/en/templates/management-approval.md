@@ -20,7 +20,7 @@ Documents the formal approval of risk management measures by management. §38(1)
 |----------|----------------|
 | Risk register | |
 | ISMS policy | |
-| §30 No. 1–10 measures catalog | |
+| §30(2) No. 1–10 measures catalog | |
 | Effectiveness report | |
 | Incident statistics for the period | |
 | Audit reports (internal / external) | |

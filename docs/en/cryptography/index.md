@@ -1,12 +1,12 @@
 # Cryptography
 
 ::: info LEGAL BASIS
-**§30(2) No. 8 BSIG** – Concepts and procedures for the use of cryptography and, where appropriate, encryption
+**§30(2) No. 8 BSIG** – Concepts and processes for the use of cryptographic procedures
 :::
 
 ## Standards
 
-BAUER GROUP follows BSI (TR-02102) and ISO/IEC 27001 Annex A.10 recommendations:
+BAUER GROUP follows BSI (TR-02102) and ISO/IEC 27001:2022 (Annex A, Control 8.24) recommendations:
 
 | Area | Standard | Minimum Requirement |
 |------|---------|-------------------|

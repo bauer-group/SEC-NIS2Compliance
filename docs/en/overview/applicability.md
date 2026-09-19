@@ -190,7 +190,7 @@ The customer holds the lever: it risks fines under §65 BSIG if it does not secu
 |--------|-----------------------------|--------------------------------|
 | **Source of obligations** | Law | Contract with the client |
 | **Scope** | all measures under §30, reporting obligations under §32, registration under §33, management duties under §38 | what has been contractually agreed, usually a subset of §30 |
-| **Incident reporting** | to the BSI (24 hours / 72 hours / 1 month) | to the client, deadline as per contract |
+| **Incident reporting** | to the BSI (24 hours / 72 hours / 1 month after the 72-hour notification) | to the client, deadline as per contract |
 | **Oversight** | BSI (§§61, 62 BSIG) | Client: questionnaires, evidence, audits |
 | **Consequences of violations** | Fines under §65 BSIG | Contractual penalty, damages, termination, exclusion from tenders or supplier lists |
 | **Registration with the BSI** | yes | no |
@@ -227,7 +227,7 @@ In addition, NIS2 concerns BAUER GROUP in three roles:
 
 | Role | Classification | Implementation |
 |------|----------------|----------------|
-| **As an entity** | Essential entity as a DNS service provider (Annex 1 No. 6.1.2, §28(1) No. 2 BSIG). With its hosting and managed services, it additionally provides services of the entity type managed service provider (Annex 1 No. 6.1.10 BSIG). For DNS service providers and MSPs, Implementing Regulation (EU) 2024/2690 takes precedence (§30(3) BSIG). Software development alone would not be an entity type. | Chapters 2–12 of this documentation; for registration under §§33, 34, see [Compliance Matrix](/en/compliance-matrix/) |
+| **As an entity** | Essential entity as a DNS service provider (Annex 1 No. 6.1.2, §28(1) No. 2 BSIG). With its hosting and managed services, it additionally provides services of the entity type managed service provider (Annex 1 No. 6.1.10 BSIG). For DNS service providers and MSPs, Implementing Regulation (EU) 2024/2690 takes precedence (§30(3) BSIG). Software development alone would not be an entity type. | Chapters 2–12 of this documentation; for registration status, see [Compliance Matrix](/en/compliance-matrix/) |
 | **As a supplier** | Regulated customers, federal authorities and financial entities pass their requirements on to BAUER GROUP by contract. | Evidence from this documentation, contractual incident reporting to customers |
 | **As a client** | BAUER GROUP passes security requirements on to its own service providers (§30(2) No. 4 BSIG). | [Supply Chain Security](/en/supply-chain/) |
 

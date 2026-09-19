@@ -66,7 +66,7 @@ Significant security incidents must be reported to the BSI according to a three-
 |------|----------|---------|
 | **Early warning** | 24 hours | Initial report: type of incident, suspicion of unlawful action, cross-border impact |
 | **Update** | 72 hours | Initial assessment: severity, impact, indicators of compromise (IoC) |
-| **Final report** | 1 month | Detailed description: root cause, measures taken, cross-border impacts |
+| **Final report** | 1 month after the 72-hour notification | Detailed description: root cause, measures taken, cross-border impacts |
 
 ### Criteria for Significant Incidents
 
@@ -75,6 +75,8 @@ An incident is considered significant if it:
 - Has caused or is capable of causing severe operational disruption of the services or financial losses
 - Has affected or is capable of affecting other natural or legal persons by causing considerable material or non-material damage
 
+For BAUER GROUP's DNS and managed services, Implementing Regulation (EU) 2024/2690 specifies these criteria with fixed thresholds, see [Reporting Obligations](/en/incident-management/reporting).
+
 ### Reporting Channels
 
 - **Reporting portal:** BSI reporting platform (online)
@@ -82,7 +84,7 @@ An incident is considered significant if it:
 - **In parallel:** Assess a data breach notification under Art. 33 GDPR if personal data is affected
 
 ::: warning DUAL REPORTING CRA + NIS2
-As a CRA manufacturer and NIS2 entity, **two separate reporting obligations** may be triggered: CRA report to ENISA (24h/72h/14d) and NIS2 report to BSI (24h/72h/1 month). Details on the CRA reporting process in the [CRA Documentation](https://cra.docs.bauer-group.com/en/incident-response/).
+As a CRA manufacturer and NIS2 entity, **two separate reporting obligations** may be triggered: CRA report via the single reporting platform to the coordinating CSIRT and ENISA (24h / 72h / final report 14 days after a corrective measure is available or 1 month for severe incidents) and NIS2 report to the BSI (24h / 72h / 1 month after the 72-hour notification). Details on the CRA reporting process in the [CRA Documentation](https://cra.docs.bauer-group.com/en/incident-response/).
 :::
 
 ::: tip CRA Synergy

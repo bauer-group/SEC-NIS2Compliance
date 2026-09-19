@@ -9,7 +9,7 @@ Praxiserprobte Templates für die NIS2-Compliance der BAUER GROUP. Alle Vorlagen
 | [Disaster-Recovery-Testprotokoll](/de/templates/dr-test-protocol) | Dokumentation regelmäßiger DR-Tests | §30 Abs. 2 Nr. 3 |
 | [Lieferantenbewertung](/de/templates/vendor-assessment) | Sicherheitsbewertung von Dienstleistern und Lieferanten | §30 Abs. 2 Nr. 4 |
 | [Schulungsnachweis Cyberhygiene](/de/templates/training-record) | Teilnahmenachweis für Pflichtschulungen | §30 Abs. 2 Nr. 7 |
-| [Geschäftsleitungs-Billigung](/de/templates/management-approval) | Formale §38-Billigung der Risikomanagementmaßnahmen | §38 BSIG |
+| [Geschäftsleitungs-Billigung](/de/templates/management-approval) | Formale Billigung der Risikomanagementmaßnahmen (Gesetzesbegründung zu §38 Abs. 1) | §38 BSIG |
 | [Lessons-Learned-Protokoll](/de/templates/lessons-learned) | Nachbereitung von Sicherheitsvorfällen | §30 Abs. 2 Nr. 6 |
 
 ## Hinweise zur Verwendung

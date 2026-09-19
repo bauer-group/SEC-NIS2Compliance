@@ -66,7 +66,7 @@ Erhebliche Sicherheitsvorfälle sind dem BSI nach einem dreistufigen Modell zu m
 |-------|-------|--------|
 | **Frühwarnung** | 24 Stunden | Erstmeldung: Art des Vorfalls, Verdacht auf rechtswidrige Handlung, grenzüberschreitende Auswirkung |
 | **Aktualisierung** | 72 Stunden | Erste Bewertung: Schweregrad, Auswirkungen, Kompromittierungsindikatoren (IoC) |
-| **Abschlussbericht** | 1 Monat | Detaillierte Beschreibung: Ursache, Maßnahmen, grenzüberschreitende Auswirkungen |
+| **Abschlussbericht** | 1 Monat nach der 72-Stunden-Meldung | Detaillierte Beschreibung: Ursache, Maßnahmen, grenzüberschreitende Auswirkungen |
 
 ### Kriterien für erhebliche Vorfälle
 
@@ -75,6 +75,8 @@ Ein Vorfall gilt als erheblich, wenn er:
 - Schwerwiegende Betriebsstörungen der Dienste oder finanzielle Verluste verursacht oder verursachen kann
 - Andere natürliche oder juristische Personen durch erhebliche materielle oder immaterielle Schäden beeinträchtigt oder beeinträchtigen kann
 
+Für die DNS- und Managed-Services der BAUER GROUP konkretisiert die DVO (EU) 2024/2690 diese Kriterien mit festen Schwellenwerten, siehe [Meldepflichten](/de/incident-management/reporting).
+
 ### Meldewege
 
 - **Meldeportal:** BSI-Meldeplattform (online)
@@ -82,7 +84,7 @@ Ein Vorfall gilt als erheblich, wenn er:
 - **Parallel:** Datenschutzmeldung nach Art. 33 DSGVO prüfen, falls personenbezogene Daten betroffen
 
 ::: warning DOPPELMELDUNG CRA + NIS2
-Als CRA-Hersteller und NIS2-Einrichtung können **zwei separate Meldepflichten** ausgelöst werden: CRA-Meldung an ENISA (24h/72h/14d) und NIS2-Meldung an BSI (24h/72h/1 Monat). Details zum CRA-Meldeprozess in der [CRA-Dokumentation](https://cra.docs.bauer-group.com/de/incident-response/).
+Als CRA-Hersteller und NIS2-Einrichtung können **zwei separate Meldepflichten** ausgelöst werden: CRA-Meldung über die einheitliche Meldeplattform an das koordinierende CSIRT und die ENISA (24h / 72h / Abschlussbericht 14 Tage nach verfügbarer Korrektur bzw. 1 Monat bei schwerwiegenden Vorfällen) und NIS2-Meldung an das BSI (24h / 72h / 1 Monat nach der 72-Stunden-Meldung). Details zum CRA-Meldeprozess in der [CRA-Dokumentation](https://cra.docs.bauer-group.com/de/incident-response/).
 :::
 
 ::: tip CRA-Synergie

@@ -2,25 +2,25 @@
 
 ## 详细要求映射
 
-### §30第2项 -- 事件管理 <-> CRA Art. 14
+### §30(2) 第2项 -- 事件管理 <-> CRA Art. 14
 
 | 方面 | NIS2 (§32 BSIG) | CRA (Art. 14) | 协同效应 |
 |--------|-----------------|-------------|----------|
 | 触发条件 | 重大运营事件 | 产品漏洞/事件 | 统一初始评估流程 |
-| 预警 | 24小时内向BSI报告 | 24小时内向ENISA报告 | 使用共同模板并行报告 |
+| 预警 | 24小时内向BSI报告 | 24小时内向协调CSIRT和ENISA报告（统一报告平台） | 使用共同模板并行报告 |
 | 详细报告 | 72小时 | 72小时 | 数据可复用 |
-| 最终报告 | 1个月 | 14天 | 独立报告，共同根因分析 |
+| 最终报告 | 72小时报告后1个月 | 纠正措施可用后14天（漏洞），1个月（严重事件） | 独立报告，共同根因分析 |
 | 模板 | [NIS2报告义务](/zh/incident-management/reporting) | [CRA ENISA报告](https://cra.docs.bauer-group.com/zh/incident-response/enisa-reporting) | 设计为相互兼容 |
 
-### §30第4项 -- 供应链 <-> CRA Annex I第II部分第1项
+### §30(2) 第4项 -- 供应链 <-> CRA 第13条第5款、附件I第II部分第1项
 
 | 方面 | NIS2 | CRA | 协同效应 |
 |--------|------|-----|----------|
 | 软件依赖 | —（NIS2引用CRA） | [SBOM + 依赖策略](https://cra.docs.bauer-group.com/zh/supply-chain/) | CRA主导 |
 | IT服务商 | [供应商评估](/zh/supply-chain/vendor-assessment) | — | NIS2主导 |
-| 合同要求 | [安全条款](/zh/supply-chain/contractual-requirements) | Annex I第II部分第1项 | 共同合同标准 |
+| 合同要求 | [安全条款](/zh/supply-chain/contractual-requirements) | 第13条第5款（对第三方组件的尽职审慎） | 共同合同标准 |
 
-### §30第5项 -- 漏洞管理 <-> CRA Art. 10/11
+### §30(2) 第5项 -- 漏洞管理 <-> CRA 第13条第8款、附件I第II部分
 
 | 方面 | NIS2 | CRA | 协同效应 |
 |--------|------|-----|----------|
@@ -45,7 +45,7 @@ NIS2（组织与运营）
   ├── 风险管理 ←──── AI法案（AI风险管理，Art. 9）
   ├── 事件管理 ←──── CRA（产品事件，Art. 14）
   ├── 供应链 ←──── CRA（软件SBOM，Annex I）
-  ├── 漏洞管理 ←──── CRA（产品CVE，Art. 10/11）
+  ├── 漏洞管理 ←──── CRA（产品CVE，第13条、附件I第II部分）
   ├── 培训 ←──── AI法案（AI素养，Art. 4）
   └── 加密技术 ←──── AI法案（网络安全，Art. 15）
                ←──── CRA（产品加密，Annex I）

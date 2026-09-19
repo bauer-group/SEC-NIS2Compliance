@@ -1,11 +1,11 @@
 # Introduction
 
-This documentation describes the implementation of the **NIS 2 Directive** (EU) 2022/2555 and the German **NIS2 Implementation Act** (NIS2UmsuCG) at BAUER GROUP. It covers all ten risk management measures per §30(2) BSIG as well as obligations under §32 (reporting), §33 (registration), and §38 (management duties).
+This documentation describes the implementation of the **NIS 2 Directive** (EU) 2022/2555 and the German **NIS2 Implementation Act** (NIS2UmsuCG) at BAUER GROUP. It covers all ten risk management measures per §30(2) BSIG as well as obligations under §32 (reporting), §§33, 34 (registration), §35 (notification of service recipients), and §38 (management duties).
 
 ::: info LEGAL BASIS
 **NIS 2 Directive (EU) 2022/2555** – Measures for a high common level of cybersecurity across the Union.
 
-**BSIG §30(1):** Essential and important entities are obligated to take appropriate, proportionate and effective technical and organizational measures to avoid disruptions to the availability, integrity, authenticity and confidentiality of information technology systems, components and processes.
+**BSIG §30(1):** Essential and important entities are obligated to take appropriate, proportionate and effective technical and organizational measures, which are specified in paragraph 2, to avoid disruptions to the availability, integrity and confidentiality of the information technology systems, components and processes they use to provide their services, and to keep the impact of security incidents as low as possible.
 :::
 
 ## Scope

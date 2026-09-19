@@ -9,7 +9,7 @@
 | [灾难恢复测试协议](/zh/templates/dr-test-protocol) | 定期 DR 测试的文档 | §30(2) 第3项 |
 | [供应商评估](/zh/templates/vendor-assessment) | 服务提供商和供应商的安全评估 | §30(2) 第4项 |
 | [网络卫生培训记录](/zh/templates/training-record) | 强制培训的出席记录 | §30(2) 第7项 |
-| [管理层批准](/zh/templates/management-approval) | §38 风险管理措施的正式批准 | §38 BSIG |
+| [管理层批准](/zh/templates/management-approval) | 风险管理措施的正式批准（依据 §38(1) 的立法理由） | §38 BSIG |
 | [经验教训协议](/zh/templates/lessons-learned) | 安全事件后审查 | §30(2) 第6项 |
 
 ## 使用说明

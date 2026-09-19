@@ -1,7 +1,7 @@
 # Lieferkettensicherheit
 
 ::: info RECHTSGRUNDLAGE
-**§30 Abs. 2 Nr. 4 BSIG** – Sicherheit der Lieferkette einschließlich sicherheitsbezogener Aspekte der Beziehungen zwischen den einzelnen Einrichtungen und ihren unmittelbaren Anbietern oder Diensteanbietern
+**§30 Abs. 2 Nr. 4 BSIG** – Sicherheit der Lieferkette einschließlich sicherheitsbezogener Aspekte der Beziehungen zu unmittelbaren Anbietern oder Diensteanbietern
 :::
 
 ## Dienstleisterübersicht

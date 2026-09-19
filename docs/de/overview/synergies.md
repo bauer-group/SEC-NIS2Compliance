@@ -8,16 +8,16 @@ Die BAUER GROUP unterliegt drei komplementären EU-Regulierungen zur Cybersicher
 
 | NIS2-Maßnahme (§30) | CRA-Abdeckung | AI-Act-Abdeckung | NIS2-spezifisch |
 |---------------------|---------------|------------------|-----------------|
-| Nr. 1 – Risikomanagement | Teilweise (produktbezogen, Art. 10) | Art. 9 (KI-Risikomanagement) | ISMS, organisatorische Risikoanalyse |
-| Nr. 2 – Vorfallmanagement | Art. 14 (Produktschwachstellen) | — | Betriebsvorfälle, §32-Meldung |
+| Nr. 1 – Risikomanagement | Teilweise (produktbezogene Risikobewertung, Art. 13 Abs. 2) | Art. 9 (KI-Risikomanagement) | ISMS, organisatorische Risikoanalyse |
+| Nr. 2 – Vorfallmanagement | Art. 14 (aktiv ausgenutzte Schwachstellen, schwerwiegende Vorfälle) | — | Betriebsvorfälle, §32-Meldung |
 | Nr. 3 – Business Continuity | — | — | Vollständig NIS2-spezifisch |
-| Nr. 4 – Lieferkette | Art. 10(4), Annex I Teil II Nr. 1 | — | Dienstleisterbewertung |
-| Nr. 5 – Schwachstellen | Art. 10(6), Art. 11 (Produkt-CVEs) | — | Infrastruktur-CVEs |
+| Nr. 4 – Lieferkette | Art. 13 Abs. 5, Annex I Teil II Nr. 1 (SBOM) | — | Dienstleisterbewertung |
+| Nr. 5 – Schwachstellen | Art. 13 Abs. 8, Annex I Teil II (Produkt-CVEs) | — | Infrastruktur-CVEs |
 | Nr. 6 – Wirksamkeit | — | — | Vollständig NIS2-spezifisch |
 | Nr. 7 – Schulung | — | Art. 4 (AI Literacy) | Cyberhygiene, BSIG-spezifisch |
-| Nr. 8 – Kryptografie | Annex I Teil II (Produktverschlüsselung) | Art. 15 (KI-Cybersicherheit) | Infrastrukturverschlüsselung |
-| Nr. 9 – Zugriffskontrolle | — | Art. 14 (Menschliche Aufsicht) | Personalsicherheit, MFA |
-| Nr. 10 – Sichere Kommunikation | — | — | Vollständig NIS2-spezifisch |
+| Nr. 8 – Kryptografie | Annex I Teil I Nr. 2 Buchst. e (Produktverschlüsselung) | Art. 15 (KI-Cybersicherheit) | Infrastrukturverschlüsselung |
+| Nr. 9 – Zugriffskontrolle | — | Art. 14 (Menschliche Aufsicht) | Personalsicherheit, Zugriffskonzepte |
+| Nr. 10 – MFA & sichere Kommunikation | — | — | Vollständig NIS2-spezifisch |
 
 ## Detaillierte Synergien
 
@@ -34,10 +34,10 @@ Die BAUER GROUP unterliegt drei komplementären EU-Regulierungen zur Cybersicher
 
 | Aspekt | CRA (Art. 14) | NIS2 (§32 BSIG) |
 |--------|-------------|-----------------|
-| Auslöser | Aktiv ausgenutzte Schwachstelle in Produkten | Erheblicher Sicherheitsvorfall im Betrieb |
-| Frühwarnung | 24 Stunden an ENISA | 24 Stunden an BSI |
+| Auslöser | Aktiv ausgenutzte Schwachstelle oder schwerwiegender Sicherheitsvorfall bei Produkten | Erheblicher Sicherheitsvorfall im Betrieb |
+| Frühwarnung | 24 Stunden an koordinierendes CSIRT und ENISA | 24 Stunden an BSI |
 | Detailmeldung | 72 Stunden | 72 Stunden |
-| Abschluss | 14 Tage | 1 Monat |
+| Abschluss | 14 Tage nach verfügbarer Korrektur (Schwachstelle), 1 Monat (schwerwiegender Vorfall) | 1 Monat nach der 72-Stunden-Meldung |
 | Meldestelle | ENISA Single Reporting Platform | BSI-Meldeplattform |
 
 ::: warning PARALLELE MELDEPFLICHTEN

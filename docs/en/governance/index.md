@@ -3,7 +3,7 @@
 ::: info LEGAL BASIS
 **§38(1) BSIG** – Management of essential and important entities is obligated to implement the risk management measures to be taken by these entities per §30 and to supervise their implementation.
 
-**§38(3) BSIG** – Management must regularly participate in training to acquire sufficient knowledge and skills for identifying and assessing risks and risk management practices.
+**§38(3) BSIG** – The management of essential and important entities must regularly participate in training in order to acquire sufficient knowledge and skills for identifying and assessing risks and risk management practices in the field of information technology security, and in order to be able to assess the impact of risks and risk management practices on the services provided by the entity.
 :::
 
 ## Management Duties

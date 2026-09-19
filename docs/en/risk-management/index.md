@@ -1,7 +1,7 @@
 # Risk Management
 
 ::: info LEGAL BASIS
-**§30(2) No. 1 BSIG** – Concepts relating to risk analysis and information system security
+**§30(2) No. 1 BSIG** – Concepts relating to risk analysis and to information technology security
 :::
 
 ## Information Security Policy
@@ -39,10 +39,10 @@ All IT systems, components and processes are recorded in a central inventory:
 - **Data assets** – Classification by protection need (normal, high, very high)
 - **Cloud services** – External services with provider, location and contract status
 
-## Standards Orientation
+## Standards and Requirements
 
-Implementation is guided by:
+Implementation is based on:
 
 - **ISO/IEC 27001:2022** – Information security management systems
 - **BSI IT-Grundschutz** – Methodological framework for risk analysis
-- **Implementing Regulation (EU) 2024/2690** – Detailed NIS2 technical requirements
+- **Implementing Regulation (EU) 2024/2690** – binding for BAUER GROUP as a DNS service provider and managed service provider; its technical and methodological requirements take precedence (§30(3) BSIG)

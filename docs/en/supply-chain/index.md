@@ -1,7 +1,7 @@
 # Supply Chain Security
 
 ::: info LEGAL BASIS
-**§30(2) No. 4 BSIG** – Supply chain security including security-related aspects of the relationships between entities and their direct suppliers or service providers
+**§30(2) No. 4 BSIG** – Supply chain security including security-related aspects of the relationships with direct suppliers or service providers
 :::
 
 ## Vendor Overview

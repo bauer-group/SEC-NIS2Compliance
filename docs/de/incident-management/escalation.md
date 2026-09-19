@@ -24,9 +24,9 @@
 
 | Empfänger | Kanal | Inhalt | Timing |
 |-----------|-------|--------|--------|
-| **BSI** | Meldeplattform | Gemäß §32-Meldemodell | 24h / 72h / 1 Monat |
+| **BSI** | Meldeplattform | Gemäß §32-Meldemodell | 24h / 72h / 1 Monat nach der 72h-Meldung |
 | **Betroffene Kunden** | Direkte Benachrichtigung (E-Mail + Telefon) | Art, Umfang, Maßnahmen, Empfehlungen | Unverzüglich bei Betroffenheit |
-| **Datenschutzaufsicht** | Meldeportal | DSGVO Art. 33/34 wenn personenbezogene Daten betroffen | 72 Stunden |
+| **Datenschutzaufsicht** | Meldeportal | Meldung nach Art. 33 DSGVO, wenn personenbezogene Daten betroffen sind; bei hohem Risiko zusätzlich Benachrichtigung der betroffenen Personen (Art. 34 DSGVO) | Aufsicht: unverzüglich, möglichst binnen 72 Stunden (Art. 33); betroffene Personen: unverzüglich (Art. 34) |
 | **Strafverfolgung** | Anzeige | Bei Verdacht auf Straftat | Nach GL-Entscheidung |
 
 ### Kundeninformation bei Vorfällen

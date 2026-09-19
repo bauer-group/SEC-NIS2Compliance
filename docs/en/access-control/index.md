@@ -1,9 +1,9 @@
 # Access Control & Secure Communication
 
 ::: info LEGAL BASIS
-**§30(2) No. 9 BSIG** – Personnel security, access control concepts and asset management
+**§30(2) No. 9 BSIG** – Development of concepts for personnel security, access control and for the management of ICT systems, products and processes
 
-**§30(2) No. 10 BSIG** – Use of multi-factor authentication or continuous authentication solutions, secured voice, video and text communication, and secured emergency communication systems where appropriate
+**§30(2) No. 10 BSIG** – Use of multi-factor authentication or continuous authentication solutions, secured voice, video and text communication, and, where appropriate, secured emergency communication systems within the entity
 :::
 
 ## Access Control Principles

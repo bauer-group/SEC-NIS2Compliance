@@ -7,7 +7,7 @@
 | NIS 2 Directive (EU) 2022/2555 | In force since 16.01.2023 | EU framework directive |
 | NIS2UmsuCG (Omnibus Act) | In force since 06.12.2025 | German implementation |
 | BSIG (Revised) | In force since 06.12.2025 | Central obligations |
-| Implementing Regulation (EU) 2024/2690 | In force | Detailed technical requirements |
+| Implementing Regulation (EU) 2024/2690 | In force since 07.11.2024 | Directly applicable to DNS service providers, MSPs and others: technical and methodological requirements for the risk management measures (precedence under §30(3) BSIG) and thresholds for significant security incidents (Art. 3 et seq. Implementing Regulation) |
 | KRITIS Umbrella Act (KRITIS-DachG) | In force since 17.03.2026 | Physical resilience (CER implementation) |
 
 ## Applicability
@@ -27,16 +27,16 @@ Micro and small enterprises are in principle not covered – except in size-inde
 
 | No. | Measure | Documentation |
 |-----|---------|---------------|
-| 1 | Risk analysis and information system security concepts | [Risk Management](/en/risk-management/) |
+| 1 | Concepts relating to risk analysis and to information technology security | [Risk Management](/en/risk-management/) |
 | 2 | Incident handling | [Incident Management](/en/incident-management/) |
-| 3 | Business continuity (BCM, backup, disaster recovery, crisis management) | [Business Continuity](/en/business-continuity/) |
+| 3 | Business continuity, such as backup management and disaster recovery, and crisis management | [Business Continuity](/en/business-continuity/) |
 | 4 | Supply chain security | [Supply Chain Security](/en/supply-chain/) |
-| 5 | Security in acquisition, development and maintenance | [Vulnerability Management](/en/vulnerability-management/) |
+| 5 | Security measures in acquisition, development and maintenance, including vulnerability management and disclosure | [Vulnerability Management](/en/vulnerability-management/) |
 | 6 | Effectiveness assessment concepts and procedures | [Effectiveness Review](/en/effectiveness-review/) |
-| 7 | Basic cyber hygiene practices and training | [Training & Awareness](/en/training/) |
-| 8 | Cryptography concepts and procedures | [Cryptography](/en/cryptography/) |
-| 9 | Personnel security, access control concepts | [Access Control](/en/access-control/) |
-| 10 | Multi-factor authentication, secured communication | [Access Control](/en/access-control/) |
+| 7 | Basic training and awareness measures in the field of information technology security | [Training & Awareness](/en/training/) |
+| 8 | Concepts and processes for the use of cryptographic procedures | [Cryptography](/en/cryptography/) |
+| 9 | Concepts for personnel security, access control and the management of ICT systems, products and processes | [Access Control](/en/access-control/) |
+| 10 | Multi-factor or continuous authentication, secured voice, video and text communication, secured emergency communication | [Access Control](/en/access-control/) |
 
 ## Additional Obligations
 
@@ -63,7 +63,7 @@ Micro and small enterprises are in principle not covered – except in size-inde
 | **Regulatory subject** | Operators (entities) | Products with digital elements |
 | **Legal form** | Directive (national transposition) | Regulation (directly applicable) |
 | **Focus** | Operational security (risk management) | Product security (security by design) |
-| **Reporting** | CSIRT (24h/72h/1 month) | ENISA (24h/72h/14d) |
+| **Reporting** | BSI (24h / 72h / 1 month after the 72h notification) | Coordinating CSIRT and ENISA via the single reporting platform (24h / 72h / 14 days after a corrective measure or 1 month) |
 
 ::: tip CRA Synergy
 CRA-compliant processes (vulnerability management, incident response, supply chain) largely fulfil the corresponding NIS2 requirements. Details in the [CRA Compliance Documentation](https://cra.docs.bauer-group.com/en/overview/nis2-integration).

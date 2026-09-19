@@ -2,7 +2,7 @@
 
 ## Anleitung
 
-Diese Vorlage strukturiert das dreistufige Meldemodell nach §32 BSIG (Frühwarnung 24h / Update 72h / Abschluss 1 Monat). Alle drei Stufen werden im selben Dokument konsolidiert geführt.
+Diese Vorlage strukturiert das dreistufige Meldemodell nach §32 BSIG (Frühwarnung 24h / Update 72h / Abschluss 1 Monat nach der 72h-Meldung). Alle drei Stufen werden im selben Dokument konsolidiert geführt.
 
 ## Vorfall-Stammdaten
 
@@ -46,7 +46,7 @@ Diese Vorlage strukturiert das dreistufige Meldemodell nach §32 BSIG (Frühwarn
 
 | Feld | Wert |
 |---|---|
-| **Meldedatum** | [Datum, max. T+30 Tage – Verlängerung dokumentiert: ja/nein] |
+| **Meldedatum** | [Datum, spätestens 1 Monat nach der 72h-Meldung – bei andauerndem Vorfall Fortschrittsmeldung: ja/nein] |
 | **Detaillierte Beschreibung** | [Vollständiger Ablauf mit Zeitstempeln] |
 | **Bestätigte Ursache** | [Root Cause] |
 | **Ergriffene Maßnahmen** | [Sofort / Mittel- / Langfristig] |

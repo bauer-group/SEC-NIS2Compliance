@@ -190,7 +190,7 @@ Den Hebel hält der Kunde: Er riskiert Bußgelder nach §65 BSIG, wenn er seine 
 |--------|----------------------------------|-------------------------------|
 | **Pflichtenquelle** | Gesetz | Vertrag mit dem Auftraggeber |
 | **Umfang** | alle Maßnahmen nach §30, Meldepflichten nach §32, Registrierung nach §33, Geschäftsleitungspflichten nach §38 | das vertraglich Vereinbarte, meist ein Ausschnitt aus §30 |
-| **Vorfallmeldung** | an das BSI (24 Stunden / 72 Stunden / 1 Monat) | an den Auftraggeber, Frist nach Vertrag |
+| **Vorfallmeldung** | an das BSI (24 Stunden / 72 Stunden / 1 Monat nach der 72-Stunden-Meldung) | an den Auftraggeber, Frist nach Vertrag |
 | **Kontrolle** | BSI (§§61, 62 BSIG) | Auftraggeber: Fragebögen, Nachweise, Audits |
 | **Folgen bei Verstößen** | Bußgelder nach §65 BSIG | Vertragsstrafe, Schadensersatz, Kündigung, Ausschluss aus Vergabe oder Lieferantenliste |
 | **Registrierung beim BSI** | ja | nein |
@@ -227,7 +227,7 @@ Daneben ist die BAUER GROUP in drei Rollen berührt:
 
 | Rolle | Einordnung | Umsetzung |
 |-------|------------|-----------|
-| **Als Einrichtung** | Besonders wichtige Einrichtung als DNS-Diensteanbieter (Anlage 1 Nr. 6.1.2, §28 Abs. 1 Nr. 2 BSIG). Mit Hosting- und Managed Services erbringt sie zusätzlich Leistungen der Einrichtungsart Managed Service Provider (Anlage 1 Nr. 6.1.10 BSIG). Für DNS-Diensteanbieter und MSPs gilt die DVO (EU) 2024/2690 vorrangig (§30 Abs. 3 BSIG). Die Softwareentwicklung allein wäre keine Einrichtungsart. | Kapitel 2–12 dieser Dokumentation; Registrierung nach §§33, 34 siehe [Compliance-Matrix](/de/compliance-matrix/) |
+| **Als Einrichtung** | Besonders wichtige Einrichtung als DNS-Diensteanbieter (Anlage 1 Nr. 6.1.2, §28 Abs. 1 Nr. 2 BSIG). Mit Hosting- und Managed Services erbringt sie zusätzlich Leistungen der Einrichtungsart Managed Service Provider (Anlage 1 Nr. 6.1.10 BSIG). Für DNS-Diensteanbieter und MSPs gilt die DVO (EU) 2024/2690 vorrangig (§30 Abs. 3 BSIG). Die Softwareentwicklung allein wäre keine Einrichtungsart. | Kapitel 2–12 dieser Dokumentation; Registrierungsstatus siehe [Compliance-Matrix](/de/compliance-matrix/) |
 | **Als Zulieferer** | Regulierte Kunden, Bundesbehörden und Finanzunternehmen geben ihre Anforderungen vertraglich an die BAUER GROUP weiter. | Nachweise aus dieser Dokumentation, vertragliche Vorfallmeldung an Kunden |
 | **Als Auftraggeber** | Die BAUER GROUP gibt Sicherheitsanforderungen an die eigenen Dienstleister weiter (§30 Abs. 2 Nr. 4 BSIG). | [Lieferkettensicherheit](/de/supply-chain/) |
 

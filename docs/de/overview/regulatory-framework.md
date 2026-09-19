@@ -7,7 +7,7 @@
 | NIS-2-Richtlinie (EU) 2022/2555 | In Kraft seit 16.01.2023 | EU-Rahmenrichtlinie |
 | NIS2UmsuCG (Artikelgesetz) | In Kraft seit 06.12.2025 | Deutsche Umsetzung |
 | BSIG (Neufassung) | In Kraft seit 06.12.2025 | Zentrale Pflichtennorm |
-| Durchführungsverordnung (EU) 2024/2690 | In Kraft | Detaillierte technische Anforderungen |
+| Durchführungsverordnung (EU) 2024/2690 | In Kraft seit 07.11.2024 | Unmittelbar geltend für DNS-Diensteanbieter, MSPs u. a.: technische und methodische Anforderungen an die Risikomanagementmaßnahmen (Vorrang nach §30 Abs. 3 BSIG) und Schwellenwerte für erhebliche Sicherheitsvorfälle (Art. 3 ff. DVO) |
 | KRITIS-Dachgesetz (KRITIS-DachG) | In Kraft seit 17.03.2026 | Physische Resilienz (CER-Umsetzung) |
 
 ## Betroffenheit
@@ -27,16 +27,16 @@ Kleinst- und Kleinunternehmen sind grundsätzlich nicht erfasst – außer in gr
 
 | Nr. | Maßnahme | Dokumentation |
 |-----|----------|---------------|
-| 1 | Risikoanalyse und Konzepte für die Sicherheit von Informationssystemen | [Risikomanagement](/de/risk-management/) |
+| 1 | Konzepte in Bezug auf die Risikoanalyse und auf die Sicherheit in der Informationstechnik | [Risikomanagement](/de/risk-management/) |
 | 2 | Bewältigung von Sicherheitsvorfällen | [Vorfallmanagement](/de/incident-management/) |
-| 3 | Aufrechterhaltung des Betriebs (BCM, Backup, Disaster Recovery, Krisenmanagement) | [Business Continuity](/de/business-continuity/) |
+| 3 | Aufrechterhaltung des Betriebs, wie Backup-Management und Wiederherstellung nach einem Notfall, und Krisenmanagement | [Business Continuity](/de/business-continuity/) |
 | 4 | Sicherheit der Lieferkette | [Lieferkettensicherheit](/de/supply-chain/) |
-| 5 | Sicherheit bei Erwerb, Entwicklung und Wartung | [Schwachstellenmanagement](/de/vulnerability-management/) |
+| 5 | Sicherheitsmaßnahmen bei Erwerb, Entwicklung und Wartung, einschließlich Management und Offenlegung von Schwachstellen | [Schwachstellenmanagement](/de/vulnerability-management/) |
 | 6 | Konzepte und Verfahren zur Bewertung der Wirksamkeit | [Wirksamkeitsprüfung](/de/effectiveness-review/) |
-| 7 | Grundlegende Verfahren im Bereich der Cyberhygiene und Schulungen | [Schulung & Awareness](/de/training/) |
-| 8 | Konzepte und Verfahren für den Einsatz von Kryptografie | [Kryptografie](/de/cryptography/) |
-| 9 | Sicherheit des Personals, Konzepte für die Zugriffskontrolle | [Zugriffskontrolle](/de/access-control/) |
-| 10 | Verwendung von MFA, gesicherte Kommunikation | [Zugriffskontrolle](/de/access-control/) |
+| 7 | Grundlegende Schulungen und Sensibilisierungsmaßnahmen im Bereich der Sicherheit in der Informationstechnik | [Schulung & Awareness](/de/training/) |
+| 8 | Konzepte und Prozesse für den Einsatz von kryptographischen Verfahren | [Kryptografie](/de/cryptography/) |
+| 9 | Konzepte für die Sicherheit des Personals, die Zugriffskontrolle und die Verwaltung von IKT-Systemen, -Produkten und -Prozessen | [Zugriffskontrolle](/de/access-control/) |
+| 10 | Multi-Faktor- oder kontinuierliche Authentifizierung, gesicherte Sprach-, Video- und Textkommunikation, gesicherte Notfallkommunikation | [Zugriffskontrolle](/de/access-control/) |
 
 ## Weitere Pflichten
 
@@ -63,7 +63,7 @@ Kleinst- und Kleinunternehmen sind grundsätzlich nicht erfasst – außer in gr
 | **Regulierungsgegenstand** | Betreiber (Einrichtungen) | Produkte mit digitalen Elementen |
 | **Rechtsform** | Richtlinie (nationale Umsetzung) | Verordnung (direkt anwendbar) |
 | **Fokus** | Betriebssicherheit (Risikomanagement) | Produktsicherheit (Security by Design) |
-| **Meldepflicht** | CSIRT (24h/72h/1 Monat) | ENISA (24h/72h/14d) |
+| **Meldepflicht** | BSI (24h / 72h / 1 Monat nach der 72h-Meldung) | Koordinierendes CSIRT und ENISA über die einheitliche Meldeplattform (24h / 72h / 14 Tage nach Korrektur bzw. 1 Monat) |
 
 ::: tip CRA-Synergie
 CRA-konforme Prozesse (Schwachstellenmanagement, Incident Response, Supply Chain) erfüllen weitgehend auch die entsprechenden NIS2-Anforderungen. Details in der [CRA-Compliance-Dokumentation](https://cra.docs.bauer-group.com/de/overview/nis2-integration).

@@ -20,7 +20,7 @@ Dokumentiert die formale Billigung der Risikomanagementmaßnahmen durch die Gesc
 |----------|-----------------|
 | Risiko-Register | |
 | ISMS-Policy | |
-| Maßnahmenkatalog §30 Nr. 1–10 | |
+| Maßnahmenkatalog §30 Abs. 2 Nr. 1–10 | |
 | Wirksamkeitsbericht | |
 | Vorfall-Statistik des Berichtszeitraums | |
 | Auditberichte (intern / extern) | |

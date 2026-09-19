@@ -24,9 +24,9 @@
 
 | Recipient | Channel | Content | Timing |
 |-----------|---------|---------|--------|
-| **BSI** | Reporting platform | Per §32 reporting model | 24h / 72h / 1 month |
+| **BSI** | Reporting platform | Per §32 reporting model | 24h / 72h / 1 month after the 72h notification |
 | **Affected customers** | Direct notification (email + phone) | Nature, scope, measures, recommendations | Without delay if affected |
-| **Data protection authority** | Reporting portal | GDPR Art. 33/34 if personal data affected | 72 hours |
+| **Data protection authority** | Reporting portal | Notification under Art. 33 GDPR if personal data is affected; in case of a high risk, additional notification of the data subjects (Art. 34 GDPR) | Authority: without undue delay, where feasible within 72 hours (Art. 33); data subjects: without undue delay (Art. 34) |
 | **Law enforcement** | Criminal complaint | If a criminal offense is suspected | After exec. management decision |
 
 ### Customer Notification in Case of Incidents

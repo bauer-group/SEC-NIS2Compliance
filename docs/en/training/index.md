@@ -1,7 +1,7 @@
 # Training & Awareness
 
 ::: info LEGAL BASIS
-**§30(2) No. 7 BSIG** – Basic cyber hygiene procedures and training in information technology security
+**§30(2) No. 7 BSIG** – Basic training and awareness measures in the field of information technology security
 
 **§38(3) BSIG** – Management must regularly participate in training.
 :::

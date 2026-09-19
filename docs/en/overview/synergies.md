@@ -8,16 +8,16 @@ BAUER GROUP is subject to three complementary EU cybersecurity regulations. To a
 
 | NIS2 Measure (§30) | CRA Coverage | AI Act Coverage | NIS2-Specific |
 |---------------------|-------------|-----------------|---------------|
-| No. 1 – Risk management | Partial (product-related, Art. 10) | Art. 9 (AI risk management) | ISMS, organizational risk analysis |
-| No. 2 – Incident management | Art. 14 (product vulnerabilities) | — | Operational incidents, §32 reporting |
+| No. 1 – Risk management | Partial (product-related risk assessment, Art. 13(2)) | Art. 9 (AI risk management) | ISMS, organizational risk analysis |
+| No. 2 – Incident management | Art. 14 (actively exploited vulnerabilities, severe incidents) | — | Operational incidents, §32 reporting |
 | No. 3 – Business continuity | — | — | Entirely NIS2-specific |
-| No. 4 – Supply chain | Art. 10(4), Annex I Part II No. 1 | — | Vendor assessment |
-| No. 5 – Vulnerabilities | Art. 10(6), Art. 11 (product CVEs) | — | Infrastructure CVEs |
+| No. 4 – Supply chain | Art. 13(5), Annex I Part II No. 1 (SBOM) | — | Vendor assessment |
+| No. 5 – Vulnerabilities | Art. 13(8), Annex I Part II (product CVEs) | — | Infrastructure CVEs |
 | No. 6 – Effectiveness | — | — | Entirely NIS2-specific |
 | No. 7 – Training | — | Art. 4 (AI Literacy) | Cyber hygiene, BSIG-specific |
-| No. 8 – Cryptography | Annex I Part II (product encryption) | Art. 15 (AI cybersecurity) | Infrastructure encryption |
-| No. 9 – Access control | — | Art. 14 (human oversight) | Personnel security, MFA |
-| No. 10 – Secure communication | — | — | Entirely NIS2-specific |
+| No. 8 – Cryptography | Annex I Part I No. 2(e) (product encryption) | Art. 15 (AI cybersecurity) | Infrastructure encryption |
+| No. 9 – Access control | — | Art. 14 (human oversight) | Personnel security, access concepts |
+| No. 10 – MFA & secure communication | — | — | Entirely NIS2-specific |
 
 ## Detailed Synergies
 
@@ -34,10 +34,10 @@ BAUER GROUP is subject to three complementary EU cybersecurity regulations. To a
 
 | Aspect | CRA (Art. 14) | NIS2 (§32 BSIG) |
 |--------|-------------|-----------------|
-| Trigger | Actively exploited vulnerability in products | Significant security incident in operations |
-| Early warning | 24 hours to ENISA | 24 hours to BSI |
+| Trigger | Actively exploited vulnerability or severe security incident involving products | Significant security incident in operations |
+| Early warning | 24 hours to coordinating CSIRT and ENISA | 24 hours to BSI |
 | Detailed report | 72 hours | 72 hours |
-| Final report | 14 days | 1 month |
+| Final report | 14 days after a corrective measure is available (vulnerability), 1 month (severe incident) | 1 month after the 72-hour notification |
 | Reporting authority | ENISA Single Reporting Platform | BSI reporting platform |
 
 ::: warning PARALLEL REPORTING OBLIGATIONS

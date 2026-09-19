@@ -2,25 +2,25 @@
 
 ## Detaillierte Anforderungszuordnung
 
-### §30 Nr. 2 – Vorfallmanagement ↔ CRA Art. 14
+### §30 Abs. 2 Nr. 2 – Vorfallmanagement ↔ CRA Art. 14
 
 | Aspekt | NIS2 (§32 BSIG) | CRA (Art. 14) | Synergie |
 |--------|-----------------|-------------|----------|
 | Auslöser | Erheblicher Betriebsvorfall | Produktschwachstelle / Vorfall | Gemeinsamer Erstbewertungsprozess |
-| Frühwarnung | 24h an BSI | 24h an ENISA | Parallele Meldung mit gemeinsamer Vorlage |
+| Frühwarnung | 24h an BSI | 24h an koordinierendes CSIRT und ENISA (einheitliche Meldeplattform) | Parallele Meldung mit gemeinsamer Vorlage |
 | Detailmeldung | 72h | 72h | Daten wiederverwendbar |
-| Abschluss | 1 Monat | 14 Tage | Separate Berichte, gemeinsame Root-Cause-Analyse |
+| Abschluss | 1 Monat nach der 72h-Meldung | 14 Tage nach verfügbarer Korrektur (Schwachstelle), 1 Monat (schwerwiegender Vorfall) | Separate Berichte, gemeinsame Root-Cause-Analyse |
 | Templates | [NIS2 Meldepflichten](/de/incident-management/reporting) | [CRA ENISA-Meldung](https://cra.docs.bauer-group.com/de/incident-response/enisa-reporting) | Kompatibel gestaltet |
 
-### §30 Nr. 4 – Lieferkette ↔ CRA Annex I Teil II Nr. 1
+### §30 Abs. 2 Nr. 4 – Lieferkette ↔ CRA Art. 13 Abs. 5, Annex I Teil II Nr. 1
 
 | Aspekt | NIS2 | CRA | Synergie |
 |--------|------|-----|----------|
 | Software-Abhängigkeiten | — (NIS2 referenziert CRA) | [SBOM + Dependency Policy](https://cra.docs.bauer-group.com/de/supply-chain/) | CRA führend |
 | IT-Dienstleister | [Dienstleisterbewertung](/de/supply-chain/vendor-assessment) | — | NIS2 führend |
-| Vertragliche Anforderungen | [Sicherheitsklauseln](/de/supply-chain/contractual-requirements) | Annex I Teil II Nr. 1 | Gemeinsame Vertragsstandards |
+| Vertragliche Anforderungen | [Sicherheitsklauseln](/de/supply-chain/contractual-requirements) | Art. 13 Abs. 5 (Sorgfalt bei Drittkomponenten) | Gemeinsame Vertragsstandards |
 
-### §30 Nr. 5 – Schwachstellen ↔ CRA Art. 10/11
+### §30 Abs. 2 Nr. 5 – Schwachstellen ↔ CRA Art. 13 Abs. 8, Annex I Teil II
 
 | Aspekt | NIS2 | CRA | Synergie |
 |--------|------|-----|----------|
@@ -45,7 +45,7 @@ NIS2 (Organisation & Betrieb)
   ├── Risikomanagement ←──── AI Act (KI-Risikomanagement, Art. 9)
   ├── Vorfallmanagement ←──── CRA (Produkt-Incidents, Art. 14)
   ├── Supply Chain ←──── CRA (Software-SBOM, Annex I)
-  ├── Schwachstellen ←──── CRA (Produkt-CVEs, Art. 10/11)
+  ├── Schwachstellen ←──── CRA (Produkt-CVEs, Art. 13, Annex I Teil II)
   ├── Schulung ←──── AI Act (AI Literacy, Art. 4)
   └── Kryptografie ←──── AI Act (Cybersicherheit, Art. 15)
                     ←──── CRA (Produktverschlüsselung, Annex I)

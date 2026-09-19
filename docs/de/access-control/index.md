@@ -1,9 +1,9 @@
 # Zugriffskontrolle & Sichere Kommunikation
 
 ::: info RECHTSGRUNDLAGE
-**§30 Abs. 2 Nr. 9 BSIG** – Sicherheit des Personals, Konzepte für die Zugriffskontrolle und Management von Anlagen
+**§30 Abs. 2 Nr. 9 BSIG** – Erstellung von Konzepten für die Sicherheit des Personals, die Zugriffskontrolle und für die Verwaltung von IKT-Systemen, -Produkten und -Prozessen
 
-**§30 Abs. 2 Nr. 10 BSIG** – Verwendung von Lösungen zur Multi-Faktor-Authentifizierung oder kontinuierlichen Authentifizierung, gesicherte Sprach-, Video- und Textkommunikation sowie gegebenenfalls gesicherte Notfallkommunikationssysteme
+**§30 Abs. 2 Nr. 10 BSIG** – Verwendung von Lösungen zur Multi-Faktor-Authentifizierung oder kontinuierlichen Authentifizierung, gesicherte Sprach-, Video- und Textkommunikation sowie gegebenenfalls gesicherte Notfallkommunikationssysteme innerhalb der Einrichtung
 :::
 
 ## Zugriffskontrollprinzipien

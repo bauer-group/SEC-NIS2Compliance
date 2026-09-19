@@ -11,7 +11,7 @@ Documents mandatory training under §30(2) No. 7 BSIG and management training un
 | **Training ID** | TRN-YYYY-XXX |
 | **Title** | |
 | **Type** | [ ] Onboarding  [ ] Mandatory refresher  [ ] §38 Management  [ ] Specialized |
-| **§30 No. 7 reference** | [Cyber hygiene / Phishing / Password / Social engineering / Other] |
+| **§30(2) No. 7 reference** | [Cyber hygiene / Phishing / Password / Social engineering / Other] |
 | **Date** | |
 | **Duration (min.)** | |
 | **Format** | [ ] In-person  [ ] Live webinar  [ ] E-learning self-study |
@@ -66,6 +66,6 @@ Documents mandatory training under §30(2) No. 7 BSIG and management training un
 ## Notes
 
 - **Retention period:** at least **3 years**
-- Management must be trained **at least annually** (§38(3))
+- Management is trained **at least annually** (internal requirement; §38(3) BSIG requires regular training, according to the explanatory memorandum at least every three years)
 - All employees with system access: mandatory refresher **at least annually**
 - New hires: onboarding training **within 30 days** of joining

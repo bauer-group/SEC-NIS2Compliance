@@ -2,7 +2,7 @@
 
 ## Instructions
 
-This template structures the three-stage reporting model under §32 BSIG (early warning 24h / update 72h / final report 1 month). All three stages are consolidated into one document.
+This template structures the three-stage reporting model under §32 BSIG (early warning 24h / update 72h / final report 1 month after the 72h notification). All three stages are consolidated into one document.
 
 ## Incident Master Data
 
@@ -46,7 +46,7 @@ This template structures the three-stage reporting model under §32 BSIG (early 
 
 | Field | Value |
 |---|---|
-| **Reported on** | [Date, max. T+30 days – extension documented: yes/no] |
+| **Reported on** | [Date, no later than 1 month after the 72h notification – if the incident is ongoing, progress report: yes/no] |
 | **Detailed description** | [Full sequence with timestamps] |
 | **Confirmed root cause** | [Root cause] |
 | **Actions taken** | [Immediate / Medium-term / Long-term] |

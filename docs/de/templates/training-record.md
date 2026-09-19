@@ -11,7 +11,7 @@ Dokumentiert die Pflichtschulungen nach §30 Abs. 2 Nr. 7 BSIG sowie die Geschä
 | **Schulungs-ID** | TRN-YYYY-XXX |
 | **Titel** | |
 | **Schulungstyp** | [ ] Onboarding  [ ] Pflicht-Refresher  [ ] §38 Geschäftsleitung  [ ] Spezialschulung |
-| **Bezug §30 Nr. 7** | [Cyberhygiene / Phishing / Passwort / Social Engineering / Sonstiges] |
+| **Bezug §30 Abs. 2 Nr. 7** | [Cyberhygiene / Phishing / Passwort / Social Engineering / Sonstiges] |
 | **Datum** | |
 | **Dauer (Min.)** | |
 | **Format** | [ ] Präsenz  [ ] Webinar Live  [ ] E-Learning Selbststudium |
@@ -66,6 +66,6 @@ Dokumentiert die Pflichtschulungen nach §30 Abs. 2 Nr. 7 BSIG sowie die Geschä
 ## Hinweise
 
 - **Aufbewahrungsfrist:** mindestens **3 Jahre**
-- Geschäftsleitung muss **mindestens jährlich** geschult werden (§38 Abs. 3)
+- Geschäftsleitung wird **mindestens jährlich** geschult (interne Vorgabe; §38 Abs. 3 BSIG verlangt regelmäßige Schulungen, nach der Gesetzesbegründung mindestens alle drei Jahre)
 - Alle Mitarbeiter mit Systemzugriff: **mindestens jährlich** Pflicht-Refresher
 - Neueinstellungen: Onboarding-Schulung **innerhalb 30 Tagen** nach Eintritt

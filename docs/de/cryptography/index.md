@@ -1,12 +1,12 @@
 # Kryptografie
 
 ::: info RECHTSGRUNDLAGE
-**§30 Abs. 2 Nr. 8 BSIG** – Konzepte und Verfahren für den Einsatz von Kryptografie und gegebenenfalls Verschlüsselung
+**§30 Abs. 2 Nr. 8 BSIG** – Konzepte und Prozesse für den Einsatz von kryptographischen Verfahren
 :::
 
 ## Standards
 
-Die BAUER GROUP orientiert sich an den Empfehlungen des BSI (TR-02102) und ISO/IEC 27001 Annex A.10:
+Die BAUER GROUP orientiert sich an den Empfehlungen des BSI (TR-02102) und ISO/IEC 27001:2022 (Anhang A, Control 8.24):
 
 | Bereich | Standard | Mindestanforderung |
 |---------|---------|-------------------|

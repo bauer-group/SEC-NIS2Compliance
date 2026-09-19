@@ -1,7 +1,7 @@
 # Schulung & Awareness
 
 ::: info RECHTSGRUNDLAGE
-**§30 Abs. 2 Nr. 7 BSIG** – Grundlegende Verfahren im Bereich der Cyberhygiene und Schulungen im Bereich der Sicherheit in der Informationstechnik
+**§30 Abs. 2 Nr. 7 BSIG** – Grundlegende Schulungen und Sensibilisierungsmaßnahmen im Bereich der Sicherheit in der Informationstechnik
 
 **§38 Abs. 3 BSIG** – Die Geschäftsleitungen müssen regelmäßig an Schulungen teilnehmen.
 :::

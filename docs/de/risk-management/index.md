@@ -1,7 +1,7 @@
 # Risikomanagement
 
 ::: info RECHTSGRUNDLAGE
-**§30 Abs. 2 Nr. 1 BSIG** – Konzepte in Bezug auf die Risikoanalyse und Sicherheit für Informationssysteme
+**§30 Abs. 2 Nr. 1 BSIG** – Konzepte in Bezug auf die Risikoanalyse und auf die Sicherheit in der Informationstechnik
 :::
 
 ## Informationssicherheitspolitik
@@ -39,10 +39,10 @@ Alle informationstechnischen Systeme, Komponenten und Prozesse werden in einem z
 - **Datenbestände** – Klassifizierung nach Schutzbedarf (normal, hoch, sehr hoch)
 - **Cloud-Dienste** – Externe Dienste mit Anbieter, Standort und Vertragsstatus
 
-## Normenorientierung
+## Normen und Vorgaben
 
-Die Umsetzung orientiert sich an:
+Die Umsetzung stützt sich auf:
 
 - **ISO/IEC 27001:2022** – Informationssicherheits-Managementsysteme
 - **BSI IT-Grundschutz** – Methodischer Rahmen für Risikoanalyse
-- **Durchführungsverordnung (EU) 2024/2690** – Detaillierte technische Anforderungen zu NIS2
+- **Durchführungsverordnung (EU) 2024/2690** – für die BAUER GROUP als DNS-Diensteanbieter und Managed Service Provider verbindlich; ihre technischen und methodischen Anforderungen haben Vorrang (§30 Abs. 3 BSIG)

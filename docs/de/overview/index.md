@@ -1,11 +1,11 @@
 # Einführung
 
-Diese Dokumentation beschreibt die Umsetzung der **NIS-2-Richtlinie** (EU) 2022/2555 und des deutschen **NIS2-Umsetzungsgesetzes** (NIS2UmsuCG) bei der BAUER GROUP. Sie umfasst alle zehn Risikomanagementmaßnahmen nach §30 Abs. 2 BSIG sowie die Pflichten aus §32 (Meldepflichten), §33 (Registrierung) und §38 (Geschäftsleitungspflichten).
+Diese Dokumentation beschreibt die Umsetzung der **NIS-2-Richtlinie** (EU) 2022/2555 und des deutschen **NIS2-Umsetzungsgesetzes** (NIS2UmsuCG) bei der BAUER GROUP. Sie umfasst alle zehn Risikomanagementmaßnahmen nach §30 Abs. 2 BSIG sowie die Pflichten aus §32 (Meldepflichten), §§33, 34 (Registrierung), §35 (Unterrichtung der Dienstempfänger) und §38 (Geschäftsleitungspflichten).
 
 ::: info RECHTSGRUNDLAGE
 **NIS-2-Richtlinie (EU) 2022/2555** – Maßnahmen für ein hohes gemeinsames Cybersicherheitsniveau in der Union.
 
-**BSIG §30 Abs. 1:** Besonders wichtige Einrichtungen und wichtige Einrichtungen sind verpflichtet, geeignete, verhältnismäßige und wirksame technische und organisatorische Maßnahmen zu ergreifen, um Störungen der Verfügbarkeit, Integrität, Authentizität und Vertraulichkeit der informationstechnischen Systeme, Komponenten und Prozesse zu vermeiden.
+**BSIG §30 Abs. 1:** Besonders wichtige Einrichtungen und wichtige Einrichtungen sind verpflichtet, geeignete, verhältnismäßige und wirksame technische und organisatorische Maßnahmen, die in Absatz 2 konkretisiert werden, zu ergreifen, um Störungen der Verfügbarkeit, Integrität und Vertraulichkeit der informationstechnischen Systeme, Komponenten und Prozesse, die sie für die Erbringung ihrer Dienste nutzen, zu vermeiden und Auswirkungen von Sicherheitsvorfällen möglichst gering zu halten.
 :::
 
 ## Geltungsbereich
