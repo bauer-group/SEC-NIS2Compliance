@@ -51,7 +51,7 @@ Micro and small enterprises are in principle not covered – except in size-inde
 
 - **17.03.2026** – Entry into force (Act of 11.03.2026, BGBl. 2026 I No. 66)
 - **17.07.2026** – CER Directive deadline by which Member States identify their critical entities (Art. 6(1) (EU) 2022/2557) – not a deadline for operators
-- **Registration** – at the latest three months after a facility qualifies as a critical facility (§8(1) KRITIS-DachG). Which facilities are critical will only be determined by the statutory ordinance under §4(3) and §5(1) KRITIS-DachG, which according to the BBK is still being drafted (as of 19.09.2026). Until then, the BSI KRITIS Ordinance (BSI-KritisV) determines critical facilities for the purposes of the BSIG (§66 BSIG).
+- **Registration** – at the latest three months after a facility qualifies as a critical facility (§8(1) KRITIS-DachG). Which facilities are critical will only be determined by the statutory ordinance under §4(3) and §5(1) KRITIS-DachG, which according to the BBK is still being drafted and coordinated and has not yet been promulgated in the Federal Law Gazette (as of 19.09.2026). Until it enters into force, the BSI KRITIS Ordinance (BSI-KritisV) determines critical facilities for the purposes of the BSIG (§66 BSIG; §12 BSI-KritisV).
 - The KRITIS-DachG complements NIS2 with **physical resilience** and transposes the EU CER Directive ((EU) 2022/2557) into German law.
 
 :::

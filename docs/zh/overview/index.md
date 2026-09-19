@@ -10,20 +10,27 @@
 
 ## 范围
 
+本文档涵盖BAUER GROUP的以下领域：
+
 | 领域 | 描述 |
 |------|------|
 | **软件开发** | B2B软件、嵌入式系统和AI驱动工作流程的自主开发 |
 | **IT基础设施** | 服务器运营、网络基础设施和云服务 |
+| **主机托管与DNS** | 主机托管服务，以及为客户域名运营的权威DNS服务器（DNS托管） |
 | **托管服务** | 面向B2B客户的IT服务和支持 |
 | **内部IT** | 内部运营的系统和流程 |
 
 ## 互补文档
+
+BAUER GROUP维护三套互补的合规文档：
 
 | 文档 | 法规 | 重点 | URL |
 |------|------|------|-----|
 | **NIS2**（本文档） | (EU) 2022/2555 / BSIG | 组织与运营 | [nis2.docs.bauer-group.com](https://nis2.docs.bauer-group.com) |
 | **CRA** | (EU) 2024/2847 | 产品与软件 | [cra.docs.bauer-group.com](https://cra.docs.bauer-group.com) |
 | **AI法案** | (EU) 2024/1689 | AI系统 | [ai-act.docs.bauer-group.com](https://ai-act.docs.bauer-group.com) |
+
+在要求相互重叠之处，将引用相应的另一套文档，以避免冗余。CRA文档涵盖与产品相关的网络安全要求，NIS2文档涵盖组织和运营方面的要求。
 
 ## 文档结构
 
@@ -38,6 +45,6 @@
 | 7 | [有效性审查](/zh/effectiveness-review/) | 第6项 | 安全审计、KPI、渗透测试 |
 | 8 | [培训与意识](/zh/training/) | 第7项 | 强制培训、网络卫生 |
 | 9 | [加密技术](/zh/cryptography/) | 第8项 | 加密、密钥管理 |
-| 10 | [访问控制](/zh/access-control/) | 第9-10项 | 认证、MFA、安全通信 |
+| 10 | [访问控制](/zh/access-control/) | 第9–10项 | 认证、MFA、安全通信 |
 | 11 | [治理](/zh/governance/) | §38 | 管理层职责、治理结构 |
 | 12 | [合规矩阵](/zh/compliance-matrix/) | 全部 | 完整要求映射 |

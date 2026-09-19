@@ -128,7 +128,7 @@ In these cases, the exemption for micro and small enterprises does **not** apply
 
 | Case | Classification | Provision | Note |
 |------|----------------|-----------|------|
-| **Operators of critical facilities** | essential | §28(1) No. 1 BSIG | Until the ordinance under the KRITIS Umbrella Act (KRITIS-DachG) enters into force, critical facilities continue to be determined under the BSI KRITIS Ordinance (§66 BSIG). §31 and §39 BSIG also apply. |
+| **Operators of critical facilities** | essential | §28(1) No. 1 BSIG | Until the ordinance under §4(3) and §5(1) of the KRITIS Umbrella Act (KRITIS-DachG) enters into force (as of 19.09.2026: not promulgated), critical facilities continue to be determined under the BSI KRITIS Ordinance (§66 BSIG; §12 BSI-KritisV). §31 and §39 BSIG also apply. |
 | **Qualified trust service providers, TLD name registries, DNS service providers** | essential | §28(1) No. 2 BSIG | A DNS service provider is anyone who offers public recursive resolvers or authoritative name resolution for third parties – even as a sole proprietor. |
 | **Providers of publicly available telecommunications services, operators of public telecommunications networks** | essential with at least 50 employees or with turnover and balance sheet total each above €10M, otherwise important | §28(1) No. 3, (2) No. 2 BSIG | The security obligations derive predominantly from the TKG, the German Telecommunications Act (§28(5) BSIG). The obligation to register with the BSI still applies. |
 | **Other (non-qualified) trust service providers** | important | §28(2) No. 1 BSIG | – |
@@ -221,18 +221,34 @@ These questionnaire items are frequently unresolved at small suppliers:
 
 ## BAUER GROUP Classification {#bauer-group}
 
-NIS2 concerns BAUER GROUP in three roles:
+BAUER GROUP is **directly subject to NIS2** – as an **essential entity**, regardless of its size. The reason is DNS hosting: BAUER GROUP offers its customers authoritative DNS services for their domains and is therefore a DNS service provider (§2 No. 8 BSIG). Under §28(1) No. 2 BSIG, DNS service providers always qualify as essential entities; in the BSI's view, the rule on negligible ancillary activities (§28(3) BSIG) does not apply here. The Commission's proposal to amend the NIS2 Directive would remove this size-independent coverage; the classification stands until the BSIG is amended (see [Outlook](#outlook)).
+
+In addition, NIS2 concerns BAUER GROUP in three roles:
 
 | Role | Classification | Implementation |
 |------|----------------|----------------|
-| **As an entity** | With its Managed Services business unit, BAUER GROUP falls under the entity type managed service provider (Annex 1 No. 6.1.10 BSIG). Whether it qualifies as an important or essential entity depends on the size thresholds (see [Size Classes](#size-classes)); this classification is the basis for registration under §33 BSIG. For MSPs, Implementing Regulation (EU) 2024/2690 also applies (§30(3) BSIG). Software development alone would not be an entity type. | Chapters 2–12 of this documentation; for registration under §33, see [Compliance Matrix](/en/compliance-matrix/) |
+| **As an entity** | Essential entity as a DNS service provider (Annex 1 No. 6.1.2, §28(1) No. 2 BSIG). With its hosting and managed services, it additionally provides services of the entity type managed service provider (Annex 1 No. 6.1.10 BSIG). For DNS service providers and MSPs, Implementing Regulation (EU) 2024/2690 takes precedence (§30(3) BSIG). Software development alone would not be an entity type. | Chapters 2–12 of this documentation; for registration under §§33, 34, see [Compliance Matrix](/en/compliance-matrix/) |
 | **As a supplier** | Regulated customers, federal authorities and financial entities pass their requirements on to BAUER GROUP by contract. | Evidence from this documentation, contractual incident reporting to customers |
 | **As a client** | BAUER GROUP passes security requirements on to its own service providers (§30(2) No. 4 BSIG). | [Supply Chain Security](/en/supply-chain/) |
+
+::: info Consequences of Classification as an Essential Entity
+
+- **Supervision without specific cause:** The BSI can order audits, inspections or certifications and check compliance on site even without any indication of violations (§61 BSIG).
+- **Fine range:** up to €10M; for total turnover of more than €500M, up to 2% of worldwide total turnover (§65 BSIG).
+- **Registration:** in addition to the information under §33 BSIG, additional information under §34 BSIG, which applies to DNS service providers, managed service providers and other digital entity types; the competent Member State is the one in which the main establishment in the EU is located (§60 BSIG).
+- **Technical requirements:** The details of the risk management measures under §30 BSIG are governed by the Annex to Implementing Regulation (EU) 2024/2690.
+
+:::
 
 ## Outlook {#outlook}
 
 ::: info Planned Amendment to the NIS2 Directive
-On 20.01.2026, the European Commission proposed a targeted amendment to the NIS2 Directive (COM(2026) 13). Under the proposal, entities of a type referred to in Annex I NIS2 (corresponding to Annex 1 BSIG) would, based on size, only be essential if they exceed the ceilings for "small mid-cap enterprises" (fewer than 750 employees and annual turnover at most €150M or annual balance sheet total at most €129M, Recommendation (EU) 2025/1099). The proposal is not yet applicable law. The BSIG continues to apply unchanged until it is amended.
+On 20.01.2026, the European Commission proposed a targeted amendment to the NIS2 Directive (COM(2026) 13, procedure 2026/0012(COD)). Two points matter for this page:
+
+- Entities of a type referred to in Annex I NIS2 (corresponding to Annex 1 BSIG) would, based on size, only be essential if they exceed the ceilings for "small mid-cap enterprises" (currently fewer than 750 employees and annual turnover at most €150M or annual balance sheet total at most €129M, Recommendation (EU) 2025/1099).
+- DNS service providers would no longer be covered regardless of size. The general size cap would apply to them; micro and small DNS service providers would fall outside the scope.
+
+As of 19.09.2026, the proposal is not applicable law: the lead committee of the European Parliament (ITRE) has not yet presented a draft report, and the Council has not yet adopted a general approach. The thresholds may still change – in the parallel Omnibus IV procedure, Parliament and Council provisionally agreed on 09.06.2026 on higher small mid-cap ceilings (fewer than 1,000 employees and annual turnover at most €200M or annual balance sheet total at most €172M). Once the amending directive enters into force, Member States would have twelve months to transpose it. Until then, the BSIG applies unchanged; DNS service providers remain essential entities regardless of their size.
 :::
 
 ## Sources {#sources}

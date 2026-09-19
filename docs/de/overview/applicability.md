@@ -128,7 +128,7 @@ In diesen Fällen gilt die Ausnahme für Kleinst- und Kleinunternehmen **nicht**
 
 | Fall | Einstufung | Norm | Hinweis |
 |------|------------|------|---------|
-| **Betreiber kritischer Anlagen** | besonders wichtig | §28 Abs. 1 Nr. 1 BSIG | Kritische Anlagen werden bis zum Inkrafttreten der Verordnung nach dem KRITIS-Dachgesetz weiter nach der BSI-Kritisverordnung bestimmt (§66 BSIG). Zusätzlich gelten §31 und §39 BSIG. |
+| **Betreiber kritischer Anlagen** | besonders wichtig | §28 Abs. 1 Nr. 1 BSIG | Kritische Anlagen werden bis zum Inkrafttreten der Verordnung nach §4 Abs. 3 und §5 Abs. 1 KRITIS-Dachgesetz (Stand 19.09.2026: nicht verkündet) weiter nach der BSI-Kritisverordnung bestimmt (§66 BSIG; §12 BSI-KritisV). Zusätzlich gelten §31 und §39 BSIG. |
 | **Qualifizierte Vertrauensdiensteanbieter, TLD-Name-Registries, DNS-Diensteanbieter** | besonders wichtig | §28 Abs. 1 Nr. 2 BSIG | DNS-Diensteanbieter ist, wer autoritative Namensauflösung für Dritte oder öffentliche rekursive Resolver anbietet – auch als Einzelunternehmer. |
 | **Anbieter öffentlich zugänglicher TK-Dienste, Betreiber öffentlicher TK-Netze** | besonders wichtig ab 50 Mitarbeitern oder bei Umsatz und Bilanzsumme von jeweils über 10 Mio. EUR, sonst wichtig | §28 Abs. 1 Nr. 3, Abs. 2 Nr. 2 BSIG | Die Sicherheitspflichten folgen überwiegend aus dem TKG (§28 Abs. 5 BSIG). Die Registrierung beim BSI bleibt. |
 | **Sonstige (nicht qualifizierte) Vertrauensdiensteanbieter** | wichtig | §28 Abs. 2 Nr. 1 BSIG | – |
@@ -221,18 +221,34 @@ Diese Fragebogenpunkte sind bei kleinen Zulieferern häufig offen:
 
 ## Einordnung der BAUER GROUP {#bauer-group}
 
-Die BAUER GROUP ist von NIS2 in drei Rollen berührt:
+Die BAUER GROUP ist **unmittelbar von NIS2 betroffen** – als **besonders wichtige Einrichtung**, unabhängig von ihrer Größe. Grund ist das DNS-Hosting: Die BAUER GROUP bietet ihren Kunden autoritative DNS-Dienste für deren Domains an und ist damit DNS-Diensteanbieter (§2 Nr. 8 BSIG). DNS-Diensteanbieter gelten nach §28 Abs. 1 Nr. 2 BSIG stets als besonders wichtige Einrichtung; die Regel zu vernachlässigbaren Nebentätigkeiten (§28 Abs. 3 BSIG) greift hier nach Auffassung des BSI nicht. Der Kommissionsvorschlag zur Änderung der NIS2-Richtlinie würde diese größenunabhängige Erfassung aufheben; bis zu einer Änderung des BSIG bleibt es bei der Einstufung (siehe [Ausblick](#outlook)).
+
+Daneben ist die BAUER GROUP in drei Rollen berührt:
 
 | Rolle | Einordnung | Umsetzung |
 |-------|------------|-----------|
-| **Als Einrichtung** | Mit dem Geschäftsbereich Managed Services fällt die BAUER GROUP unter die Einrichtungsart Managed Service Provider (Anlage 1 Nr. 6.1.10 BSIG). Ob sie als wichtige oder besonders wichtige Einrichtung gilt, richtet sich nach den Größenschwellen (siehe [Größenklassen](#size-classes)); diese Einstufung ist Grundlage der Registrierung nach §33 BSIG. Für MSPs gilt zusätzlich die DVO (EU) 2024/2690 (§30 Abs. 3 BSIG). Die Softwareentwicklung allein wäre keine Einrichtungsart. | Kapitel 2–12 dieser Dokumentation; Registrierung nach §33 siehe [Compliance-Matrix](/de/compliance-matrix/) |
+| **Als Einrichtung** | Besonders wichtige Einrichtung als DNS-Diensteanbieter (Anlage 1 Nr. 6.1.2, §28 Abs. 1 Nr. 2 BSIG). Mit Hosting- und Managed Services erbringt sie zusätzlich Leistungen der Einrichtungsart Managed Service Provider (Anlage 1 Nr. 6.1.10 BSIG). Für DNS-Diensteanbieter und MSPs gilt die DVO (EU) 2024/2690 vorrangig (§30 Abs. 3 BSIG). Die Softwareentwicklung allein wäre keine Einrichtungsart. | Kapitel 2–12 dieser Dokumentation; Registrierung nach §§33, 34 siehe [Compliance-Matrix](/de/compliance-matrix/) |
 | **Als Zulieferer** | Regulierte Kunden, Bundesbehörden und Finanzunternehmen geben ihre Anforderungen vertraglich an die BAUER GROUP weiter. | Nachweise aus dieser Dokumentation, vertragliche Vorfallmeldung an Kunden |
 | **Als Auftraggeber** | Die BAUER GROUP gibt Sicherheitsanforderungen an die eigenen Dienstleister weiter (§30 Abs. 2 Nr. 4 BSIG). | [Lieferkettensicherheit](/de/supply-chain/) |
+
+::: info Folgen der Einstufung als besonders wichtige Einrichtung
+
+- **Anlassunabhängige Aufsicht:** Das BSI kann auch ohne Anhaltspunkte für Verstöße Audits, Prüfungen oder Zertifizierungen anordnen und die Einhaltung vor Ort prüfen (§61 BSIG).
+- **Bußgeldrahmen:** bis zu 10 Mio. EUR, bei mehr als 500 Mio. EUR Gesamtumsatz bis zu 2 % des weltweiten Gesamtumsatzes (§65 BSIG).
+- **Registrierung:** neben den Angaben nach §33 BSIG zusätzliche Angaben nach §34 BSIG, die für DNS-Diensteanbieter, Managed Service Provider und weitere digitale Einrichtungsarten gelten; zuständig ist der Mitgliedstaat der Hauptniederlassung in der EU (§60 BSIG).
+- **Technische Anforderungen:** Die Risikomanagementmaßnahmen nach §30 BSIG richten sich im Detail nach dem Anhang der DVO (EU) 2024/2690.
+
+:::
 
 ## Ausblick {#outlook}
 
 ::: info Geplante Änderung der NIS2-Richtlinie
-Die Europäische Kommission hat am 20.01.2026 eine gezielte Änderung der NIS2-Richtlinie vorgeschlagen (COM(2026) 13). Danach wären Einrichtungen der in Anhang I NIS2 (entspricht Anlage 1 BSIG) genannten Art über die Größe nur noch besonders wichtig, wenn sie die Obergrenzen für „kleine Midcap-Unternehmen“ überschreiten (weniger als 750 Mitarbeiter und Jahresumsatz höchstens 150 Mio. EUR oder Jahresbilanzsumme höchstens 129 Mio. EUR, Empfehlung (EU) 2025/1099). Der Vorschlag ist noch kein geltendes Recht. Das BSIG gilt bis zu einer Anpassung unverändert.
+Die Europäische Kommission hat am 20.01.2026 eine gezielte Änderung der NIS2-Richtlinie vorgeschlagen (COM(2026) 13, Verfahren 2026/0012(COD)). Für diese Seite sind zwei Punkte wichtig:
+
+- Einrichtungen der in Anhang I NIS2 (entspricht Anlage 1 BSIG) genannten Art wären über die Größe nur noch besonders wichtig, wenn sie die Obergrenzen für „kleine Midcap-Unternehmen“ überschreiten (derzeit weniger als 750 Mitarbeiter und Jahresumsatz höchstens 150 Mio. EUR oder Jahresbilanzsumme höchstens 129 Mio. EUR, Empfehlung (EU) 2025/1099).
+- DNS-Diensteanbieter wären nicht mehr größenunabhängig erfasst. Für sie gälte die allgemeine Größenschwelle; Kleinst- und Kleinunternehmen unter ihnen fielen aus dem Anwendungsbereich.
+
+Stand 19.09.2026 ist der Vorschlag kein geltendes Recht: Der federführende Ausschuss des Europäischen Parlaments (ITRE) hat noch keinen Berichtsentwurf vorgelegt, der Rat noch keine allgemeine Ausrichtung beschlossen. Die Schwellenwerte können sich noch ändern – im parallelen Omnibus-IV-Verfahren haben sich Parlament und Rat am 09.06.2026 vorläufig auf höhere Midcap-Schwellen geeinigt (weniger als 1.000 Mitarbeiter und Jahresumsatz höchstens 200 Mio. EUR oder Jahresbilanzsumme höchstens 172 Mio. EUR). Nach Inkrafttreten der Änderungsrichtlinie hätten die Mitgliedstaaten zwölf Monate für die Umsetzung. Bis dahin gilt das BSIG unverändert; DNS-Diensteanbieter bleiben unabhängig von ihrer Größe besonders wichtige Einrichtungen.
 :::
 
 ## Quellen {#sources}

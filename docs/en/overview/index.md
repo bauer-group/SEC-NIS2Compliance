@@ -10,20 +10,27 @@ This documentation describes the implementation of the **NIS 2 Directive** (EU) 
 
 ## Scope
 
+The documentation covers the following areas of BAUER GROUP:
+
 | Area | Description |
 |------|-------------|
 | **Software Development** | Custom B2B software, embedded systems and AI-driven workflows |
 | **IT Infrastructure** | Server operations, network infrastructure and cloud services |
+| **Hosting & DNS** | Hosting services and authoritative DNS servers (DNS hosting) for customer domains |
 | **Managed Services** | IT services and support for B2B customers |
 | **Internal IT** | Systems and processes for internal operations |
 
 ## Complementary Documentation
+
+BAUER GROUP maintains three complementary sets of compliance documentation:
 
 | Documentation | Regulation | Focus | URL |
 |--------------|------------|-------|-----|
 | **NIS2** (this document) | (EU) 2022/2555 / BSIG | Organization & Operations | [nis2.docs.bauer-group.com](https://nis2.docs.bauer-group.com) |
 | **CRA** | (EU) 2024/2847 | Products & Software | [cra.docs.bauer-group.com](https://cra.docs.bauer-group.com) |
 | **AI Act** | (EU) 2024/1689 | AI Systems | [ai-act.docs.bauer-group.com](https://ai-act.docs.bauer-group.com) |
+
+Where requirements overlap, the respective other documentation is referenced to avoid redundancy. The CRA documentation covers product-related cybersecurity requirements, the NIS2 documentation covers organizational and operational requirements.
 
 ## Documentation Structure
 
