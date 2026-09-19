@@ -15,7 +15,7 @@ This template structures the three-stage reporting model under §32 BSIG (early 
 | **Detected by** | [Name / system / source] |
 | **Responsible CISO** | [Name] |
 | **Significant (§32)** | [ ] Yes  [ ] No – Reason: |
-| **Parallel reports** | [ ] GDPR Art. 33  [ ] CRA Art. 14  [ ] None |
+| **Parallel reports** | [ ] GDPR Art. 33(1) (authority)  [ ] GDPR Art. 33(2) (customer as controller)  [ ] CRA Art. 14  [ ] None |
 
 ## Stage 1: Early Warning (24 hours)
 

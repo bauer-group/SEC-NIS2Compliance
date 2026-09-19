@@ -81,7 +81,7 @@ Für die DNS- und Managed-Services der BAUER GROUP konkretisiert die DVO (EU) 20
 
 - **Meldeportal:** BSI-Meldeplattform (online)
 - **Intern:** ISB → Geschäftsleitung → BSI-Meldung
-- **Parallel:** Datenschutzmeldung nach Art. 33 DSGVO prüfen, falls personenbezogene Daten betroffen
+- **Parallel:** Falls personenbezogene Daten betroffen sind, DSGVO-Meldungen prüfen – als Verantwortlicher an die Aufsichtsbehörde (Art. 33 Abs. 1), als Auftragsverarbeiter unverzüglich an den Kunden (Art. 33 Abs. 2)
 
 ::: warning DOPPELMELDUNG CRA + NIS2
 Als CRA-Hersteller und NIS2-Einrichtung können **zwei separate Meldepflichten** ausgelöst werden: CRA-Meldung über die einheitliche Meldeplattform an das koordinierende CSIRT und die ENISA (24h / 72h / Abschlussbericht 14 Tage nach verfügbarer Korrektur bzw. 1 Monat bei schwerwiegenden Vorfällen) und NIS2-Meldung an das BSI (24h / 72h / 1 Monat nach der 72-Stunden-Meldung). Details zum CRA-Meldeprozess in der [CRA-Dokumentation](https://cra.docs.bauer-group.com/de/incident-response/).

@@ -26,6 +26,7 @@
 |-----------|-------|--------|--------|
 | **BSI** | Meldeplattform | Gemäß §32-Meldemodell | 24h / 72h / 1 Monat nach der 72h-Meldung |
 | **Betroffene Kunden** | Direkte Benachrichtigung (E-Mail + Telefon) | Art, Umfang, Maßnahmen, Empfehlungen | Unverzüglich bei Betroffenheit |
+| **Kunden als Verantwortliche (DSGVO)** | Direkte Benachrichtigung | Verletzung des Schutzes personenbezogener Daten, die die BAUER GROUP im Auftrag des Kunden verarbeitet, mit den Angaben für dessen eigene Meldung (Art. 33 Abs. 2 DSGVO) | Unverzüglich nach Bekanntwerden; Frist nach Auftragsverarbeitungsvertrag |
 | **Datenschutzaufsicht** | Meldeportal | Meldung nach Art. 33 DSGVO, wenn personenbezogene Daten betroffen sind; bei hohem Risiko zusätzlich Benachrichtigung der betroffenen Personen (Art. 34 DSGVO) | Aufsicht: unverzüglich, möglichst binnen 72 Stunden (Art. 33); betroffene Personen: unverzüglich (Art. 34) |
 | **Strafverfolgung** | Anzeige | Bei Verdacht auf Straftat | Nach GL-Entscheidung |
 

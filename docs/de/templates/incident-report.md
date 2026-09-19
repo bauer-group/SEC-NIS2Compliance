@@ -15,7 +15,7 @@ Diese Vorlage strukturiert das dreistufige Meldemodell nach §32 BSIG (Frühwarn
 | **Erkannt durch** | [Name / System / Quelle] |
 | **Verantwortlicher ISB** | [Name] |
 | **Erheblich (§32)** | [ ] Ja  [ ] Nein – Begründung: |
-| **Parallele Meldung** | [ ] DSGVO Art. 33  [ ] CRA Art. 14  [ ] Keine |
+| **Parallele Meldung** | [ ] DSGVO Art. 33 Abs. 1 (Aufsicht)  [ ] DSGVO Art. 33 Abs. 2 (Kunde als Verantwortlicher)  [ ] CRA Art. 14  [ ] Keine |
 
 ## Stufe 1: Frühwarnung (24 Stunden)
 

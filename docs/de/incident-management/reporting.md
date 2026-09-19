@@ -57,7 +57,8 @@ Vorfall erkannt
     → Erstbewertung: Erheblich ja/nein? (< 4h)
       → Wenn ja: BSI-Frühwarnung vorbereiten (< 24h)
         → Geschäftsleitung informieren
-          → DSGVO-Meldung prüfen (Art. 33: 72h an Aufsichtsbehörde)
+          → DSGVO-Meldung prüfen (Art. 33 Abs. 1: 72h an Aufsichtsbehörde;
+             Art. 33 Abs. 2: als Auftragsverarbeiter unverzüglich an den Kunden)
             → CRA-Meldung prüfen (Art. 14: 24h über die ENISA-Meldeplattform)
 ```
 
@@ -70,7 +71,8 @@ Als Einrichtung des Sektors digitale Infrastruktur teilt die BAUER GROUP den pot
 | Regulierung | Auslöser | Frist | Empfänger |
 |------------|----------|-------|-----------|
 | **NIS2 / §32 BSIG** | Erheblicher Sicherheitsvorfall | 24h / 72h / 1 Monat nach der 72h-Meldung | BSI |
-| **DSGVO Art. 33** | Verletzung des Schutzes personenbezogener Daten | 72 Stunden | Zuständige Aufsichtsbehörde |
+| **DSGVO Art. 33 Abs. 1** | Verletzung des Schutzes personenbezogener Daten, für die die BAUER GROUP Verantwortlicher ist | Unverzüglich, möglichst binnen 72 Stunden | Zuständige Aufsichtsbehörde |
+| **DSGVO Art. 33 Abs. 2** | Verletzung des Schutzes personenbezogener Daten, die die BAUER GROUP als Auftragsverarbeiter für Kunden verarbeitet (Hosting, Managed Services) | Unverzüglich nach Bekanntwerden; Frist nach Auftragsverarbeitungsvertrag | Kunde als Verantwortlicher |
 | **CRA Art. 14 Abs. 1** | Aktiv ausgenutzte Schwachstelle in einem Produkt mit digitalen Elementen | 24h / 72h / 14 Tage nach Verfügbarkeit einer Korrektur | Koordinierendes CSIRT über die einheitliche Meldeplattform (zugleich ENISA) |
 | **CRA Art. 14 Abs. 3** | Schwerwiegender Sicherheitsvorfall mit Auswirkung auf die Sicherheit eines Produkts | 24h / 72h / 1 Monat nach der 72h-Meldung | Koordinierendes CSIRT über die einheitliche Meldeplattform (zugleich ENISA) |
 

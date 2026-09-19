@@ -26,6 +26,7 @@
 |-----------|---------|---------|--------|
 | **BSI** | Reporting platform | Per §32 reporting model | 24h / 72h / 1 month after the 72h notification |
 | **Affected customers** | Direct notification (email + phone) | Nature, scope, measures, recommendations | Without delay if affected |
+| **Customers as controllers (GDPR)** | Direct notification | Personal data breach affecting data BAUER GROUP processes on the customer's behalf, with the information the customer needs for its own notification (Art. 33(2) GDPR) | Without undue delay after becoming aware; deadline per data processing agreement |
 | **Data protection authority** | Reporting portal | Notification under Art. 33 GDPR if personal data is affected; in case of a high risk, additional notification of the data subjects (Art. 34 GDPR) | Authority: without undue delay, where feasible within 72 hours (Art. 33); data subjects: without undue delay (Art. 34) |
 | **Law enforcement** | Criminal complaint | If a criminal offense is suspected | After exec. management decision |
 

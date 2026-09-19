@@ -81,7 +81,7 @@ For BAUER GROUP's DNS and managed services, Implementing Regulation (EU) 2024/26
 
 - **Reporting portal:** BSI reporting platform (online)
 - **Internal:** ISO → Management → BSI report
-- **In parallel:** Assess a data breach notification under Art. 33 GDPR if personal data is affected
+- **In parallel:** If personal data is affected, assess GDPR notifications – as controller to the supervisory authority (Art. 33(1)), as processor without undue delay to the customer (Art. 33(2))
 
 ::: warning DUAL REPORTING CRA + NIS2
 As a CRA manufacturer and NIS2 entity, **two separate reporting obligations** may be triggered: CRA report via the single reporting platform to the coordinating CSIRT and ENISA (24h / 72h / final report 14 days after a corrective measure is available or 1 month for severe incidents) and NIS2 report to the BSI (24h / 72h / 1 month after the 72-hour notification). Details on the CRA reporting process in the [CRA Documentation](https://cra.docs.bauer-group.com/en/incident-response/).

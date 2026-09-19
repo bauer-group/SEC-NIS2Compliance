@@ -57,7 +57,8 @@ Incident detected
     → Initial assessment: Significant yes/no? (< 4h)
       → If yes: Prepare BSI early warning (< 24h)
         → Inform executive management
-          → Assess GDPR reporting (Art. 33: 72h to supervisory authority)
+          → Assess GDPR reporting (Art. 33(1): 72h to supervisory authority;
+             Art. 33(2): as processor, without undue delay to the customer)
             → Assess CRA reporting (Art. 14: 24h via the ENISA reporting platform)
 ```
 
@@ -70,7 +71,8 @@ As an entity in the digital infrastructure sector, BAUER GROUP informs the custo
 | Regulation | Trigger | Deadline | Recipient |
 |-----------|---------|----------|-----------|
 | **NIS2 / §32 BSIG** | Significant security incident | 24h / 72h / 1 month after the 72h notification | BSI |
-| **GDPR Art. 33** | Personal data breach | 72 hours | Competent supervisory authority |
+| **GDPR Art. 33(1)** | Personal data breach for which BAUER GROUP is the controller | Without undue delay, where feasible within 72 hours | Competent supervisory authority |
+| **GDPR Art. 33(2)** | Personal data breach affecting data BAUER GROUP processes for customers as a processor (hosting, managed services) | Without undue delay after becoming aware; deadline per data processing agreement | Customer as controller |
 | **CRA Art. 14(1)** | Actively exploited vulnerability in a product with digital elements | 24h / 72h / 14 days after a corrective measure is available | Coordinating CSIRT via the single reporting platform (simultaneously to ENISA) |
 | **CRA Art. 14(3)** | Severe incident having an impact on the security of a product | 24h / 72h / 1 month after the 72h notification | Coordinating CSIRT via the single reporting platform (simultaneously to ENISA) |
 
