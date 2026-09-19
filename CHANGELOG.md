@@ -4,6 +4,16 @@ All notable changes to this project are documented here. This file is maintained
 automatically by [semantic-release](https://github.com/semantic-release/semantic-release)
 on every release to `main`.
 
+## [0.9.0](https://github.com/bauer-group/SEC-NIS2Compliance/compare/v0.8.0...v0.9.0) (2026-09-19)
+
+### 🚀 Features
+
+* **overview:** classified BAUER GROUP as essential entity via DNS hosting ([538bae0](https://github.com/bauer-group/SEC-NIS2Compliance/commit/538bae03514130b65940bf6c4a93c3ed13f24faa))
+
+### 🐛 Bug Fixes
+
+* **i18n:** synchronized EN and ZH chapters with the German source ([e780206](https://github.com/bauer-group/SEC-NIS2Compliance/commit/e78020677ccbd5c3d870d218c282e455b26e435d))
+
 ## [0.8.0](https://github.com/bauer-group/SEC-NIS2Compliance/compare/v0.7.0...v0.8.0) (2026-09-19)
 
 ### 🚀 Features
