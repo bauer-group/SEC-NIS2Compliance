@@ -45,7 +45,7 @@ Micro and small enterprises are in principle not covered – except in size-inde
 | §§28, 29 BSIG | Classification as an essential or important entity | [Applicability & Size Classes](/en/overview/applicability) |
 | §32 BSIG | Reporting obligations for significant security incidents | [Incident Management](/en/incident-management/) |
 | §33 BSIG | Registration obligation with BSI | Organizationally implemented |
-| §38 BSIG | Approval, supervision and training obligations of management | [Governance](/en/governance/) |
+| §38 BSIG | Implementation, supervision and training obligations of management | [Governance](/en/governance/) |
 
 ::: info KRITIS-DachG Deadlines
 

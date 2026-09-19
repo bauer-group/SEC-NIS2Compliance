@@ -45,7 +45,7 @@ BSIG区分两类实体。决定性因素是实体类型（BSIG 附件1和附件2
 | §§28、29 BSIG | 分类为关键实体或重要实体 | [适用性与规模分类](/zh/overview/applicability) |
 | §32 BSIG | 重大安全事件报告义务 | [事件管理](/zh/incident-management/) |
 | §33 BSIG | BSI注册义务 | 已在组织层面实施 |
-| §38 BSIG | 管理层批准、监督和培训义务 | [治理](/zh/governance/) |
+| §38 BSIG | 管理层实施、监督和培训义务 | [治理](/zh/governance/) |
 
 ::: info KRITIS-DachG 关键日期
 

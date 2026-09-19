@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Documents the formal approval of risk management measures by management under §38(1) BSIG. **Personal liability of management** in case of breach — careful documentation is a protective mechanism.
+Documents the formal approval of risk management measures by management. §38(1) BSIG obliges management to implement the measures per §30 and to supervise their implementation; the prior approval of the measures as appropriate is required by the explanatory memorandum (cf. Art. 20(1) NIS2). **Personal liability of management** in case of breach (§38(2) BSIG) — careful documentation is a protective mechanism.
 
 ## Approval Master Data
 

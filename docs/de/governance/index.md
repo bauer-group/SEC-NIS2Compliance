@@ -1,7 +1,7 @@
 # Governance
 
 ::: info RECHTSGRUNDLAGE
-**§38 Abs. 1 BSIG** – Geschäftsleitungen besonders wichtiger Einrichtungen und wichtiger Einrichtungen sind verpflichtet, die von diesen Einrichtungen nach §30 zu ergreifenden Risikomanagementmaßnahmen zu billigen und ihre Umsetzung zu überwachen.
+**§38 Abs. 1 BSIG** – Geschäftsleitungen besonders wichtiger Einrichtungen und wichtiger Einrichtungen sind verpflichtet, die von diesen Einrichtungen nach §30 zu ergreifenden Risikomanagementmaßnahmen umzusetzen und ihre Umsetzung zu überwachen.
 
 **§38 Abs. 3 BSIG** – Geschäftsleitungen müssen regelmäßig an Schulungen teilnehmen, um ausreichende Kenntnisse und Fähigkeiten zur Erkennung und Bewertung von Risiken sowie Risikomanagementpraktiken zu erlangen.
 :::
@@ -12,20 +12,21 @@ Die NIS2-Umsetzung in Deutschland legt erstmals **persönliche Pflichten** der G
 
 | Pflicht | Beschreibung | Nachweis |
 |---------|-------------|---------|
-| **Billigung** | Formale Genehmigung der Risikomanagementmaßnahmen | Dokumentierte Freigabe |
-| **Überwachung** | Laufende Kontrolle der Umsetzung | Regelmäßige Berichte |
-| **Schulung** | Persönliche Teilnahme an Cybersicherheitsschulungen | Teilnahmenachweis |
-| **Haftung** | Persönliche Haftung bei Pflichtverletzung (§38 Abs. 2 BSIG) | — |
+| **Umsetzung** | Verantwortung für die Umsetzung der Maßnahmen nach §30 – auch wenn Aufgaben delegiert werden (§38 Abs. 1 BSIG) | Umsetzungsaufträge, Ressourcenfreigabe |
+| **Billigung** | Formale Genehmigung der Maßnahmen als geeignet (Gesetzesbegründung zu §38 Abs. 1; Art. 20 Abs. 1 NIS2) | Dokumentierte Freigabe |
+| **Überwachung** | Laufende Kontrolle der Umsetzung (§38 Abs. 1 BSIG) | Regelmäßige Berichte |
+| **Schulung** | Persönliche Teilnahme an Cybersicherheitsschulungen (§38 Abs. 3 BSIG) | Teilnahmenachweis |
+| **Haftung** | Haftung gegenüber der eigenen Einrichtung bei schuldhafter Pflichtverletzung (§38 Abs. 2 BSIG) | — |
 
 ::: warning HAFTUNG
-Nach §38 Abs. 2 BSIG haften Geschäftsleitungen für Schäden, die durch Verletzung ihrer Billigungs- und Überwachungspflichten entstehen. Verzichtsvereinbarungen und Vergleiche sind unwirksam.
+Nach §38 Abs. 2 BSIG haften Geschäftsleitungen, die ihre Pflichten nach Abs. 1 verletzen, ihrer Einrichtung für schuldhaft verursachte Schäden – nach den Regeln des Gesellschaftsrechts der jeweiligen Rechtsform (z. B. §43 GmbHG, §93 AktG). Nur wenn das Gesellschaftsrecht keine solche Haftungsregel enthält, haften sie unmittelbar nach dem BSIG.
 :::
 
 ## Governance-Struktur
 
 | Rolle | Verantwortlichkeit |
 |-------|-------------------|
-| **Geschäftsleitung** | Billigung der Maßnahmen, Ressourcenzuweisung, persönliche Schulung |
+| **Geschäftsleitung** | Umsetzungsverantwortung, Billigung und Überwachung der Maßnahmen, Ressourcenzuweisung, persönliche Schulung |
 | **Informationssicherheitsbeauftragter (ISB)** | Operative Steuerung, Risikoanalyse, Vorfallkoordination, BSI-Kontakt |
 | **IT-Leitung** | Technische Umsetzung, Systemsicherheit, Patch Management |
 | **Fachbereichsleiter** | Einhaltung der Sicherheitsrichtlinien im eigenen Bereich |

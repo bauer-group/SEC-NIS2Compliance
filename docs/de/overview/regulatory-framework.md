@@ -45,7 +45,7 @@ Kleinst- und Kleinunternehmen sind grundsätzlich nicht erfasst – außer in gr
 | §§28, 29 BSIG | Einstufung als besonders wichtige oder wichtige Einrichtung | [Betroffenheit & Größenklassen](/de/overview/applicability) |
 | §32 BSIG | Meldepflichten bei erheblichen Sicherheitsvorfällen | [Vorfallmanagement](/de/incident-management/) |
 | §33 BSIG | Registrierungspflicht beim BSI | Organisatorisch umgesetzt |
-| §38 BSIG | Billigungs-, Überwachungs- und Schulungspflichten der Geschäftsleitung | [Governance](/de/governance/) |
+| §38 BSIG | Umsetzungs-, Überwachungs- und Schulungspflichten der Geschäftsleitung | [Governance](/de/governance/) |
 
 ::: info KRITIS-DachG-Fristen
 

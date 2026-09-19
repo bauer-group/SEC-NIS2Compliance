@@ -2,7 +2,7 @@
 
 ## Anleitung
 
-Dokumentiert die formale Billigung der Risikomanagementmaßnahmen durch die Geschäftsleitung gemäß §38 Abs. 1 BSIG. **Persönliche Haftung der Geschäftsleitung** bei Pflichtverletzung — sorgfältige Dokumentation ist Schutzmechanismus.
+Dokumentiert die formale Billigung der Risikomanagementmaßnahmen durch die Geschäftsleitung. §38 Abs. 1 BSIG verpflichtet die Geschäftsleitung, die Maßnahmen nach §30 umzusetzen und ihre Umsetzung zu überwachen; die vorherige Billigung als geeignet verlangt die Gesetzesbegründung (vgl. Art. 20 Abs. 1 NIS2). **Persönliche Haftung der Geschäftsleitung** bei Pflichtverletzung (§38 Abs. 2 BSIG) — sorgfältige Dokumentation ist Schutzmechanismus.
 
 ## Billigungs-Stammdaten
 

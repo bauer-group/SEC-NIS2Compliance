@@ -1,7 +1,7 @@
 # Governance
 
 ::: info LEGAL BASIS
-**§38(1) BSIG** – Management of essential and important entities is obligated to approve the risk management measures taken by these entities per §30 and to supervise their implementation.
+**§38(1) BSIG** – Management of essential and important entities is obligated to implement the risk management measures to be taken by these entities per §30 and to supervise their implementation.
 
 **§38(3) BSIG** – Management must regularly participate in training to acquire sufficient knowledge and skills for identifying and assessing risks and risk management practices.
 :::
@@ -12,20 +12,21 @@ The German NIS2 implementation establishes **personal obligations** of managemen
 
 | Duty | Description | Evidence |
 |------|-------------|---------|
-| **Approval** | Formal approval of risk management measures | Documented sign-off |
-| **Supervision** | Ongoing control of implementation | Regular reports |
-| **Training** | Personal participation in cybersecurity training | Attendance record |
-| **Liability** | Personal liability for breach of duty (§38(2) BSIG) | — |
+| **Implementation** | Responsibility for implementing the measures per §30 – also where tasks are delegated (§38(1) BSIG) | Implementation orders, resource allocation |
+| **Approval** | Formal approval of the measures as appropriate (explanatory memorandum to §38(1); Art. 20(1) NIS2) | Documented sign-off |
+| **Supervision** | Ongoing control of implementation (§38(1) BSIG) | Regular reports |
+| **Training** | Personal participation in cybersecurity training (§38(3) BSIG) | Attendance record |
+| **Liability** | Liability towards the entity itself for culpable breach of duty (§38(2) BSIG) | — |
 
 ::: warning LIABILITY
-Under §38(2) BSIG, management is personally liable for damages resulting from breach of their approval and supervision duties. Waiver agreements and settlements are void.
+Under §38(2) BSIG, members of management who breach their duties under paragraph 1 are liable to their entity for culpably caused damage – under the company-law rules of the entity's legal form (e.g. §43 GmbHG, §93 AktG). Only where company law contains no such liability rule do they become liable directly under the BSIG.
 :::
 
 ## Governance Structure
 
 | Role | Responsibility |
 |------|---------------|
-| **Management** | Approval of measures, resource allocation, personal training |
+| **Management** | Responsibility for implementation, approval and supervision of measures, resource allocation, personal training |
 | **Information Security Officer (ISO)** | Operational control, risk analysis, incident coordination, BSI contact |
 | **IT Lead** | Technical implementation, system security, patch management |
 | **Department Heads** | Compliance with security policies in their area |
