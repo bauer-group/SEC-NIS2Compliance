@@ -4,6 +4,12 @@ All notable changes to this project are documented here. This file is maintained
 automatically by [semantic-release](https://github.com/semantic-release/semantic-release)
 on every release to `main`.
 
+## [0.9.1](https://github.com/bauer-group/SEC-NIS2Compliance/compare/v0.9.0...v0.9.1) (2026-09-19)
+
+### 🐛 Bug Fixes
+
+* **i18n:** added English-only info boxes to German and Chinese pages ([958bb05](https://github.com/bauer-group/SEC-NIS2Compliance/commit/958bb05b4a0d7fce391d0da2e47932566d0cd777))
+
 ## [0.9.0](https://github.com/bauer-group/SEC-NIS2Compliance/compare/v0.8.0...v0.9.0) (2026-09-19)
 
 ### 🚀 Features
