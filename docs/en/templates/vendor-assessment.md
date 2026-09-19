@@ -76,6 +76,5 @@ Assessment of security maturity of service providers and suppliers under §30(2)
 
 ## Notes
 
-- **Critical** vendors are reassessed **semi-annually**
-- **High** vendors are reassessed **annually**
+- **Critical** and **High** vendors are reassessed **annually**
 - Material changes (loss of certification, incident) trigger immediate reassessment

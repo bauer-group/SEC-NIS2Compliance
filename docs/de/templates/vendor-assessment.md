@@ -76,6 +76,5 @@ Bewertung der Sicherheitsreife von Dienstleistern und Lieferanten gemäß §30 A
 
 ## Hinweise
 
-- **Kritische** Lieferanten werden **halbjährlich** neu bewertet
-- **Hoch**-Lieferanten werden **jährlich** neu bewertet
+- **Kritische** und **Hoch**-Lieferanten werden **jährlich** neu bewertet
 - Bei wesentlichen Änderungen (Zertifikatsverlust, Vorfall) sofortige Neubewertung
