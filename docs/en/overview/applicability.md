@@ -221,15 +221,13 @@ These questionnaire items are frequently unresolved at small suppliers:
 
 ## BAUER GROUP Classification {#bauer-group}
 
-BAUER GROUP is **directly subject to NIS2** – as an **essential entity**, regardless of its size. The sole basis is the DNS service: BAUER GROUP offers its customers authoritative DNS services for their domains, partly on its own name servers, partly through bought-in services that it provides under its own contract. This makes it a DNS service provider (§2 No. 8 BSIG), and such providers always qualify as essential entities under §28(1) No. 2 BSIG.
-
-DNS is a supporting service for the hosting and managed services business, not a core business. That is irrelevant for the classification: in the BSI's view, the rule on negligible ancillary activities (§28(3) BSIG) specifically does not apply to DNS service providers. Buying the service in changes nothing either, as long as BAUER GROUP offers it under its own contract. The Commission's proposal to amend the NIS2 Directive would remove this size-independent coverage; the classification stands until the BSIG is amended (see [Outlook](#outlook)).
+BAUER GROUP is **directly subject to NIS2** – as an **essential entity**. It offers its customers DNS services for their domains and is therefore a DNS service provider (§2 No. 8 BSIG); under §28(1) No. 2 BSIG, such providers qualify as essential entities regardless of company size. The Commission's proposal to amend the NIS2 Directive would remove this size-independent coverage; the classification stands until the BSIG is amended (see [Outlook](#outlook)).
 
 In addition, NIS2 concerns BAUER GROUP in three roles:
 
 | Role | Classification | Implementation |
 |------|----------------|----------------|
-| **As an entity** | Essential entity as a DNS service provider (Annex 1 No. 6.1.2, §28(1) No. 2 BSIG). With its hosting and managed services, it additionally provides services of the entity type managed service provider (Annex 1 No. 6.1.10 BSIG). For DNS service providers and MSPs, Implementing Regulation (EU) 2024/2690 takes precedence (§30(3) BSIG). The size thresholds of §28(1) No. 4 and §28(2) No. 3 BSIG are not decisive for this classification. Software development alone would not be an entity type. | Chapters 2–12 of this documentation; for registration status, see [Compliance Matrix](/en/compliance-matrix/) |
+| **As an entity** | Essential entity as a DNS service provider (Annex 1 No. 6.1.2, §28(1) No. 2 BSIG). With its hosting and managed services, it additionally provides services of the entity type managed service provider (Annex 1 No. 6.1.10 BSIG). For DNS service providers and MSPs, Implementing Regulation (EU) 2024/2690 takes precedence (§30(3) BSIG). Software development alone would not be an entity type. | Chapters 2–12 of this documentation; for registration status, see [Compliance Matrix](/en/compliance-matrix/) |
 | **As a supplier** | Regulated customers, federal authorities and financial entities pass their requirements on to BAUER GROUP by contract. | Evidence from this documentation, contractual incident reporting to customers |
 | **As a client** | BAUER GROUP passes security requirements on to its own service providers (§30(2) No. 4 BSIG). | [Supply Chain Security](/en/supply-chain/) |
 

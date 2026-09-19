@@ -16,7 +16,7 @@ The documentation covers the following areas of BAUER GROUP:
 |------|-------------|
 | **Software Development** | Custom B2B software, embedded systems and AI-driven workflows |
 | **IT Infrastructure** | Server operations, network infrastructure and cloud services |
-| **Hosting & DNS** | Hosting services and authoritative DNS services for customer domains – on own name servers and through bought-in services provided under our own contract; a supporting service for the managed services business |
+| **Hosting & DNS** | Hosting and DNS services for customers |
 | **Managed Services** | IT services and support for B2B customers |
 | **Internal IT** | Systems and processes for internal operations |
 

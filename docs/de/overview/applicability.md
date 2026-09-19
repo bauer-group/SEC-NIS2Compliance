@@ -221,15 +221,13 @@ Diese Fragebogenpunkte sind bei kleinen Zulieferern häufig offen:
 
 ## Einordnung der BAUER GROUP {#bauer-group}
 
-Die BAUER GROUP ist **unmittelbar von NIS2 betroffen** – als **besonders wichtige Einrichtung**, unabhängig von ihrer Größe. Grundlage ist allein der DNS-Dienst: Die BAUER GROUP bietet ihren Kunden autoritative DNS-Dienste für deren Domains an, teils über eigene Nameserver, teils über zugekaufte Dienste, die sie im eigenen Vertrag anbietet. Damit ist sie DNS-Diensteanbieter (§2 Nr. 8 BSIG), und diese gelten nach §28 Abs. 1 Nr. 2 BSIG stets als besonders wichtige Einrichtung.
-
-DNS ist dabei eine begleitende Leistung zum Hosting- und Managed-Service-Geschäft, kein Kerngeschäft. Für die Einstufung ist das ohne Bedeutung: Die Regel zu vernachlässigbaren Nebentätigkeiten (§28 Abs. 3 BSIG) gilt nach Auffassung des BSI gerade nicht für DNS-Diensteanbieter. Auch der Zukauf ändert nichts, solange die BAUER GROUP den Dienst im eigenen Vertrag anbietet. Der Kommissionsvorschlag zur Änderung der NIS2-Richtlinie würde diese größenunabhängige Erfassung aufheben; bis zu einer Änderung des BSIG bleibt es bei der Einstufung (siehe [Ausblick](#outlook)).
+Die BAUER GROUP ist **unmittelbar von NIS2 betroffen** – als **besonders wichtige Einrichtung**. Sie bietet ihren Kunden DNS-Dienste für deren Domains an und ist damit DNS-Diensteanbieter (§2 Nr. 8 BSIG); diese gelten nach §28 Abs. 1 Nr. 2 BSIG unabhängig von der Unternehmensgröße als besonders wichtige Einrichtung. Der Kommissionsvorschlag zur Änderung der NIS2-Richtlinie würde diese größenunabhängige Erfassung aufheben; bis zu einer Änderung des BSIG bleibt es bei der Einstufung (siehe [Ausblick](#outlook)).
 
 Daneben ist die BAUER GROUP in drei Rollen berührt:
 
 | Rolle | Einordnung | Umsetzung |
 |-------|------------|-----------|
-| **Als Einrichtung** | Besonders wichtige Einrichtung als DNS-Diensteanbieter (Anlage 1 Nr. 6.1.2, §28 Abs. 1 Nr. 2 BSIG). Mit Hosting- und Managed Services erbringt sie zusätzlich Leistungen der Einrichtungsart Managed Service Provider (Anlage 1 Nr. 6.1.10 BSIG). Für DNS-Diensteanbieter und MSPs gilt die DVO (EU) 2024/2690 vorrangig (§30 Abs. 3 BSIG). Auf die Größenschwellen nach §28 Abs. 1 Nr. 4 und Abs. 2 Nr. 3 BSIG kommt es für diese Einstufung nicht an. Die Softwareentwicklung allein wäre keine Einrichtungsart. | Kapitel 2–12 dieser Dokumentation; Registrierungsstatus siehe [Compliance-Matrix](/de/compliance-matrix/) |
+| **Als Einrichtung** | Besonders wichtige Einrichtung als DNS-Diensteanbieter (Anlage 1 Nr. 6.1.2, §28 Abs. 1 Nr. 2 BSIG). Mit Hosting- und Managed Services erbringt sie zusätzlich Leistungen der Einrichtungsart Managed Service Provider (Anlage 1 Nr. 6.1.10 BSIG). Für DNS-Diensteanbieter und MSPs gilt die DVO (EU) 2024/2690 vorrangig (§30 Abs. 3 BSIG). Die Softwareentwicklung allein wäre keine Einrichtungsart. | Kapitel 2–12 dieser Dokumentation; Registrierungsstatus siehe [Compliance-Matrix](/de/compliance-matrix/) |
 | **Als Zulieferer** | Regulierte Kunden, Bundesbehörden und Finanzunternehmen geben ihre Anforderungen vertraglich an die BAUER GROUP weiter. | Nachweise aus dieser Dokumentation, vertragliche Vorfallmeldung an Kunden |
 | **Als Auftraggeber** | Die BAUER GROUP gibt Sicherheitsanforderungen an die eigenen Dienstleister weiter (§30 Abs. 2 Nr. 4 BSIG). | [Lieferkettensicherheit](/de/supply-chain/) |
 
