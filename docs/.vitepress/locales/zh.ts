@@ -54,6 +54,7 @@ export const zh: LocaleSpecificConfig<ThemeConfig> & { label: string; link: stri
           items: [
             { text: '概述', link: '/zh/overview/' },
             { text: '监管框架', link: '/zh/overview/regulatory-framework' },
+            { text: '适用性与规模分类', link: '/zh/overview/applicability' },
             { text: 'CRA和AI法案协同', link: '/zh/overview/synergies' },
           ]
         },

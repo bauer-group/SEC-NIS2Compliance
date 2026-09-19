@@ -35,7 +35,7 @@ Wo sich Anforderungen überschneiden, wird auf die jeweils andere Dokumentation 
 
 | Nr. | Kapitel | §30 BSIG | Inhalt |
 |-----|---------|----------|--------|
-| 1 | [Einführung](/de/overview/) | — | Geltungsbereich, Rechtsrahmen, Dokumentationsstruktur |
+| 1 | [Einführung](/de/overview/) | — | Geltungsbereich, Rechtsrahmen, [Betroffenheit & Größenklassen](/de/overview/applicability), Dokumentationsstruktur |
 | 2 | [Risikomanagement](/de/risk-management/) | Nr. 1 | Risikoanalyse, ISMS, Asset-Inventar |
 | 3 | [Vorfallmanagement](/de/incident-management/) | Nr. 2 + §32 | Incident Response, Meldepflichten |
 | 4 | [Business Continuity](/de/business-continuity/) | Nr. 3 | Backup, Disaster Recovery, Krisenmanagement |

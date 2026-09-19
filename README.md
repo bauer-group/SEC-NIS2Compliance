@@ -21,7 +21,7 @@ Vollständige Compliance-Dokumentation für die **NIS2-Richtlinie** (Richtlinie 
 .
 ├── docs/                          # VitePress-Dokumentation
 │   ├── de/                        # Deutsche Dokumentation (12 Kapitel)
-│   │   ├── overview/              # 1. Einführung & regulatorischer Rahmen
+│   │   ├── overview/              # 1. Einführung, regulatorischer Rahmen, Betroffenheit & Größenklassen
 │   │   ├── risk-management/       # 2. Risikomanagement (§30 Nr. 1)
 │   │   ├── incident-management/   # 3. Vorfallmanagement (§30 Nr. 2 + §32)
 │   │   ├── business-continuity/   # 4. Business Continuity (§30 Nr. 3)
@@ -52,7 +52,7 @@ Vollständige Compliance-Dokumentation für die **NIS2-Richtlinie** (Richtlinie 
 
 | Kapitel | Sektion | §30 BSIG | Inhalt |
 | --- | --- | --- | --- |
-| **1** | Einführung | — | Geltungsbereich, regulatorischer Rahmen, CRA/AI-Act-Synergien |
+| **1** | Einführung | — | Geltungsbereich, regulatorischer Rahmen, Betroffenheit & Größenklassen (KMU-Befreiung, Sonderfälle, vertragliche Weitergabe an Zulieferer), CRA/AI-Act-Synergien |
 | **2** | Risikomanagement | Nr. 1 | ISMS, Risikoanalyse, Asset-Inventar |
 | **3** | Vorfallmanagement | Nr. 2 + §32 | Incident Response, Meldepflichten (24h/72h/1 Monat) |
 | **4** | Business Continuity | Nr. 3 | Backup (3-2-1), Disaster Recovery, Krisenmanagement |

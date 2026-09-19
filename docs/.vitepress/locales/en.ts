@@ -54,6 +54,7 @@ export const en: LocaleSpecificConfig<ThemeConfig> & { label: string; link: stri
           items: [
             { text: 'Overview', link: '/en/overview/' },
             { text: 'Regulatory Framework', link: '/en/overview/regulatory-framework' },
+            { text: 'Applicability & Size Classes', link: '/en/overview/applicability' },
             { text: 'CRA & AI Act Synergies', link: '/en/overview/synergies' },
           ]
         },

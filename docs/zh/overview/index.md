@@ -29,7 +29,7 @@
 
 | 编号 | 章节 | §30 BSIG | 内容 |
 |-----|------|----------|------|
-| 1 | [概述](/zh/overview/) | — | 范围、法律框架、结构 |
+| 1 | [概述](/zh/overview/) | — | 范围、法律框架、[适用性与规模分类](/zh/overview/applicability)、结构 |
 | 2 | [风险管理](/zh/risk-management/) | 第1项 | 风险分析、ISMS、资产清单 |
 | 3 | [事件管理](/zh/incident-management/) | 第2项 + §32 | 事件响应、报告义务 |
 | 4 | [业务连续性](/zh/business-continuity/) | 第3项 | 备份、灾难恢复、危机管理 |

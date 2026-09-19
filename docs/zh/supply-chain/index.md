@@ -31,6 +31,10 @@
 | 合同审查 | 续签/变更时 |
 | 事件驱动审查 | 安全事件或重大变更时 |
 
+## 作为供应商的视角
+
+BAUER GROUP在供应链中同时处于两端：它对自己的服务提供商提出要求，同时也是受监管客户的供应商。这些客户根据§30(2) 第4项 BSIG通过合同将其要求传递给BAUER GROUP——例如以合同安全附件、供应商调查问卷或安全事件报告义务的形式。存在哪些情形，以及为何仅凭供货关系本身并不产生独立的NIS2义务，参见[适用性与规模分类](/zh/overview/applicability#indirect)。BAUER GROUP自身的分类见[BAUER GROUP的归类](/zh/overview/applicability#bauer-group)。
+
 ::: tip CRA协同效应
 软件供应链管理（SBOM、签名、依赖策略）在[CRA供应链文档](https://cra.docs.bauer-group.com/zh/supply-chain/)中描述。NIS2补充了IT服务提供商和基础设施供应商的评估。
 :::

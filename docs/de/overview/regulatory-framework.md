@@ -12,12 +12,16 @@
 
 ## Betroffenheit
 
-Die NIS2-Richtlinie unterscheidet zwei Kategorien:
+Das BSIG unterscheidet zwei Kategorien. Maßgeblich sind die Einrichtungsart (Anlagen 1 und 2 BSIG) und die Unternehmensgröße (§28 BSIG):
 
-| Kategorie | Kriterien | Sanktionen |
-|-----------|-----------|------------|
-| **Besonders wichtige Einrichtungen** | Annex I-Sektoren, ≥250 Mitarbeiter oder ≥50 Mio. EUR Umsatz | Bis zu 10 Mio. EUR oder 2% des weltweiten Jahresumsatzes |
-| **Wichtige Einrichtungen** | Annex I/II-Sektoren, ≥50 Mitarbeiter oder ≥10 Mio. EUR Umsatz | Bis zu 7 Mio. EUR oder 1,4% des weltweiten Jahresumsatzes |
+| Kategorie | Kriterien (vereinfacht) | Bußgeldrahmen (§65 BSIG) |
+|-----------|-------------------------|--------------------------|
+| **Besonders wichtige Einrichtungen** | Anlage 1, mindestens 250 Mitarbeiter **oder** sowohl Jahresumsatz über 50 Mio. EUR **als auch** Jahresbilanzsumme über 43 Mio. EUR; größenunabhängig u. a. Betreiber kritischer Anlagen | Bis zu 10 Mio. EUR; bei mehr als 500 Mio. EUR Gesamtumsatz bis zu 2 % des weltweiten Gesamtumsatzes |
+| **Wichtige Einrichtungen** | Anlage 1 oder 2, mindestens 50 Mitarbeiter **oder** Jahresumsatz **und** Jahresbilanzsumme jeweils über 10 Mio. EUR | Bis zu 7 Mio. EUR; bei mehr als 500 Mio. EUR Gesamtumsatz bis zu 1,4 % des weltweiten Gesamtumsatzes |
+
+::: tip Kleine Unternehmen und Zulieferer
+Kleinst- und Kleinunternehmen sind grundsätzlich nicht erfasst – außer in größenunabhängigen Sonderfällen. Als Zulieferer regulierter Einrichtungen werden sie aber regelmäßig vertraglich zu Sicherheitsmaßnahmen verpflichtet. Größenklassen, Sonderfälle und Konstellationen: [Betroffenheit & Größenklassen](/de/overview/applicability).
+:::
 
 ## §30 BSIG – Zehn Risikomanagementmaßnahmen
 
@@ -38,6 +42,7 @@ Die NIS2-Richtlinie unterscheidet zwei Kategorien:
 
 | Paragraph | Pflicht | Dokumentation |
 |-----------|---------|---------------|
+| §§28, 29 BSIG | Einstufung als besonders wichtige oder wichtige Einrichtung | [Betroffenheit & Größenklassen](/de/overview/applicability) |
 | §32 BSIG | Meldepflichten bei erheblichen Sicherheitsvorfällen | [Vorfallmanagement](/de/incident-management/) |
 | §33 BSIG | Registrierungspflicht beim BSI | Organisatorisch umgesetzt |
 | §38 BSIG | Billigungs-, Überwachungs- und Schulungspflichten der Geschäftsleitung | [Governance](/de/governance/) |

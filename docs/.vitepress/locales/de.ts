@@ -66,6 +66,7 @@ export const de: LocaleSpecificConfig<ThemeConfig> & { label: string; link: stri
           items: [
             { text: 'Übersicht', link: '/de/overview/' },
             { text: 'Regulatorischer Rahmen', link: '/de/overview/regulatory-framework' },
+            { text: 'Betroffenheit & Größenklassen', link: '/de/overview/applicability' },
             { text: 'CRA- & AI-Act-Synergien', link: '/de/overview/synergies' },
           ]
         },

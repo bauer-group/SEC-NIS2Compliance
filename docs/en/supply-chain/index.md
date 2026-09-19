@@ -41,6 +41,10 @@ Contracts with service providers include:
 | Contract review | On renewal / change |
 | Event-driven review | On security incident or material change |
 
+## Perspective as a Supplier
+
+BAUER GROUP is on both sides of the supply chain: it sets requirements for its own service providers and is at the same time a supplier to regulated customers. These customers pass their requirements under §30(2) No. 4 BSIG on to BAUER GROUP by contract – for example as a security annex to the contract, a supplier questionnaire or an obligation to report security incidents. [Applicability & Size Classes](/en/overview/applicability#indirect) describes the possible scenarios and explains why a supply relationship alone does not give rise to a NIS2 obligation of its own. BAUER GROUP's own classification is set out under [BAUER GROUP Classification](/en/overview/applicability#bauer-group).
+
 ::: tip CRA Synergy
 Software supply chain management (SBOM, signing, dependency policy) is described in the [CRA Supply Chain Documentation](https://cra.docs.bauer-group.com/en/supply-chain/). NIS2 supplements this with IT service provider and infrastructure vendor assessment.
 :::

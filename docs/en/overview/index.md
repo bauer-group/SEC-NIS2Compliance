@@ -29,7 +29,7 @@ This documentation describes the implementation of the **NIS 2 Directive** (EU) 
 
 | No. | Chapter | §30 BSIG | Content |
 |-----|---------|----------|---------|
-| 1 | [Introduction](/en/overview/) | — | Scope, legal framework, structure |
+| 1 | [Introduction](/en/overview/) | — | Scope, legal framework, [Applicability & Size Classes](/en/overview/applicability), structure |
 | 2 | [Risk Management](/en/risk-management/) | No. 1 | Risk analysis, ISMS, asset inventory |
 | 3 | [Incident Management](/en/incident-management/) | No. 2 + §32 | Incident response, reporting obligations |
 | 4 | [Business Continuity](/en/business-continuity/) | No. 3 | Backup, disaster recovery, crisis management |

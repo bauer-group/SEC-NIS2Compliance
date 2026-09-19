@@ -45,6 +45,10 @@ Verträge mit Dienstleistern enthalten:
 | Vertragsprüfung | Bei Verlängerung / Änderung |
 | Anlassbezogene Prüfung | Bei Sicherheitsvorfall oder wesentlicher Änderung |
 
+## Perspektive als Zulieferer
+
+Die BAUER GROUP steht in der Lieferkette auf beiden Seiten: Sie stellt Anforderungen an ihre eigenen Dienstleister und ist zugleich Zulieferer regulierter Kunden. Diese geben ihre Anforderungen nach §30 Abs. 2 Nr. 4 BSIG vertraglich an die BAUER GROUP weiter – etwa als Sicherheitsanlage zum Vertrag, Lieferantenfragebogen oder Meldepflicht bei Sicherheitsvorfällen. Welche Konstellationen es gibt und warum eine Lieferbeziehung allein keine eigene NIS2-Pflicht begründet, beschreibt [Betroffenheit & Größenklassen](/de/overview/applicability#indirect). Die eigene Einstufung der BAUER GROUP steht unter [Einordnung der BAUER GROUP](/de/overview/applicability#bauer-group).
+
 ## Dependency Management
 
 Für Software-Abhängigkeiten:

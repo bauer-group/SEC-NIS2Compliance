@@ -12,12 +12,16 @@
 
 ## Applicability
 
-The NIS2 Directive distinguishes two categories:
+The BSIG distinguishes two categories. The decisive factors are the entity type (Annexes 1 and 2 BSIG) and company size (§28 BSIG):
 
-| Category | Criteria | Sanctions |
-|----------|----------|-----------|
-| **Essential entities** | Annex I sectors, ≥250 employees or ≥€50M turnover | Up to €10M or 2% of global annual turnover |
-| **Important entities** | Annex I/II sectors, ≥50 employees or ≥€10M turnover | Up to €7M or 1.4% of global annual turnover |
+| Category | Criteria (simplified) | Fine range (§65 BSIG) |
+|----------|-----------------------|-----------------------|
+| **Essential entities** (besonders wichtige Einrichtungen) | Annex 1, at least 250 employees **or** both annual turnover above €50M **and** annual balance sheet total above €43M; regardless of size, operators of critical facilities, among others | Up to €10M; for entities with total turnover of more than €500M, up to 2% of worldwide total turnover |
+| **Important entities** (wichtige Einrichtungen) | Annex 1 or 2, at least 50 employees **or** annual turnover **and** annual balance sheet total each above €10M | Up to €7M; for entities with total turnover of more than €500M, up to 1.4% of worldwide total turnover |
+
+::: tip Small Companies and Suppliers
+Micro and small enterprises are in principle not covered – except in size-independent special cases. As suppliers to regulated entities, however, they are routinely obliged by contract to implement security measures. Size classes, special cases and scenarios: [Applicability & Size Classes](/en/overview/applicability).
+:::
 
 ## §30 BSIG – Ten Risk Management Measures
 
@@ -38,6 +42,7 @@ The NIS2 Directive distinguishes two categories:
 
 | Section | Obligation | Documentation |
 |---------|-----------|---------------|
+| §§28, 29 BSIG | Classification as an essential or important entity | [Applicability & Size Classes](/en/overview/applicability) |
 | §32 BSIG | Reporting obligations for significant security incidents | [Incident Management](/en/incident-management/) |
 | §33 BSIG | Registration obligation with BSI | Organizationally implemented |
 | §38 BSIG | Approval, supervision and training obligations of management | [Governance](/en/governance/) |
