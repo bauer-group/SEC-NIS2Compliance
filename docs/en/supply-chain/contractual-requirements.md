@@ -22,7 +22,7 @@ Contracts with service providers that have access to BAUER GROUP systems or data
 | **Disclosure obligation** | Complete information on scope and impact |
 
 ::: warning §30(2) NO. 4 BSIG – SUPPLY CHAIN SECURITY
-NIS2 explicitly requires that security measures in the supply chain are addressed, including security-related aspects concerning the relationship between the entity and its direct suppliers or service providers.
+The BSIG explicitly requires "supply chain security including security-related aspects of the relationships with direct suppliers or service providers".
 :::
 
 ### Audit and Inspection Rights

@@ -29,6 +29,10 @@ Risiken werden nach Eintrittswahrscheinlichkeit und Auswirkung bewertet:
 | **Möglich** | Niedrig | Niedrig | Mittel | Hoch |
 | **Unwahrscheinlich** | Niedrig | Niedrig | Niedrig | Mittel |
 
+::: info RISIKOBEREITSCHAFT
+Risiken der Stufe **Kritisch** oder **Hoch** sind unverzüglich zu behandeln. Risiken der Stufe **Mittel** werden bis zum nächsten Review-Zyklus behandelt. Risiken der Stufe **Niedrig** werden überwacht und dokumentiert.
+:::
+
 ## Risikobehandlungsplan
 
 Für jedes identifizierte Risiko wird dokumentiert:

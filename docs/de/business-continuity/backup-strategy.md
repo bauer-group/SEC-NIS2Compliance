@@ -20,6 +20,10 @@
 | **E-Mail-Archiv** | Lokaler Storage | Object Storage | Ja | AES-256 | 90 Tage |
 | **Schlüsselmaterial** | Verschlüsselter Tresor | Offline-Kopie | Ja (physisch getrennt) | AES-256 + Passphrase | Lebensdauer des Schlüssels |
 
+::: tip 3-2-1-REGEL
+Mindestens **3** Kopien der Daten auf **2** unterschiedlichen Medientypen, davon **1** Kopie extern gelagert. Dieses Prinzip ist die Grundlage des Backup-Managements der BAUER GROUP nach §30 Abs. 2 Nr. 3 BSIG.
+:::
+
 ## Restore-Verifikation
 
 | Test | Intervall | Umfang | Akzeptanzkriterium |

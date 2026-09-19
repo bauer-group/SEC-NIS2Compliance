@@ -26,7 +26,7 @@
 **Minimum scores:** 12/18 for standard vendors, 15/18 for critical vendors.
 
 ::: info SCORING METHODOLOGY
-Each criterion is scored from 0 to 3. The weighted total determines the overall score. Vendors below the minimum threshold must either improve their security posture or be rejected. Exceptions require CISO and executive management approval with documented risk acceptance.
+Each criterion is scored from 0 to 3, for a maximum of 18 points. Vendors below the minimum score must either improve their security posture or be rejected. Exceptions require CISO and executive management approval with documented risk acceptance.
 :::
 
 ### Reassessment Intervals

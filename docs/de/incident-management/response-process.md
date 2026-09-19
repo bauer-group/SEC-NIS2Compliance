@@ -39,6 +39,10 @@ Der Incident-Response-Prozess der BAUER GROUP folgt dem etablierten NIST SP 800-
 | **Langfristig** | Nachhaltige Eindämmung | Betroffenes System vom Netz nehmen, Firewall-Regel |
 | **Beweissicherung** | Vor jeder Bereinigung | Speicherabbild, Log-Export, Festplattenkopie |
 
+::: warning BEWEISSICHERUNG
+Forensische Beweise werden immer gesichert, bevor Bereinigungs- oder Wiederherstellungsmaßnahmen beginnen. Sie sind unverzichtbar für die Ursachenanalyse, die behördliche Meldung und eine mögliche Einbindung der Strafverfolgungsbehörden.
+:::
+
 ### Phase 4: Beseitigung und Wiederherstellung
 
 | Schritt | Beschreibung |

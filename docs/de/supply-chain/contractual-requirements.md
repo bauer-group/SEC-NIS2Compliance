@@ -21,6 +21,10 @@ Verträge mit Dienstleistern, die Zugriff auf Systeme oder Daten der BAUER GROUP
 | **Kooperationspflicht** | Unterstützung bei Analyse und Behebung |
 | **Informationspflicht** | Vollständige Information über Umfang und Auswirkung |
 
+::: warning §30 ABS. 2 NR. 4 BSIG – SICHERHEIT DER LIEFERKETTE
+Das BSIG verlangt ausdrücklich die „Sicherheit der Lieferkette einschließlich sicherheitsbezogener Aspekte der Beziehungen zu unmittelbaren Anbietern oder Diensteanbietern“.
+:::
+
 ### Prüf- und Auditrechte
 
 | Klausel | Beschreibung |

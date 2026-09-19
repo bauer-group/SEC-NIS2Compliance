@@ -29,6 +29,10 @@
 | **Inhalt** | Detaillierte Beschreibung: Ursache, ergriffene Maßnahmen, grenzüberschreitende Auswirkungen |
 | **Besonderheiten** | Wenn Vorfall noch andauert: Zwischenbericht statt Abschluss, Abschluss nach Ende |
 
+::: info MELDEFRISTEN
+Die Fristen von 24 und 72 Stunden laufen ab dem Zeitpunkt, zu dem die Einrichtung Kenntnis von dem erheblichen Sicherheitsvorfall erlangt. „Kenntnis“ bezeichnet den Zeitpunkt, zu dem der ISB oder ein Mitglied des Incident-Response-Teams bestätigt hat, dass das Ereignis nach den nachstehenden Kriterien ein erheblicher Sicherheitsvorfall ist.
+:::
+
 ## Kriterien für erhebliche Sicherheitsvorfälle
 
 Ein Vorfall ist erheblich, wenn mindestens eines der folgenden Kriterien erfüllt ist:
@@ -59,6 +63,10 @@ Vorfall erkannt
 | **NIS2 / §32 BSIG** | Erheblicher Sicherheitsvorfall | 24h / 72h / 1 Monat | BSI |
 | **DSGVO Art. 33** | Verletzung des Schutzes personenbezogener Daten | 72 Stunden | Zuständige Aufsichtsbehörde |
 | **CRA Art. 14** | Aktiv ausgenutzte Produktschwachstelle | 24h / 72h / 14d | ENISA + nationale CSIRT |
+
+::: warning PARALLELE MELDEPFLICHTEN
+Ein einzelner Vorfall kann gleichzeitig Meldepflichten nach mehreren Regelwerken auslösen. Die Erstbewertung prüft alle anwendbaren Regelwerke. Die Vorlagen sind aufeinander abgestimmt, damit parallele Meldungen effizient erfolgen können. Siehe auch [CRA- & AI-Act-Synergien](/de/overview/synergies).
+:::
 
 ## Dokumentation
 

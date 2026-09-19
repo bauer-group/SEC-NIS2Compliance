@@ -61,3 +61,7 @@ Eine Krise liegt vor, wenn ein Sicherheitsvorfall:
 | **Tabletop-Exercise** | Jährlich | Krisenstab + IT |
 | **Kommunikationsübung** | Jährlich | Krisenstab |
 | **Technische DR-Simulation** | Jährlich | IT-Team |
+
+::: tip ÜBUNGSPLANUNG
+Krisenübungen sollen im Zeitverlauf unterschiedliche Szenarien abdecken, darunter Ransomware, Rechenzentrumsausfall, Kompromittierung der Lieferkette und Datenschutzverletzung. Jede Übung wird mit Erkenntnissen und Verbesserungsmaßnahmen dokumentiert.
+:::

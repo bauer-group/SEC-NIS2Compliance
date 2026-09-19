@@ -31,6 +31,10 @@ Die Informationssicherheitspolitik gilt für:
 | **IT-Leitung** | Technische Umsetzung der Vorgaben |
 | **Alle Mitarbeiter** | Einhaltung der Richtlinien, Meldung von Verstößen |
 
+::: info §38 BSIG – GESCHÄFTSLEITUNGSPFLICHTEN
+Die Geschäftsleitung muss die Risikomanagementmaßnahmen nach §30 umsetzen und ihre Umsetzung überwachen (§38 Abs. 1 BSIG); nach der Gesetzesbegründung hat sie die Maßnahmen zuvor als geeignet zu billigen. Geschäftsleitungen, die diese Pflichten verletzen, haften ihrer Einrichtung für schuldhaft verursachte Schäden nach dem Gesellschaftsrecht der jeweiligen Rechtsform (§38 Abs. 2 BSIG). Zudem muss die Geschäftsleitung regelmäßig an Cybersicherheitsschulungen teilnehmen (§38 Abs. 3 BSIG). Details: [Geschäftsleitungspflichten](/de/governance/management-duties).
+:::
+
 ## Überprüfungszyklus
 
 | Aktivität | Intervall | Verantwortlich |

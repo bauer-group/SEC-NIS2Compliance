@@ -25,6 +25,10 @@
 
 **Mindestpunktzahl:** 12/18 für Standarddienstleister, 15/18 für kritische Dienstleister.
 
+::: info BEWERTUNGSMETHODIK
+Jedes Kriterium wird mit 0 bis 3 Punkten bewertet, insgesamt sind höchstens 18 Punkte möglich. Dienstleister unterhalb der Mindestpunktzahl müssen ihr Sicherheitsniveau verbessern oder werden abgelehnt. Ausnahmen erfordern die Freigabe durch ISB und Geschäftsleitung mit dokumentierter Risikoakzeptanz.
+:::
+
 ### Wiederbewertung
 
 | Dienstleisterkategorie | Bewertungsintervall |
