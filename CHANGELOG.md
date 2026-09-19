@@ -4,6 +4,19 @@ All notable changes to this project are documented here. This file is maintained
 automatically by [semantic-release](https://github.com/semantic-release/semantic-release)
 on every release to `main`.
 
+## [0.9.3](https://github.com/bauer-group/SEC-NIS2Compliance/compare/v0.9.2...v0.9.3) (2026-09-19)
+
+### 🐛 Bug Fixes
+
+* **incident:** added GDPR processor notification duty ([b4f4b02](https://github.com/bauer-group/SEC-NIS2Compliance/commit/b4f4b02793e753a77d050c33783e247254209719))
+* **templates:** aligned retention of §32 reports to three years ([98cb205](https://github.com/bauer-group/SEC-NIS2Compliance/commit/98cb205a4836a6fd62cf3cbd8b38b96ff743775c))
+* **templates:** aligned vendor reassessment interval to annual ([92ec2a1](https://github.com/bauer-group/SEC-NIS2Compliance/commit/92ec2a1bb5b0d743554b572c98f9ba162660e98a))
+
+### 🔧 Maintenance
+
+* **ci:** updated actions/checkout and actions/setup-node to v7 ([4c54063](https://github.com/bauer-group/SEC-NIS2Compliance/commit/4c54063c7cfbc6fb116bcf84f1b5a3fd8c55a0ad))
+* **deps:** updated dev tooling and patched vulnerable dependencies ([b79f8f0](https://github.com/bauer-group/SEC-NIS2Compliance/commit/b79f8f047524df6a16de8c08163c087ad54f1b04))
+
 ## [0.9.2](https://github.com/bauer-group/SEC-NIS2Compliance/compare/v0.9.1...v0.9.2) (2026-09-19)
 
 ### 🐛 Bug Fixes
