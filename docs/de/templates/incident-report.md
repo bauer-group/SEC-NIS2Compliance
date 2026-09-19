@@ -69,6 +69,6 @@ Diese Vorlage strukturiert das dreistufige Meldemodell nach §32 BSIG (Frühwarn
 
 ## Aufbewahrung
 
-- **Mindestens 5 Jahre** nach Abschluss des Vorfalls
+- **Mindestens 3 Jahre** nach Abschluss des Vorfalls
 - Vollständige Korrespondenz mit BSI archivieren
 - Beweismittel forensisch sauber sichern (Chain of Custody)

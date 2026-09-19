@@ -15,6 +15,6 @@ Praxiserprobte Templates für die NIS2-Compliance der BAUER GROUP. Alle Vorlagen
 ## Hinweise zur Verwendung
 
 - **Audit-Bereitschaft:** Alle ausgefüllten Templates werden zentral abgelegt (Dokumentenmanagementsystem) und beim BSI-Audit auf Anfrage vorgelegt.
-- **Aufbewahrungsfrist:** Mindestens 3 Jahre, bei §32-Meldungen mindestens 5 Jahre.
+- **Aufbewahrungsfrist:** Mindestens 3 Jahre, auch für §32-Meldungen.
 - **Sprachversion:** Templates werden in der Arbeitssprache des jeweiligen Standorts ausgefüllt; bei Bedarf liegt eine deutsche Übersetzung bei.
 - **Aktualisierung:** Templates werden mindestens jährlich oder bei Änderung der zugrundeliegenden Maßnahme überprüft.

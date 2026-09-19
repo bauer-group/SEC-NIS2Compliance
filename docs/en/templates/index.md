@@ -15,6 +15,6 @@ Field-tested templates for BAUER GROUP NIS2 compliance. All templates are starti
 ## Usage Notes
 
 - **Audit readiness:** All completed templates are stored centrally (document management system) and produced on request during BSI audits.
-- **Retention period:** At least 3 years; for §32 reports at least 5 years.
+- **Retention period:** At least 3 years, including §32 reports.
 - **Language:** Templates are completed in the working language of the respective site; a German translation is attached if needed.
 - **Updates:** Templates are reviewed at least annually or whenever the underlying measure changes.

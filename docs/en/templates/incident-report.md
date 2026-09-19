@@ -69,6 +69,6 @@ This template structures the three-stage reporting model under §32 BSIG (early 
 
 ## Retention
 
-- **At least 5 years** after closing the incident
+- **At least 3 years** after closing the incident
 - Archive complete BSI correspondence
 - Forensically preserve evidence (chain of custody)
