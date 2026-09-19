@@ -4,6 +4,13 @@ All notable changes to this project are documented here. This file is maintained
 automatically by [semantic-release](https://github.com/semantic-release/semantic-release)
 on every release to `main`.
 
+## [0.9.2](https://github.com/bauer-group/SEC-NIS2Compliance/compare/v0.9.1...v0.9.2) (2026-09-19)
+
+### 🐛 Bug Fixes
+
+* **legal:** corrected reporting deadlines and statutory references ([52ae33a](https://github.com/bauer-group/SEC-NIS2Compliance/commit/52ae33aba23a6332f08c116b8f1814d43b3571e7))
+* **supply-chain:** made vendor scoring weights effective ([6727560](https://github.com/bauer-group/SEC-NIS2Compliance/commit/6727560526c25fe0e4e848c8ef39acf94fd37ef6))
+
 ## [0.9.1](https://github.com/bauer-group/SEC-NIS2Compliance/compare/v0.9.0...v0.9.1) (2026-09-19)
 
 ### 🐛 Bug Fixes
