@@ -10,7 +10,7 @@ Alle externen Dienstleister und Anbieter werden kategorisiert:
 
 | Kategorie | Beispiele | Risikobewertung |
 |-----------|----------|-----------------|
-| **Infrastruktur** | Hetzner, Netcup (Hosting, Server) | Hoch – Verfügbarkeit |
+| **Infrastruktur** | Hosting, Serverbetrieb | Hoch – Verfügbarkeit |
 | **Cloud-Dienste** | Object Storage, DNS | Hoch – Vertraulichkeit |
 | **Software-Lieferanten** | Drittanbieter-Bibliotheken, SaaS | Mittel – Supply-Chain-Risiko |
 | **Supportpartner** | Wartung, Beratung | Niedrig – begrenzter Zugriff |

@@ -10,7 +10,7 @@ All external service providers and vendors are categorized:
 
 | Category | Examples | Risk Assessment |
 |----------|----------|-----------------|
-| **Infrastructure** | Hetzner, Netcup (hosting, servers) | High – availability |
+| **Infrastructure** | Hosting, server operations | High – availability |
 | **Cloud services** | Object storage, DNS | High – confidentiality |
 | **Software suppliers** | Third-party libraries, SaaS | Medium – supply chain risk |
 | **Support partners** | Maintenance, consulting | Low – limited access |
