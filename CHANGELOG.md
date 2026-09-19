@@ -1,3 +1,28 @@
+# Changelog
+
+All notable changes to this project are documented here. This file is maintained
+automatically by [semantic-release](https://github.com/semantic-release/semantic-release)
+on every release to `main`.
+
+## [0.8.0](https://github.com/bauer-group/SEC-NIS2Compliance/compare/v0.7.0...v0.8.0) (2026-09-19)
+
+### 🚀 Features
+
+* **overview:** added applicability and size-class chapter ([ea5bb91](https://github.com/bauer-group/SEC-NIS2Compliance/commit/ea5bb9151ae1e5b24e3d03de6e6fd10ed3a5a0c7))
+
+### 🐛 Bug Fixes
+
+* **ci:** added the missing permissions block ([d85cfe9](https://github.com/bauer-group/SEC-NIS2Compliance/commit/d85cfe9a1d6c5f0f7a60560b04ce90b5c9911e67))
+* **governance:** corrected §38 BSIG wording on management duties ([263099b](https://github.com/bauer-group/SEC-NIS2Compliance/commit/263099bfdc1e36fe6a58adf226815f72fcf3a6c2))
+* **regulatory:** corrected KRITIS-DachG registration timeline ([e7954ca](https://github.com/bauer-group/SEC-NIS2Compliance/commit/e7954ca505907c3769b6614d463a406161db9abe))
+
+### 🔧 Maintenance
+
+* **ci:** bump the github-actions group across 1 directory with 3 updates ([#2](https://github.com/bauer-group/SEC-NIS2Compliance/issues/2)) ([da787cb](https://github.com/bauer-group/SEC-NIS2Compliance/commit/da787cb7c3965eeef00fc8a9e4c8b2320b9f1c70))
+* **ci:** removed redundant teams notification ([a55c61c](https://github.com/bauer-group/SEC-NIS2Compliance/commit/a55c61c057f3fa50d44f062efba9e00718920c09))
+* **codeowners:** reassigned ownership to core team [skip ci] ([56bee73](https://github.com/bauer-group/SEC-NIS2Compliance/commit/56bee7345f254a5b27780b04f9707b5e0965f751))
+* **deps:** bump markdownlint-cli2 in the dev-tooling group ([#3](https://github.com/bauer-group/SEC-NIS2Compliance/issues/3)) ([a757723](https://github.com/bauer-group/SEC-NIS2Compliance/commit/a757723fa00c583cc8d60fe4108849149615d89e))
+
 ## [0.7.0](https://github.com/bauer-group/SEC-NIS2Compliance/compare/v0.6.6...v0.7.0) (2026-04-29)
 
 ### 🚀 Features
