@@ -49,8 +49,9 @@ Kleinst- und Kleinunternehmen sind grundsätzlich nicht erfasst – außer in gr
 
 ::: info KRITIS-DachG-Fristen
 
-- **17.03.2026** – Inkrafttreten (Bundesrat-Zustimmung am 06.03.2026)
-- **17.07.2026** – Frühester Beginn der Registrierungspflicht für identifizierte Kritische Anlagen (3-Monats-Frist nach Identifikation, nicht vor diesem Datum)
+- **17.03.2026** – Inkrafttreten (Gesetz vom 11.03.2026, BGBl. 2026 I Nr. 66)
+- **17.07.2026** – Frist der CER-Richtlinie, bis zu der die Mitgliedstaaten ihre kritischen Einrichtungen ermitteln (Art. 6 Abs. 1 (EU) 2022/2557) – kein Stichtag für Betreiber
+- **Registrierung** – spätestens drei Monate, nachdem eine Anlage als kritische Anlage gilt (§8 Abs. 1 KRITIS-DachG). Welche Anlagen kritisch sind, legt erst die Rechtsverordnung nach §4 Abs. 3 und §5 Abs. 1 KRITIS-DachG fest; sie befindet sich laut BBK noch in Erarbeitung (Stand: 19.09.2026). Bis dahin bestimmt die BSI-Kritisverordnung die kritischen Anlagen im Sinne des BSIG (§66 BSIG).
 - Das KRITIS-DachG ergänzt NIS2 um die **physische Resilienz** und setzt die EU-CER-Richtlinie ((EU) 2022/2557) in deutsches Recht um.
 
 :::
