@@ -16,7 +16,7 @@ Die Dokumentation deckt folgende Bereiche der BAUER GROUP ab:
 |---------|-------------|
 | **Software-Entwicklung** | Eigenentwicklungen im Bereich B2B-Software, Embedded Systems und AI-gestützte Workflows |
 | **IT-Infrastruktur** | Serverbetrieb, Netzwerkinfrastruktur und Cloud-Dienste |
-| **Hosting & DNS** | Hosting-Dienste und autoritative DNS-Server (DNS-Hosting) für Domains von Kunden |
+| **Hosting & DNS** | Hosting-Dienste und autoritative DNS-Dienste für Kundendomains – über eigene Nameserver und über zugekaufte Dienste im eigenen Vertrag; begleitende Leistung zum Managed-Service-Geschäft |
 | **Managed Services** | IT-Dienstleistungen und Support für B2B-Kunden |
 | **Interne IT** | Systeme und Prozesse für den Eigenbetrieb |
 
