@@ -2,7 +2,7 @@
 
 ## Mandatory Training
 
-### Basic Training -- All Employees
+### Basic Training – All Employees
 
 | Module | Content | Duration | Interval |
 |--------|---------|----------|----------|
@@ -23,7 +23,7 @@
 | Risk management | Reading and assessing risk analyses, approving measures |
 | Incident escalation | Role of management during incidents, communication decisions |
 
-**Duration:** 2--3 hours per year, delivered by ISO or external trainer
+**Duration:** 2–3 hours per year, delivered by ISO or external trainer
 
 ### Role-Specific Training
 
@@ -41,4 +41,4 @@
 | E-learning | Basic and mandatory training, self-paced |
 | In-person training | Management training, role-specific workshops |
 | Phishing simulation | Practical awareness testing, semi-annually |
-| Security advisories | Current warnings via email during acute threats |
+| Brief alerts | Current warnings via email during acute threats |

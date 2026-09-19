@@ -16,7 +16,7 @@ A crisis exists when a security incident:
 | **Crisis team lead** | Executive Management | Decision-making, resource allocation, external communication |
 | **Technical lead** | CISO | Situational awareness, technical coordination of measures |
 | **IT Operations** | IT Management | Recovery, system management |
-| **Communications** | Executive Management / PR | Customer, authority and media communication (if applicable) |
+| **Communications** | Executive Management / PR | Customer and authority communication, media communication if applicable |
 | **Legal / Data Protection** | DPO / external counsel | GDPR reporting, criminal complaint, liability matters |
 
 ## Crisis Process
@@ -54,7 +54,7 @@ A crisis exists when a security incident:
 - Lessons learned and action plan
 - Update of DR plan, playbooks and risk analysis
 
-## Exercise Types
+## Crisis Exercises
 
 | Exercise Type | Interval | Participants |
 |--------------|----------|-------------|

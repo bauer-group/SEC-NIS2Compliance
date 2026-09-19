@@ -20,7 +20,7 @@ Documents the formal approval of risk management measures by management. §38(1)
 |----------|----------------|
 | Risk register | |
 | ISMS policy | |
-| §30 No. 1–10 measures catalogue | |
+| §30 No. 1–10 measures catalog | |
 | Effectiveness report | |
 | Incident statistics for the period | |
 | Audit reports (internal / external) | |
@@ -47,7 +47,7 @@ Documents the formal approval of risk management measures by management. §38(1)
 |------|-------------------|----------|
 | | | |
 
-## Resource Authorisation
+## Resource Authorization
 
 | Measure | Budget (EUR) | Personnel resources | Target date | Owner |
 |---------|--------------|---------------------|-------------|-------|
@@ -61,7 +61,7 @@ Documents the formal approval of risk management measures by management. §38(1)
 
 ## Management Statement
 
-> The undersigned members of management confirm by their signature that they have reviewed and approved the submitted risk management measures under §30 BSIG. Management commits to overseeing proper implementation in accordance with §38(1) BSIG.
+> The undersigned members of management confirm by their signature that they have taken note of, reviewed and approved the submitted risk management measures under §30 BSIG. Management commits to overseeing proper implementation in accordance with §38(1) BSIG.
 
 ## Signatures
 
@@ -73,5 +73,5 @@ Documents the formal approval of risk management measures by management. §38(1)
 ## Retention
 
 - **Indefinitely** in the central compliance archive
-- Original physically and digitally signed
+- Keep the original, signed both physically and digitally
 - Next regular confirmation: **+12 months** after this date

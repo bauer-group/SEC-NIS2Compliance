@@ -4,13 +4,13 @@
 
 | 模板 | 用途 | NIS2 参考 |
 |------|------|-----------|
-| [风险登记册](/zh/templates/risk-register) | 记录和评估所有信息安全风险 | §30 第2款第1项 |
-| [§32 事件报告](/zh/templates/incident-report) | 早期预警、72小时更新和最终报告的结构化模板 | §30 第2款第2项 + §32 |
-| [灾难恢复测试协议](/zh/templates/dr-test-protocol) | 定期 DR 测试的文档 | §30 第2款第3项 |
-| [供应商评估](/zh/templates/vendor-assessment) | 服务提供商和供应商的安全评估 | §30 第2款第4项 |
-| [网络卫生培训记录](/zh/templates/training-record) | 强制培训的出席记录 | §30 第2款第7项 |
+| [风险登记册](/zh/templates/risk-register) | 记录和评估所有信息安全风险 | §30(2) 第1项 |
+| [§32 事件报告](/zh/templates/incident-report) | 早期预警、72小时更新和最终报告的结构化模板 | §30(2) 第2项 + §32 |
+| [灾难恢复测试协议](/zh/templates/dr-test-protocol) | 定期 DR 测试的文档 | §30(2) 第3项 |
+| [供应商评估](/zh/templates/vendor-assessment) | 服务提供商和供应商的安全评估 | §30(2) 第4项 |
+| [网络卫生培训记录](/zh/templates/training-record) | 强制培训的出席记录 | §30(2) 第7项 |
 | [管理层批准](/zh/templates/management-approval) | §38 风险管理措施的正式批准 | §38 BSIG |
-| [经验教训协议](/zh/templates/lessons-learned) | 安全事件后审查 | §30 第2款第6项 |
+| [经验教训协议](/zh/templates/lessons-learned) | 安全事件后审查 | §30(2) 第6项 |
 
 ## 使用说明
 

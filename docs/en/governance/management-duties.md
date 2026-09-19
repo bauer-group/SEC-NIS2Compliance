@@ -57,7 +57,7 @@ Management is **personally obligated** to "implement" the risk management measur
 
 ## Liability Minimization
 
-To minimize the personal liability risk of management:
+To minimize the personal liability risk of management, the following is recommended:
 
 | Measure | Description |
 |---------|-------------|

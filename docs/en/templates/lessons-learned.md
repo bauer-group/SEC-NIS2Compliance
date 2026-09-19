@@ -37,9 +37,9 @@ Structured post-event review for security incidents, DR tests or audits. Outcome
 
 | Action | Type | Owner | Target date | §30 reference | Status |
 |--------|------|-------|-------------|---------------|--------|
-| | [Immediate / Medium / Long-term] | | | [No.] | [Open / In progress / Done] |
+| | [Immediate / Medium-term / Long-term] | | | [No.] | [Open / In progress / Done] |
 
-## Effectiveness Verification
+## Effectiveness Verification of Actions
 
 | Action | How is effectiveness verified? | Verification date | Outcome |
 |--------|-------------------------------|-------------------|---------|

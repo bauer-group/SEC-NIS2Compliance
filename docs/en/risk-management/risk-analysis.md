@@ -13,7 +13,7 @@ Establish context → Identify risks → Analyze risks → Evaluate risks → Tr
 | Category | Threats | Relevance |
 |----------|---------|-----------|
 | **Cyberattacks** | Ransomware, phishing, DDoS, APT, supply chain attack | High |
-| **Insider threats** | Intentional data theft, negligent misuse | Medium |
+| **Insider threats** | Intentional data theft, negligent operating errors | Medium |
 | **Technical failure** | Hardware failure, software defect, network outage | Medium |
 | **Natural events** | Power outage, flooding, fire | Low |
 | **Third parties** | Compromise of a service provider, SaaS outage | Medium |
@@ -41,7 +41,7 @@ For each identified risk, the following fields are documented:
 |-------|-------------|
 | Risk ID | Unique identifier |
 | Description | Nature of the risk and affected assets |
-| Assessment | Likelihood x Impact |
+| Assessment | Likelihood × impact |
 | Treatment option | Avoid / Mitigate / Transfer / Accept |
 | Measure | Specific technical or organizational measure |
 | Responsible | Assigned owner |

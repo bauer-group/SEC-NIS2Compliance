@@ -3,7 +3,7 @@
 所有NIS2要求到文档、实施和协同效应的完整映射。
 
 ::: tip 有效性审查
-**上次有效性审查**列记录了根据 §30 第2款第6项 BSIG 要求的证明。当年未进行有据可查的审查的措施视为未经有效审查。下次定期有效性审查应在上次有据可查的审查后12个月进行。
+**上次有效性审查**列记录了根据 §30(2) 第6项 BSIG 要求的证明。当年未进行有据可查的审查的措施视为未经有效审查。下次定期有效性审查应在上次有据可查的审查后12个月进行。
 :::
 
 ## §30 BSIG – 风险管理措施
@@ -36,13 +36,13 @@
 | ✅ 已实施 | 措施已记录、已部署，且上次有效性审查通过 |
 | 🟡 实施中 | 措施已批准，正在推出，有效性审查待定 |
 | 🔴 未实施 | 措施必需但尚未部署 |
-| ⏸️ 不适用 | 措施不适用（已记录理由） |
+| ⏸️ 已排除 | 措施不适用（已记录理由） |
 
 ## CRA协同效应
 
 | NIS2措施 | CRA文档 | 协同 |
 |---------|---------|------|
-| 第2项 – 事件 | [CRA事件响应](https://cra.docs.bauer-group.com/zh/incident-response/) | 产品事件通过CRA，运营事件通过NIS2 |
+| 第2项 – 事件管理 | [CRA事件响应](https://cra.docs.bauer-group.com/zh/incident-response/) | 产品事件通过CRA，运营事件通过NIS2 |
 | 第4项 – 供应链 | [CRA供应链](https://cra.docs.bauer-group.com/zh/supply-chain/) | 软件供应链通过CRA，服务提供商通过NIS2 |
 | 第5项 – 漏洞 | [CRA漏洞管理](https://cra.docs.bauer-group.com/zh/vulnerability-management/) | 产品CVE通过CRA，基础设施CVE通过NIS2 |
 | 第5项 – SBOM | [CRA SBOM 与签名](https://cra.docs.bauer-group.com/zh/sbom-signing/) | SBOM 生成与签名通过 CRA |

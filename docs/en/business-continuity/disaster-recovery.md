@@ -30,7 +30,7 @@
 6. Close attack vector before bringing systems back online
 
 ::: danger NO RANSOM PAYMENTS
-The BAUER GROUP does not pay ransom under any circumstances. Payment finances criminal organizations and provides no guarantee of data recovery.
+As a matter of principle, BAUER GROUP does not pay ransom. Payment finances criminal organizations and provides no guarantee of data recovery.
 :::
 
 ### Scenario: Data Center Outage
@@ -40,7 +40,7 @@ The BAUER GROUP does not pay ransom under any circumstances. Payment finances cr
 3. Prioritized recovery by service category
 4. Activate customer communication
 5. Ensure provisional operations
-6. Complete recovery after primary site availability
+6. Full recovery once the primary site is available again
 
 ## Failover Systems
 
@@ -51,7 +51,7 @@ The BAUER GROUP does not pay ransom under any circumstances. Payment finances cr
 | Databases | Replication (for critical systems) | < 15 minutes |
 | Email | Secondary MX record | Automatic |
 
-## DR Test Schedule
+## DR Tests
 
 | Test | Interval | Scope |
 |------|----------|-------|

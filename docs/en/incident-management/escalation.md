@@ -27,7 +27,7 @@
 | **BSI** | Reporting platform | Per §32 reporting model | 24h / 72h / 1 month |
 | **Affected customers** | Direct notification (email + phone) | Nature, scope, measures, recommendations | Without delay if affected |
 | **Data protection authority** | Reporting portal | GDPR Art. 33/34 if personal data affected | 72 hours |
-| **Law enforcement** | Formal report | If a criminal offense is suspected | After exec. management decision |
+| **Law enforcement** | Criminal complaint | If a criminal offense is suspected | After exec. management decision |
 
 ### Customer Notification in Case of Incidents
 

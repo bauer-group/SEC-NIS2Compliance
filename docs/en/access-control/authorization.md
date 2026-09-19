@@ -11,7 +11,7 @@ BAUER GROUP employs a role-based access control (RBAC) model:
 | **Separation of Duties** | Critical operations require multiple persons |
 | **Default Deny** | No access without explicit authorization |
 
-## Role Definitions
+## Role Model
 
 | Role | Permissions | Granted by |
 |------|------------|------------|
@@ -20,7 +20,7 @@ BAUER GROUP employs a role-based access control (RBAC) model:
 | **Administrator** | System configuration, user management, monitoring | ISO + IT Lead |
 | **Root / Superadmin** | Full access to infrastructure | IT Lead only, four-eyes principle |
 
-## Permission Lifecycle
+## Permission Process
 
 ### Grant
 

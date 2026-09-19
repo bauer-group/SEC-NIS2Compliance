@@ -30,7 +30,7 @@
 | **Specifics** | If the incident is still ongoing: interim report instead of final report; final report after resolution |
 
 ::: info REPORTING DEADLINES
-All deadlines run from the moment the entity becomes aware of the significant incident. "Awareness" means the point at which the CISO or a member of the incident response team has confirmed that the event constitutes a significant incident per the criteria below.
+The 24-hour and 72-hour deadlines run from the moment the entity becomes aware of the significant incident. "Awareness" means the point at which the CISO or a member of the incident response team has confirmed that the event constitutes a significant incident per the criteria below.
 :::
 
 ## Criteria for Significant Security Incidents

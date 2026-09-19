@@ -37,12 +37,12 @@ Assessment of security maturity of service providers and suppliers under §30(2)
 | Incident | Is there an incident response plan? | | |
 | Incident | Is incident notification (24h) contractually guaranteed? | | |
 | BCM | Is a BCM plan in place? Last test? | | |
-| Supply chain | Are sub-suppliers disclosed? | | |
+| Supply chain | Are subcontractors disclosed? | | |
 | Vulnerabilities | Is there a documented patch management process? | | |
 | Vulnerabilities | Are CVEs actively monitored? | | |
 | Training | Do employees receive regular security training? | | |
 | Cryptography | Is data encrypted at rest and in transit? | | |
-| Access | Is MFA enforced for administrative access? | | |
+| Access | Is MFA used for administrative access? | | |
 | Access | Is there a documented onboarding/offboarding process? | | |
 | Audit | Are audit rights contractually guaranteed? | | |
 
@@ -61,7 +61,7 @@ Assessment of security maturity of service providers and suppliers under §30(2)
 |-------------|-------------|
 | 24h incident notification | [ ] |
 | Audit right (at least annually) | [ ] |
-| Sub-supplier consent obligation | [ ] |
+| Subcontractor consent obligation | [ ] |
 | Data return / deletion at contract end | [ ] |
 | Minimum security standards (ISO 27001 etc.) | [ ] |
 | Liability for security breaches | [ ] |

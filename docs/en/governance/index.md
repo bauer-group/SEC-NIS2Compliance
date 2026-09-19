@@ -8,7 +8,7 @@
 
 ## Management Duties
 
-The German NIS2 implementation establishes **personal obligations** of management for cybersecurity:
+The German NIS2 implementation establishes, for the first time, **personal obligations** of management for cybersecurity:
 
 | Duty | Description | Evidence |
 |------|-------------|---------|

@@ -39,7 +39,7 @@
 | Password manager | Mandatory for all employees |
 | Unique passwords | Each service receives its own password |
 | MFA | Enabled for all external services and admin access |
-| Password sharing | Prohibited -- access only via personalized accounts |
+| Password sharing | Prohibited – access only via personalized accounts |
 
 ### Communication
 

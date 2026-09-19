@@ -44,7 +44,7 @@ Management
 | Critical security incident | Management + ISO | Immediately | Verbal + written follow-up |
 | BSI notification per §32 | Management | In parallel with notification | Written |
 | Critical audit finding | Management | Within 48h | Written |
-| Material change in threat landscape | Management + IT | Without delay | Brief notification |
+| Material change in threat landscape | Management + IT | Promptly | Brief notification |
 
 ## Documentation Obligations
 

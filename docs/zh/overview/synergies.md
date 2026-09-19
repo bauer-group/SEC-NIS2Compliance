@@ -8,16 +8,16 @@ BAUER GROUP受三项互补的欧盟网络安全法规约束。为避免重复工
 
 | NIS2措施 (§30) | CRA覆盖范围 | AI法案覆盖范围 | NIS2特有内容 |
 |---------------------|---------------|------------------|-----------------|
-| 第1项 -- 风险管理 | 部分（产品相关，Art. 10） | Art. 9（AI风险管理） | ISMS、组织级风险分析 |
-| 第2项 -- 事件管理 | Art. 14（产品漏洞） | — | 运营事件、§32报告 |
-| 第3项 -- 业务连续性 | — | — | 完全NIS2特有 |
-| 第4项 -- 供应链 | Art. 10(4)、Annex I第II部分第1项 | — | 服务商评估 |
-| 第5项 -- 漏洞管理 | Art. 10(6)、Art. 11（产品CVE） | — | 基础设施CVE |
-| 第6项 -- 有效性评审 | — | — | 完全NIS2特有 |
-| 第7项 -- 培训 | — | Art. 4（AI素养） | 网络卫生、BSIG特有 |
-| 第8项 -- 密码学 | Annex I第II部分（产品加密） | Art. 15（AI网络安全） | 基础设施加密 |
-| 第9项 -- 访问控制 | — | Art. 14（人类监督） | 人员安全、MFA |
-| 第10项 -- 安全通信 | — | — | 完全NIS2特有 |
+| 第1项 – 风险管理 | 部分（产品相关，Art. 10） | Art. 9（AI风险管理） | ISMS、组织级风险分析 |
+| 第2项 – 事件管理 | Art. 14（产品漏洞） | — | 运营事件、§32报告 |
+| 第3项 – 业务连续性 | — | — | 完全NIS2特有 |
+| 第4项 – 供应链 | Art. 10(4)、Annex I第II部分第1项 | — | 服务商评估 |
+| 第5项 – 漏洞管理 | Art. 10(6)、Art. 11（产品CVE） | — | 基础设施CVE |
+| 第6项 – 有效性评审 | — | — | 完全NIS2特有 |
+| 第7项 – 培训 | — | Art. 4（AI素养） | 网络卫生、BSIG特有 |
+| 第8项 – 密码学 | Annex I第II部分（产品加密） | Art. 15（AI网络安全） | 基础设施加密 |
+| 第9项 – 访问控制 | — | Art. 14（人类监督） | 人员安全、MFA |
+| 第10项 – 安全通信 | — | — | 完全NIS2特有 |
 
 ## 详细协同效应
 
@@ -25,10 +25,10 @@ BAUER GROUP受三项互补的欧盟网络安全法规约束。为避免重复工
 
 | 方面 | CRA流程 | NIS2补充 |
 |--------|------------|----------------|
-| CVE监控 | [CRA: Trivy + Grype + OSV-Scanner](https://cra.docs.bauer-group.com/de/vulnerability-management/) | 基础设施扫描器（网络、服务器） |
-| SBOM | [CRA: CycloneDX生成 + Cosign签名](https://cra.docs.bauer-group.com/de/sbom-signing/) | 引用CRA SBOM |
+| CVE监控 | [CRA: Trivy + Grype + OSV-Scanner](https://cra.docs.bauer-group.com/zh/vulnerability-management/) | 基础设施扫描器（网络、服务器） |
+| SBOM | [CRA: CycloneDX生成 + Cosign签名](https://cra.docs.bauer-group.com/zh/sbom-signing/) | 引用CRA SBOM |
 | 补丁管理 | CRA: 产品更新 | NIS2: 基础设施补丁（操作系统、固件） |
-| 信息披露 | [CRA: ENISA报告](https://cra.docs.bauer-group.com/de/incident-response/enisa-reporting) | NIS2: BSI报告 |
+| 信息披露 | [CRA: ENISA报告](https://cra.docs.bauer-group.com/zh/incident-response/enisa-reporting) | NIS2: BSI报告 |
 
 ### 报告义务 (第2项 / §32)
 
@@ -48,7 +48,7 @@ BAUER GROUP受三项互补的欧盟网络安全法规约束。为避免重复工
 
 | 方面 | CRA流程 | NIS2补充 |
 |--------|------------|----------------|
-| 软件依赖 | [CRA: 依赖策略 + SBOM](https://cra.docs.bauer-group.com/de/supply-chain/) | 引用CRA |
+| 软件依赖 | [CRA: 依赖策略 + SBOM](https://cra.docs.bauer-group.com/zh/supply-chain/) | 引用CRA |
 | 服务提供商 | — | NIS2: 托管、云、支持合作伙伴 |
 | 审计权 | CRA: 供应商审计 | NIS2: 服务商审计 |
 

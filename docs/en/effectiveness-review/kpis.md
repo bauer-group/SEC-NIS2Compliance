@@ -42,7 +42,7 @@
 | Management training | Management has completed cybersecurity training | Yes | Annually |
 | Phishing click rate | % of employees clicking on simulated phishing | < 5% | Semi-annually |
 
-## Reporting Structure
+## Reporting
 
 | Report | Content | Recipient | Interval |
 |--------|---------|-----------|----------|

@@ -1,7 +1,7 @@
 # Secure Communication
 
 ::: info LEGAL BASIS
-**§30(2) No. 10 BSIG** -- Secured voice, video and text communication, and secured emergency communication systems where appropriate within the entity
+**§30(2) No. 10 BSIG** – Secured voice, video and text communication, and secured emergency communication systems where appropriate within the entity
 :::
 
 ## Communication Channels
@@ -26,7 +26,7 @@
 | **MTA-STS** | Enforced TLS for incoming emails | Prevents downgrade attacks |
 | **DANE/TLSA** | DNS-based certificate binding | Additional TLS verification |
 
-### Handling Classified Data via Email
+### Handling Confidential Data via Email
 
 | Classification | Permitted via email? | Additional measures |
 |---------------|---------------------|---------------------|

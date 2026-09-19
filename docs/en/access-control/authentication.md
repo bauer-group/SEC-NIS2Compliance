@@ -6,10 +6,10 @@
 
 | Access Type | MFA Required | Preferred Method |
 |------------|-------------|-----------------|
-| External access (VPN, portals) | Yes -- mandatory | FIDO2 / WebAuthn |
-| Administrative system access | Yes -- mandatory | FIDO2 / TOTP |
-| Cloud services / SaaS | Yes -- mandatory | TOTP / FIDO2 |
-| Email access | Yes -- mandatory | TOTP / FIDO2 |
+| External access (VPN, portals) | Yes – no exceptions | FIDO2 / WebAuthn |
+| Administrative system access | Yes – no exceptions | FIDO2 / TOTP |
+| Cloud services / SaaS | Yes – no exceptions | TOTP / FIDO2 |
+| Email access | Yes – no exceptions | TOTP / FIDO2 |
 | Internal applications (LAN) | Risk-based | TOTP (if required) |
 
 ### MFA Methods (Ranking)
@@ -19,7 +19,7 @@
 | **FIDO2 / WebAuthn** | Highest (phishing-resistant) | Preferred for all access |
 | **TOTP (Authenticator app)** | High | Standard alternative |
 | **Push notification** | Medium | Only with number matching |
-| **SMS OTP** | Low -- **not permitted** | Not allowed (SIM swapping risk) |
+| **SMS OTP** | Low – **not permitted** | Not allowed (SIM swapping risk) |
 
 ### MFA Exceptions
 

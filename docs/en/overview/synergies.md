@@ -2,7 +2,7 @@
 
 ## Fundamental Principle
 
-The BAUER GROUP is subject to three complementary EU cybersecurity regulations. To avoid duplication of effort and minimize internal compliance overhead, synergies are leveraged systematically: existing processes from CRA and AI Act compliance are referenced for NIS2 purposes, not duplicated.
+BAUER GROUP is subject to three complementary EU cybersecurity regulations. To avoid duplication of effort and minimize internal compliance overhead, synergies are leveraged systematically: existing processes from CRA and AI Act compliance are referenced for NIS2 purposes, not duplicated.
 
 ## Synergy Overview
 

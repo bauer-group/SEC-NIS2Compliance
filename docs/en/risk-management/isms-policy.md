@@ -32,7 +32,7 @@ The Information Security Policy applies to:
 | **All Employees** | Adherence to policies, reporting of violations |
 
 ::: info §38 BSIG – MANAGEMENT OBLIGATIONS
-Executive management must approve cybersecurity risk management measures and oversee their implementation. They are personally liable for breaches and are required to undergo regular cybersecurity training.
+Executive management must implement the risk management measures per §30 and supervise their implementation (§38(1) BSIG); according to the explanatory memorandum, it must first approve them as appropriate. Members of management who breach these duties are liable to their entity for culpably caused damage under the company law of its legal form (§38(2) BSIG), and they must regularly participate in cybersecurity training (§38(3) BSIG). Details: [Management Duties](/en/governance/management-duties).
 :::
 
 ## Review Cycle

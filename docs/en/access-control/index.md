@@ -70,6 +70,8 @@ Preferred MFA methods: hardware tokens (FIDO2/WebAuthn), authenticator app (TOTP
 
 ### Emergency Communication
 
+In the event that primary communication channels are compromised or unavailable:
+
 - Predefined fallback communication channels (phone, alternative messenger)
 - Current contact lists of key personnel available offline
 - Regular verification of reachability

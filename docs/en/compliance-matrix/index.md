@@ -42,7 +42,7 @@ The **Last Effectiveness Review** column documents the evidence required under �
 
 | NIS2 Measure | CRA Documentation | Synergy |
 |-------------|-------------------|---------|
-| No. 2 – Incidents | [CRA Incident Response](https://cra.docs.bauer-group.com/en/incident-response/) | Product incidents via CRA, operational incidents via NIS2 |
+| No. 2 – Incident management | [CRA Incident Response](https://cra.docs.bauer-group.com/en/incident-response/) | Product incidents via CRA, operational incidents via NIS2 |
 | No. 4 – Supply chain | [CRA Supply Chain](https://cra.docs.bauer-group.com/en/supply-chain/) | Software supply chain via CRA, service providers via NIS2 |
 | No. 5 – Vulnerabilities | [CRA Vulnerability Management](https://cra.docs.bauer-group.com/en/vulnerability-management/) | Product CVEs via CRA, infra CVEs via NIS2 |
 | No. 5 – SBOM | [CRA SBOM & Signing](https://cra.docs.bauer-group.com/en/sbom-signing/) | SBOM generation and signing via CRA |

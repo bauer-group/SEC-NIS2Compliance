@@ -10,6 +10,8 @@ BAUER GROUP operates an Information Security Management System (ISMS) covering t
 
 ## Systematic Risk Analysis
 
+The risk analysis follows a standardized process:
+
 | Step | Description | Interval |
 |------|-------------|----------|
 | Asset identification | Recording of all critical systems, data and processes | Ongoing |
@@ -38,6 +40,8 @@ All IT systems, components and processes are recorded in a central inventory:
 - **Cloud services** – External services with provider, location and contract status
 
 ## Standards Orientation
+
+Implementation is guided by:
 
 - **ISO/IEC 27001:2022** – Information security management systems
 - **BSI IT-Grundschutz** – Methodological framework for risk analysis

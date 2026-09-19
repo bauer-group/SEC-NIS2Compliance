@@ -6,6 +6,8 @@
 
 ## Annual Security Review
 
+The effectiveness of the risk management measures is reviewed at least annually:
+
 | Review Area | Method | Responsible |
 |-------------|--------|-------------|
 | Risk analysis | Update of risk assessment | ISO |
@@ -32,6 +34,8 @@
 - **Result utilization** – Findings feed into risk analysis and action planning
 
 ## PDCA Cycle
+
+Continuous improvement follows the Plan-Do-Check-Act cycle:
 
 | Phase | Activity |
 |-------|----------|

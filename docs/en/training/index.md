@@ -1,7 +1,7 @@
 # Training & Awareness
 
 ::: info LEGAL BASIS
-**§30(2) No. 7 BSIG** – Basic cyber hygiene practices and information security training
+**§30(2) No. 7 BSIG** – Basic cyber hygiene procedures and training in information technology security
 
 **§38(3) BSIG** – Management must regularly participate in training.
 :::
@@ -22,7 +22,7 @@
 
 | Target Group | Additional Content |
 |-------------|-------------------|
-| **Management** | NIS2 obligations per §38, liability, governance (mandatory) |
+| **Management** | NIS2 obligations per §38, liability, governance (mandatory training) |
 | **IT administration** | Secure system operation, patch management, logging |
 | **Software development** | Secure coding, OWASP Top 10, supply chain security |
 | **Project management** | Security requirements in projects, risk assessment |
@@ -42,5 +42,5 @@ New employees receive before system access:
 - Annual evaluation of completion rates as KPI
 
 ::: tip AI Act Synergy
-The AI competence program (Art. 4 AI Act) complements NIS2 training obligations. Details in the [AI Act Compliance Documentation](https://ai-act.docs.bauer-group.com/en/governance/).
+The AI literacy program (Art. 4 AI Act) complements NIS2 training obligations. Details in the [AI Act Compliance Documentation](https://ai-act.docs.bauer-group.com/en/governance/).
 :::

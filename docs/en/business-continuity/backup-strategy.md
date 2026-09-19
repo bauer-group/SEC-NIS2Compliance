@@ -21,7 +21,7 @@
 | **Key material** | Encrypted vault | Offline copy | Yes (physically separated) | AES-256 + passphrase | Lifetime of the key |
 
 ::: tip 3-2-1 RULE
-Maintain at least **3** copies of data, on **2** different media types, with **1** copy stored offsite. This principle is the foundation for resilient data protection per §30(2) No. 3 BSIG.
+Maintain at least **3** copies of data, on **2** different media types, with **1** copy stored offsite. This principle is the basis of BAUER GROUP's backup management under §30(2) No. 3 BSIG.
 :::
 
 ## Restore Verification

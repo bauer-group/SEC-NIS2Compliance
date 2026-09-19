@@ -26,7 +26,7 @@ Documents mandatory training under §30(2) No. 7 BSIG and management training un
 
 ## Learning Objectives
 
-- [ ] Recognising phishing emails
+- [ ] Recognizing phishing emails
 - [ ] Secure handling of passwords and MFA
 - [ ] Reporting paths for security incidents
 - [ ] Data classification and secure data handling
