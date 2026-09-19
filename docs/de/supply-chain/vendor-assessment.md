@@ -23,10 +23,12 @@
 | Subunternehmer-Transparenz | 10% | 0–3 (keine Info / Liste / Genehmigungspflicht / vertraglich) |
 | Track Record | 15% | 0–3 (unbekannt / < 1 Jahr / 1–3 Jahre / > 3 Jahre) |
 
-**Mindestpunktzahl:** 12/18 für Standarddienstleister, 15/18 für kritische Dienstleister.
+**Gesamtwert:** Punktzahl je Kriterium × Gewichtung, aufsummiert – ergibt einen gewichteten Durchschnitt zwischen 0 und 3.
+
+**Mindestwert:** 2,0 für Standarddienstleister, 2,5 für kritische Dienstleister (entspricht 12/18 bzw. 15/18 Punkten, wenn alle Kriterien gleich gewichtet wären).
 
 ::: info BEWERTUNGSMETHODIK
-Jedes Kriterium wird mit 0 bis 3 Punkten bewertet, insgesamt sind höchstens 18 Punkte möglich. Dienstleister unterhalb der Mindestpunktzahl müssen ihr Sicherheitsniveau verbessern oder werden abgelehnt. Ausnahmen erfordern die Freigabe durch ISB und Geschäftsleitung mit dokumentierter Risikoakzeptanz.
+Jedes Kriterium wird mit 0 bis 3 Punkten bewertet und mit seiner Gewichtung multipliziert; die Summe ergibt den gewichteten Gesamtwert (0 bis 3). Fehlende Zertifizierungen (25 %) wirken sich dadurch stärker aus als fehlende Transparenz über Subunternehmer (10 %). Dienstleister unterhalb des Mindestwerts müssen ihr Sicherheitsniveau verbessern oder werden abgelehnt. Ausnahmen erfordern die Freigabe durch ISB und Geschäftsleitung mit dokumentierter Risikoakzeptanz.
 :::
 
 ### Wiederbewertung

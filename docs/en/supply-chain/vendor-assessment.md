@@ -23,10 +23,12 @@
 | Subcontractor transparency | 10% | 0-3 (no info / list / approval required / contractual) |
 | Track record | 15% | 0-3 (unknown / < 1 year / 1-3 years / > 3 years) |
 
-**Minimum scores:** 12/18 for standard vendors, 15/18 for critical vendors.
+**Total score:** score per criterion × weight, summed up – results in a weighted average between 0 and 3.
+
+**Minimum score:** 2.0 for standard vendors, 2.5 for critical vendors (equivalent to 12/18 and 15/18 points respectively if all criteria were weighted equally).
 
 ::: info SCORING METHODOLOGY
-Each criterion is scored from 0 to 3, for a maximum of 18 points. Vendors below the minimum score must either improve their security posture or be rejected. Exceptions require CISO and executive management approval with documented risk acceptance.
+Each criterion is scored from 0 to 3 and multiplied by its weight; the sum gives the weighted total score (0 to 3). Missing certifications (25%) therefore have a greater impact than a lack of transparency about subcontractors (10%). Vendors below the minimum score must either improve their security posture or be rejected. Exceptions require CISO and executive management approval with documented risk acceptance.
 :::
 
 ### Reassessment Intervals
